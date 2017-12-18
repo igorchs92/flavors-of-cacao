@@ -78,16 +78,16 @@
             <div class="row">
                 <div class="column">
                     <h2 class="section-heading">Rating comparison between countries</h2>
-                    <p>Rating comparison between
-                        <select class="small inline">
-                            <option>France</option>
-                            <option>U.S.A.</option>
-                        </select>and
-                        <select class="small inline">
-                            <option>Germany</option>
-                            <option>U.S.A.</option>
-                        </select>.
-                    </p>
+                        <div class="data-exploration-select">Rating comparison between
+                            <select class="small inline select-left">
+                                <option>France</option>
+                                <option>U.S.A.</option>
+                            </select>and
+                            <select class="small inline select-right">
+                                <option>Germany</option>
+                                <option>U.S.A.</option>
+                            </select>.
+                        </div>
                     <div id="data-exploration"></div>
                 </div>
             </div>
@@ -108,6 +108,43 @@
         $(document).ready(function () {
             $('select:not(.ignore)').niceSelect();
             FastClick.attach(document.body);
+            d3.csv("data/flavors-of-cacao.csv", function (error, data) {
+                $(".data-exploration-select").on('change', 'select', function() {
+                    var left = $(".select-left").val(),
+                        right = $(".select-right").val();
+                    charts.beeswarm({
+                        width: 960,
+                        height: 400,
+                        data: data,
+                        selector: "#data-exploration",
+                        y_axis: {
+                            title: "rating",
+                            select: function (entry) {
+                                return entry.rating;
+                            }
+                        },
+                        x_axis: {
+                            title: "country",
+                            select: function (entry) {
+                                return entry.companyLocation;
+                            },
+                            left: {
+                                title: left,
+                                filter: function (key) {
+                                    return key === left
+                                }
+                            },
+                            right: {
+                                title: right,
+                                filter: function (key) {
+                                    return key === right
+                                }
+                            }
+                        }
+                    }).draw()
+                }).trigger("change");
+
+            });
         });
     </script>
 

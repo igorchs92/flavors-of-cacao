@@ -394,8 +394,44 @@ charts.beeswarm = function (chart) {
             //drawFooter();
 
 
-            // console.debug(values);
+            console.debug(values);
         }
+
+
     };
 }
 ;
+
+
+d3.csv("data/flavors-of-cacao.csv", function (error, data) {
+    charts.beeswarm({
+        width: 960,
+        height: 400,
+        data: data,
+        selector: "#data-exploration",
+        y_axis: {
+            title: "rating",
+            select: function (entry) {
+                return entry.rating;
+            }
+        },
+        x_axis: {
+            title: "country",
+            select: function (entry) {
+                return entry.companyLocation;
+            },
+            left: {
+                title: "France",
+                filter: function (key) {
+                    return key === "France";
+                }
+            },
+            right: {
+                title: "U.S.A.",
+                filter: function (key) {
+                    return key === "U.S.A.";
+                }
+            }
+        }
+    }).draw()
+});

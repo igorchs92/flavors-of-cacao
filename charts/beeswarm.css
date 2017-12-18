@@ -1,6 +1,7 @@
 #data-exploration svg {
-    border-radius: 25px;
-    background-color: #f9f9f9;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    background-color: transparent;
 }
 
 #data-exploration text {
@@ -83,72 +84,3 @@
     border-radius: 3px;
     pointer-events: none;
 }
-
-
-/*text {*/
-    /*fill: #000000;*/
-/*}*/
-/*text.tiny {*/
-    /*font-size: 10pt;*/
-/*}*/
-/*text.light {*/
-    /*fill: #333*/
-/*}*/
-/*.text-background {*/
-    /*fill: rgb(250,250,250);*/
-    /*stroke: rgb(250,250,250);*/
-    /*stroke-width: 3px;*/
-/*}*/
-
-/*line {*/
-    /*animation: slideInDown 1s;*/
-    /*stroke: lightgrey;*/
-/*}*/
-
-/*#axis-container text {*/
-    /*font-size: 9pt;*/
-/*}*/
-
-/*.left {*/
-    /*stroke: blue;*/
-/*}*/
-/*.right {*/
-    /*stroke: red;*/
-
-/*}*/
-
-/*.France {*/
-    /*stroke: blue;*/
-/*}*/
-/*.Germany {*/
-    /*stroke: red;*/
-/*}*/
-
-/*circle {*/
-    /*fill: transparent;*/
-    /*stroke: transparent;*/
-/*}*/
-/*circle.France {*/
-    /*fill: lightBlue;*/
-/*}*/
-/*circle.Germany {*/
-    /*fill: pink;*/
-/*}*/
-
-/*.slope {*/
-    /*stroke: grey;*/
-/*}*/
-
-/*div.tooltip {*/
-    /*position: absolute;*/
-    /*text-align: center;*/
-    /*width: 60px;*/
-    /*height: 14px;*/
-    /*padding: 2px;*/
-    /*font: 12px sans-serif;*/
-    /*background: rgb(250,250,250);*/
-    /*color: grey;*/
-    /*border: 1px solid grey;*/
-    /*border-radius: 3px;*/
-    /*pointer-events: none;*/
-/*}*/
