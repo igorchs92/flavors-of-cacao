@@ -23,7 +23,7 @@
 }
 
 #data-exploration line {
-    animation: slideInUp 750ms;
+    animation: fadeInUpBig 300ms;
     stroke: lightgrey;
 }
 
@@ -54,7 +54,7 @@
 }
 
 #data-exploration circle {
-    animation: fadeIn 1750ms;
+    animation: fadeIn 250ms;
     fill: transparent;
     stroke: transparent;
 }

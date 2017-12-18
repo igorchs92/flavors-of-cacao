@@ -227,7 +227,7 @@ charts.beeswarm = function (chart) {
                     .attr("r", radius);
                 //colored, sized, circle
                 circles.append("circle").attr("r", function (d) {
-                    return scalePow(3);
+                    return scalePow(3.75);
                 }).attr("class", function (d) {
                     return d.datum.cname;
                 }).on("mouseover", function (d) {
@@ -353,7 +353,7 @@ charts.beeswarm = function (chart) {
                 var tMedian = medianContainer.append("g")
                     .attr("id", "right-median")
                     .classed("median", true)
-                    .attr("transform", "translate(" + [0, scaleLinear(values.right.median)] + ")")
+                    .attr("transform", "translate(" + [0, scaleLinear(values.right.median)] + ")");
                 tMedian.append("line")
                     .classed("right", true)
                     .attr("x1", space.slope)
