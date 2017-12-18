@@ -1,0 +1,1796 @@
+﻿bean type;broad bean origin;year;cacao percentage;company location;company;Number of Records;reference;rating;review year;specific bean origin
+;Sao Tome;1-1-2016 00:00:00;1;France;A. Morin;1;1876;3,75;2016;Agua Grande
+;Togo;1-1-2015 00:00:00;1;France;A. Morin;1;1676;2,75;2015;Kpime
+;Togo;1-1-2015 00:00:00;1;France;A. Morin;1;1676;3;2015;Atsane
+;Togo;1-1-2015 00:00:00;1;France;A. Morin;1;1680;3,5;2015;Akata
+;Peru;1-1-2015 00:00:00;1;France;A. Morin;1;1704;3,5;2015;Quilla
+Criollo;Venezuela;1-1-2014 00:00:00;1;France;A. Morin;1;1315;2,75;2014;Carenero
+;Cuba;1-1-2014 00:00:00;1;France;A. Morin;1;1315;3,5;2014;Cuba
+Criollo;Venezuela;1-1-2014 00:00:00;1;France;A. Morin;1;1315;3,5;2014;Sur del Lago
+Criollo;Venezuela;1-1-2014 00:00:00;1;France;A. Morin;1;1319;3,75;2014;Puerto Cabello
+;Peru;1-1-2014 00:00:00;1;France;A. Morin;1;1319;4;2014;Pablino
+;Panama;1-1-2013 00:00:00;1;France;A. Morin;1;1011;2,75;2013;Panama
+Criollo;Madagascar;1-1-2013 00:00:00;1;France;A. Morin;1;1011;3;2013;Madagascar
+;Brazil;1-1-2013 00:00:00;1;France;A. Morin;1;1011;3,25;2013;Brazil
+;Ecuador;1-1-2013 00:00:00;1;France;A. Morin;1;1011;3,75;2013;Equateur
+;Colombia;1-1-2013 00:00:00;1;France;A. Morin;1;1015;2,75;2013;Colombie
+;Burma;1-1-2013 00:00:00;1;France;A. Morin;1;1015;3;2013;Birmanie
+;Papua New Guinea;1-1-2013 00:00:00;1;France;A. Morin;1;1015;3,25;2013;Papua New Guinea
+Trinitario;Venezuela;1-1-2013 00:00:00;1;France;A. Morin;1;1015;4;2013;Chuao
+;Peru;1-1-2013 00:00:00;1;France;A. Morin;1;1019;3,25;2013;Piura
+;Peru;1-1-2013 00:00:00;1;France;A. Morin;1;1019;3,5;2013;Chanchamayo Province
+;Peru;1-1-2013 00:00:00;1;France;A. Morin;1;1019;4;2013;Chanchamayo Province
+;Bolivia;1-1-2012 00:00:00;1;France;A. Morin;1;797;3,5;2012;Bolivia
+;Peru;1-1-2012 00:00:00;1;France;A. Morin;1;797;3,75;2012;Peru
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Acalli;1;1462;3,75;2015;Chulucanas, El Platanal
+Criollo;Peru;1-1-2015 00:00:00;1;U.S.A.;Acalli;1;1470;3,75;2015;Tumbes, Norandino
+Trinitario;Fiji;1-1-2011 00:00:00;1;Fiji;Adi;1;705;2,75;2011;Vanua Levu
+Trinitario;Fiji;1-1-2011 00:00:00;1;Fiji;Adi;1;705;3,25;2011;Vanua Levu, Toto-A
+Trinitario;Fiji;1-1-2011 00:00:00;1;Fiji;Adi;1;705;3,5;2011;Vanua Levu
+Trinitario;Fiji;1-1-2011 00:00:00;1;Fiji;Adi;1;705;3,5;2011;Vanua Levu, Ami-Ami-CA
+Forastero (Arriba);Ecuador;1-1-2009 00:00:00;1;Ecuador;Aequare (Gianduja);1;370;2,75;2009;Los Rios, Quevedo, Arriba
+Forastero (Arriba);Ecuador;1-1-2009 00:00:00;1;Ecuador;Aequare (Gianduja);1;370;3;2009;Los Rios, Quevedo, Arriba
+Criollo;Mexico;1-1-2009 00:00:00;1;Mexico;Ah Cacao;1;316;3;2009;Tabasco
+Trinitario;Indonesia;1-1-2011 00:00:00;1;Switzerland;Akesson's (Pralus);1;636;3,75;2011;Bali (west), Sukrama Family, Melaya area
+Criollo;Madagascar;1-1-2010 00:00:00;1;Switzerland;Akesson's (Pralus);1;502;2,75;2010;Madagascar, Ambolikapiky P.
+Forastero;Brazil;1-1-2010 00:00:00;1;Switzerland;Akesson's (Pralus);1;508;2,75;2010;Monte Alegre, D. Badero
+Trinitario;Trinidad;1-1-2014 00:00:00;1;France;Alain Ducasse;1;1215;2,75;2014;Trinite
+Trinitario;Vietnam;1-1-2014 00:00:00;1;France;Alain Ducasse;1;1215;2,75;2014;Vietnam
+Trinitario;Madagascar;1-1-2014 00:00:00;1;France;Alain Ducasse;1;1215;3;2014;Madagascar
+Trinitario;Venezuela;1-1-2013 00:00:00;1;France;Alain Ducasse;1;1061;2,5;2013;Chuao
+;Peru;1-1-2013 00:00:00;1;France;Alain Ducasse;1;1173;2,5;2013;Piura, Perou
+Forastero (Nacional);Ecuador;1-1-2017 00:00:00;1;Netherlands;Alexandre;1;1944;3,5;2017;Winak Coop, Napo
+Criollo, Trinitario;Nicaragua;1-1-2017 00:00:00;1;Netherlands;Alexandre;1;1944;3,5;2017;La Dalia, Matagalpa
+Trinitario;Vietnam;1-1-2017 00:00:00;1;Netherlands;Alexandre;1;1944;3,5;2017;Tien Giang
+Forastero;Tanzania;1-1-2017 00:00:00;1;Netherlands;Alexandre;1;1944;3,5;2017;Makwale Village, Kyela
+;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1728;2,75;2016;Momotombo
+;Peru;1-1-2016 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1728;3;2016;Acopagro
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1732;2,5;2016;CIAAB Coop
+;Peru;1-1-2016 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1732;2,5;2016;Villa Andina
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1732;2,75;2016;Gruppo Salinas
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1125;2,5;2013;Sur del Lago
+Trinitario;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1125;3;2013;Conacado
+;Bolivia;1-1-2013 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1129;3,25;2013;Bolivia
+;Bolivia;1-1-2013 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1133;3;2013;Bolivia
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Altus aka Cao Artisan;1;1133;3,25;2013;Peru
+;Papua New Guinea;1-1-2011 00:00:00;1;U.S.A.;Amano;1;725;4;2011;Morobe
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;Amano;1;470;3,75;2010;Dos Rios
+;Ecuador;1-1-2010 00:00:00;1;U.S.A.;Amano;1;470;4;2010;Guayas
+Trinitario;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Amano;1;544;3;2010;Chuao
+;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Amano;1;363;3;2009;Montanya
+;Indonesia;1-1-2008 00:00:00;1;U.S.A.;Amano;1;304;2,75;2008;Bali, Jembrana
+Trinitario;Madagascar;1-1-2007 00:00:00;1;U.S.A.;Amano;1;129;3,5;2007;Madagascar
+;Venezuela;1-1-2007 00:00:00;1;U.S.A.;Amano;1;147;3;2007;Cuyagua
+Criollo;Venezuela;1-1-2007 00:00:00;1;U.S.A.;Amano;1;175;3,75;2007;Ocumare
+Forastero;Ghana;1-1-2009 00:00:00;1;Spain;Amatller (Simon Coll);1;322;3;2009;Ghana
+;Ecuador;1-1-2009 00:00:00;1;Spain;Amatller (Simon Coll);1;327;2,75;2009;Ecuador
+;Ecuador;1-1-2009 00:00:00;1;Spain;Amatller (Simon Coll);1;464;2,75;2009;Ecuador
+Forastero;Ghana;1-1-2009 00:00:00;1;Spain;Amatller (Simon Coll);1;464;3;2009;Ghana
+;Peru;1-1-2013 00:00:00;1;Peru;Amazona;1;1145;3,25;2013;LamasdelChanka, San Martin, Oro Verde coop
+Trinitario;Peru;1-1-2013 00:00:00;1;Peru;Amazona;1;1145;3,5;2013;Bellavista Gran Pajeten, San Martin
+Trinitario;Belize;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1494;3;2015;Belize
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1494;3,25;2015;Madagascar
+;Dominican Republic;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1498;3,25;2015;Dominican Republic
+;Papua New Guinea;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1498;3,25;2015;Papua New Guinea
+;Venezuela;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1498;3,25;2015;Venezuela
+;Peru;1-1-2015 00:00:00;1;Canada;Ambrosia;1;1498;3,5;2015;Peru
+;Peru;1-1-2012 00:00:00;1;Italy;Amedei;1;979;3,75;2012;Piura, Blanco de Criollo
+Criollo (Porcelana);Venezuela;1-1-2007 00:00:00;1;Italy;Amedei;1;111;4;2007;Porcelana
+Blend;;1-1-2007 00:00:00;1;Italy;Amedei;1;111;4;2007;Nine
+Trinitario;Venezuela;1-1-2007 00:00:00;1;Italy;Amedei;1;111;5;2007;Chuao
+Trinitario;Ecuador;1-1-2007 00:00:00;1;Italy;Amedei;1;123;3;2007;Ecuador
+Trinitario;Jamaica;1-1-2007 00:00:00;1;Italy;Amedei;1;123;3;2007;Jamaica
+Trinitario;Grenada;1-1-2007 00:00:00;1;Italy;Amedei;1;123;3,5;2007;Grenada
+Trinitario (85% Criollo);Venezuela;1-1-2007 00:00:00;1;Italy;Amedei;1;123;3,75;2007;Venezuela
+Trinitario (85% Criollo);Madagascar;1-1-2007 00:00:00;1;Italy;Amedei;1;123;4;2007;Madagascar
+Trinitario;Trinidad;1-1-2007 00:00:00;1;Italy;Amedei;1;129;3,5;2007;Trinidad
+Blend;;1-1-2007 00:00:00;1;Italy;Amedei;1;170;3,5;2007;Toscano Black
+Blend;;1-1-2006 00:00:00;1;Italy;Amedei;1;40;5;2006;Toscano Black
+Blend;;1-1-2006 00:00:00;1;Italy;Amedei;1;75;4;2006;Toscano Black
+Forastero (Catongo);Brazil;1-1-2013 00:00:00;1;Brazil;AMMA;1;1065;3,25;2013;Catongo
+Forastero (Parazinho);Brazil;1-1-2010 00:00:00;1;Brazil;AMMA;1;572;2,75;2010;Monte Alegre, 3 diff. plantations
+Forastero (Parazinho);Brazil;1-1-2010 00:00:00;1;Brazil;AMMA;1;572;3,75;2010;Monte Alegre, 3 diff. plantations
+Forastero (Parazinho);Brazil;1-1-2010 00:00:00;1;Brazil;AMMA;1;572;3,75;2010;Monte Alegre, 3 diff. plantations
+Forastero (Parazinho);Brazil;1-1-2010 00:00:00;1;Brazil;AMMA;1;572;4;2010;Monte Alegre, 3 diff. plantations
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Anahata;1;1259;3;2014;Elvesia
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Animas;1;1852;3,5;2016;Alto Beni
+Trinitario;Madagascar;1-1-2014 00:00:00;1;France;Ara;1;1375;3;2014;Madagascar
+;Mexico;1-1-2014 00:00:00;1;France;Ara;1;1379;2,5;2014;Chiapas
+;Ecuador;1-1-2014 00:00:00;1;France;Ara;1;1379;2,75;2014;Equateur
+;Venezuela;1-1-2014 00:00:00;1;France;Ara;1;1379;3;2014;Trincheras
+Trinitario;Trinidad;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1724;3,5;2016;San Juan
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1724;3,75;2016;Kokoa Kamili
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1900;3,5;2016;Tien Giang
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1904;3,25;2016;Hacienda Victoria
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1904;3,25;2016;Costa Esmeraldas
+;Guatemala;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1904;3,5;2016;Lachua
+;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1904;3,75;2016;Rugoso
+;Honduras;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1908;3,5;2016;La Masica, FHIA
+;Costa Rica;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1908;4;2016;Coto Brus, Terciopelo
+Forastero (Nacional);Peru;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1924;4;2016;Phantom
+;Dominican Republic;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1928;3,75;2016;Elvesia
+;Fiji;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1928;3,25;2016;Matasawalevu
+;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Arete;1;1928;3,25;2016;Lam Dong
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1534;3,5;2015;Fazenda Camboa
+Forastero (Nacional);Peru;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1534;3,5;2015;Nacional
+Forastero (Nacional);Ecuador;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1534;3,75;2015;Puerto Quito, heirloom
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1598;3,5;2015;Oko Caribe
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1598;3,75;2015;Maya Mountain
+Criollo, Trinitario;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1598;4;2015;Chuno
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1602;2,75;2015;Fazenda Camboa
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1602;3,25;2015;Guatemala
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Arete;1;1602;3,5;2015;Camino Verde
+Trinitario;Trinidad;1-1-2013 00:00:00;1;U.K.;Artisan du Chocolat;1;1193;3,25;2013;Trinidad, Heritage, Limited ed.
+;Colombia;1-1-2012 00:00:00;1;U.K.;Artisan du Chocolat;1;947;3,75;2012;Colombia, Casa Luker
+;Haiti;1-1-2011 00:00:00;1;U.K.;Artisan du Chocolat;1;729;4;2011;Haiti
+;Panama;1-1-2011 00:00:00;1;U.K.;Artisan du Chocolat;1;745;2,75;2011;Panama
+;Venezuela;1-1-2010 00:00:00;1;U.K.;Artisan du Chocolat;1;486;1,75;2010;Venezuela
+Trinitario;Jamaica;1-1-2010 00:00:00;1;U.K.;Artisan du Chocolat;1;531;3,75;2010;Jamaica
+;Costa Rica;1-1-2010 00:00:00;1;U.K.;Artisan du Chocolat;1;600;3,25;2010;Costa Rica
+Trinitario;Vietnam;1-1-2010 00:00:00;1;U.K.;Artisan du Chocolat;1;600;3,25;2010;Ba Ria Vung Tau Province
+;Indonesia;1-1-2010 00:00:00;1;U.K.;Artisan du Chocolat;1;600;3,5;2010;Bali
+Criollo, Trinitario;Venezuela;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;355;2,5;2009;Ocumare, Venezuela
+Trinitario;Indonesia;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;355;2,75;2009;Java
+;Brazil;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;363;1,75;2009;Brazil Rio Doce
+Criollo, Trinitario;Madagascar;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;363;3;2009;Madagascar
+Criollo;Peru;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;363;3;2009;Peru
+Trinitario;Dominican Republic;1-1-2009 00:00:00;1;U.K.;Artisan du Chocolat;1;363;3,25;2009;Dominican Republic
+Forastero;Congo;1-1-2008 00:00:00;1;U.K.;Artisan du Chocolat;1;300;3,75;2008;Congo
+Trinitario;Colombia;1-1-2013 00:00:00;1;U.K.;Artisan du Chocolat (Casa Luker);1;1181;2,75;2013;Orinoqua Region, Arauca
+Trinitario;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Askinosie;1;1780;3,75;2016;Mababa
+Trinitario;Tanzania;1-1-2011 00:00:00;1;U.S.A.;Askinosie;1;647;3,75;2011;Tenende, Uwate
+Trinitario;Honduras;1-1-2011 00:00:00;1;U.S.A.;Askinosie;1;661;3,75;2011;Cortes
+Trinitario;Philippines;1-1-2009 00:00:00;1;U.S.A.;Askinosie;1;331;3,75;2009;Davao
+Trinitario;Mexico;1-1-2007 00:00:00;1;U.S.A.;Askinosie;1;141;2,5;2007;Xoconusco
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;U.S.A.;Askinosie;1;175;3;2007;San Jose del Tambo
+;;1-1-2015 00:00:00;1;Australia;Bahen & Co.;1;1474;3,25;2015;Houseblend
+;Papua New Guinea;1-1-2015 00:00:00;1;Australia;Bahen & Co.;1;1474;3,5;2015;Papua New Guinea
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Australia;Bahen & Co.;1;995;3;2012;Sambirano
+;Brazil;1-1-2012 00:00:00;1;Australia;Bahen & Co.;1;999;2,5;2012;Bahia
+Blend;;1-1-2012 00:00:00;1;Australia;Bahen & Co.;1;999;2,5;2012;Houseblend
+;Peru;1-1-2015 00:00:00;1;Peru;Bakau;1;1454;2,75;2015;Bambamarca, 2015
+;Peru;1-1-2015 00:00:00;1;Peru;Bakau;1;1454;3,5;2015;Huallabamba, 2015
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Bar Au Chocolat;1;1554;3,5;2015;Bahia
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Bar Au Chocolat;1;1295;4;2014;Maranon Canyon
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Bar Au Chocolat;1;983;3,25;2012;Duarte Province
+;Mexico;1-1-2012 00:00:00;1;U.S.A.;Bar Au Chocolat;1;983;3,5;2012;Chiapas
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Bar Au Chocolat;1;983;3,75;2012;Sambirano
+;Costa Rica;1-1-2012 00:00:00;1;Wales;Baravelli's;1;955;2,75;2012;single estate
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Batch;1;1840;3,5;2016;Dominican Republic, Batch 3
+;Brazil;1-1-2016 00:00:00;1;U.S.A.;Batch;1;1868;3,75;2016;Brazil
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Batch;1;1880;3,25;2016;Ecuador
+;Malaysia;1-1-2017 00:00:00;1;U.K.;Beau Cacao;1;1948;3;2017;Asajaya E, NW Borneo, b. #132/4500
+;Malaysia;1-1-2017 00:00:00;1;U.K.;Beau Cacao;1;1948;3,25;2017;Serian E., NW Borneo, b. #134/3800
+;Brazil;1-1-2016 00:00:00;1;U.S.A.;Beehive;1;1784;2,75;2016;Brazil, Batch 20316
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Beehive;1;1784;2,75;2016;Dominican Republic, Batch 31616
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Beehive;1;1784;2,75;2016;Ecuador, Batch 31516
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Beehive;1;1788;2,75;2016;Ecuador
+;Costa Rica;1-1-2010 00:00:00;1;Belgium;Belcolade;1;586;2,75;2010;Costa Rica
+;Papua New Guinea;1-1-2010 00:00:00;1;Belgium;Belcolade;1;586;2,75;2010;Papua New Guinea
+;Peru;1-1-2010 00:00:00;1;Belgium;Belcolade;1;586;2,75;2010;Peru
+;Ecuador;1-1-2010 00:00:00;1;Belgium;Belcolade;1;586;3,5;2010;Ecuador
+Criollo, Trinitario;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Bellflower;1;1800;3,5;2016;Kakao Kamili, Kilombero Valley
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Bellflower;1;1804;3,25;2016;Alto Beni, Palos Blanco
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Bellflower;1;1864;3,5;2016;Oko Caribe, Duarte P.
+Trinitario;Belize;1-1-2016 00:00:00;1;Germany;Belyzium;1;1768;2,75;2016;Belize south, low fermentation
+Trinitario;Belize;1-1-2016 00:00:00;1;Germany;Belyzium;1;1768;3;2016;Belize south
+Trinitario;Belize;1-1-2016 00:00:00;1;Germany;Belyzium;1;1768;3,5;2016;Belize south
+Trinitario;Cuba;1-1-2013 00:00:00;1;Belgium;Benoit Nihant;1;1141;3,5;2013;Baracoa
+Criollo;Venezuela;1-1-2013 00:00:00;1;Belgium;Benoit Nihant;1;1141;3,5;2013;Chuao
+Criollo;Venezuela;1-1-2013 00:00:00;1;Belgium;Benoit Nihant;1;1141;3,5;2013;Cuyagua Village
+Trinitario;Ecuador;1-1-2013 00:00:00;1;Belgium;Benoit Nihant;1;1141;4;2013;Rio Peripa H.
+Trinitario;Indonesia;1-1-2011 00:00:00;1;Belgium;Benoit Nihant;1;757;4;2011;Bali, Sukrama Bros. Farm, Melaya, 62hr C
+Trinitario;Madagascar;1-1-2011 00:00:00;1;Belgium;Benoit Nihant;1;773;3,75;2011;Somia Plantation, Sambirano, 70hr C
+;;1-1-2012 00:00:00;1;France;Bernachon;1;797;2,75;2012;Nature
+Trinitario;Madagascar;1-1-2011 00:00:00;1;Switzerland;Beschle (Felchlin);1;636;3;2011;Madagascar
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Beschle (Felchlin);1;636;3;2011;Maracaibo
+;Venezuela;1-1-2011 00:00:00;1;Switzerland;Beschle (Felchlin);1;636;3,5;2011;Indigena Amazonia, Grand Cru, Quizas
+;Ecuador;1-1-2011 00:00:00;1;Switzerland;Beschle (Felchlin);1;636;4;2011;Ecuador
+Trinitario;Venezuela;1-1-2010 00:00:00;1;Switzerland;Beschle (Felchlin);1;508;3,25;2010;Carenero S., Barlovento, Grand Cru
+Criollo (Porcelana);Venezuela;1-1-2010 00:00:00;1;Switzerland;Beschle (Felchlin);1;508;3,25;2010;Porcelana, Premier Cru, Quizas No. 1
+;Indonesia;1-1-2010 00:00:00;1;Switzerland;Beschle (Felchlin);1;508;3,5;2010;Java, Grand Cru
+;Venezuela;1-1-2010 00:00:00;1;Switzerland;Beschle (Felchlin);1;508;3,5;2010;Ocumare, Premier Cru, Quizas No. 2
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Bisou;1;1482;2,5;2015;Nicaragua, American style
+;Costa Rica;1-1-2015 00:00:00;1;U.S.A.;Bisou;1;1486;2,5;2015;San Andres, American style
+;Costa Rica;1-1-2015 00:00:00;1;U.S.A.;Bisou;1;1486;2,5;2015;San Andres, silk
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Bisou;1;1486;3,25;2015;Belize
+Forastero;Ghana;1-1-2012 00:00:00;1;U.S.A.;Bittersweet Origins;1;963;3,5;2012;Ghana
+;Indonesia;1-1-2010 00:00:00;1;U.S.A.;Bittersweet Origins;1;478;3,25;2010;Bali, Singaraja
+Blend;Dominican Rep., Bali;1-1-2010 00:00:00;1;U.S.A.;Bittersweet Origins;1;502;3,75;2010;2009 Hapa Nibby
+;Indonesia;1-1-2010 00:00:00;1;U.S.A.;Bittersweet Origins;1;558;2,75;2010;Bali, Singaraja
+Trinitario;Madagascar;1-1-2010 00:00:00;1;U.S.A.;Bittersweet Origins;1;565;3;2010;Sambirano, 2009
+Criollo;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Bittersweet Origins;1;565;3;2010;Ocumare, prototype
+;Dominican Republic;1-1-2009 00:00:00;1;U.S.A.;Bittersweet Origins;1;414;3;2009;Puerto Plata
+;Dominican Republic;1-1-2009 00:00:00;1;U.S.A.;Bittersweet Origins;1;414;3,5;2009;Puerto Plata
+Trinitario;Madagascar;1-1-2009 00:00:00;1;U.S.A.;Bittersweet Origins;1;423;3,25;2009;Sambirano
+Trinitario;Madagascar;1-1-2009 00:00:00;1;U.S.A.;Bittersweet Origins;1;431;3,5;2009;Sambirano
+Trinitario;Madagascar;1-1-2008 00:00:00;1;U.S.A.;Bittersweet Origins;1;233;3;2008;Sambirano
+;Panama;1-1-2008 00:00:00;1;U.S.A.;Bittersweet Origins;1;233;3,5;2008;Bocas del Toro
+;Dominican Republic;1-1-2008 00:00:00;1;U.S.A.;Bittersweet Origins;1;233;3,75;2008;Puerto Plata
+Forastero;Ghana;1-1-2008 00:00:00;1;U.S.A.;Bittersweet Origins;1;256;3;2008;Ankasa
+;Dominican Republic;1-1-2008 00:00:00;1;U.S.A.;Black Mountain;1;256;2,75;2008;La Red
+Trinitario;Venezuela;1-1-2008 00:00:00;1;U.S.A.;Black Mountain;1;256;2,75;2008;Carenero Superior
+;Nicaragua;1-1-2008 00:00:00;1;U.S.A.;Black Mountain;1;256;3;2008;Matiguas
+Trinitario;Jamaica;1-1-2014 00:00:00;1;U.K.;Black River (A. Morin);1;1331;2,75;2014;Blue Mountain Region
+Forastero;Congo;1-1-2013 00:00:00;1;Spain;Blanxart;1;1046;3,5;2013;Congo, Grand Cru
+;;1-1-2009 00:00:00;1;Spain;Blanxart;1;322;2,75;2009;Organic Dark
+Trinitario;Madagascar;1-1-2016 00:00:00;1;U.S.A.;Blue Bandana;1;1740;3,5;2016;Akesson's E., Sambirano V.
+;Guatemala;1-1-2016 00:00:00;1;U.S.A.;Blue Bandana;1;1752;2,75;2016;Lachua
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Blue Bandana;1;1752;3,5;2016;Kokoa Kamili
+;Dominican Republic;1-1-2016 00:00:00;1;U.S.A.;Blue Bandana;1;1756;3;2016;Zorzal Reserva
+;Guatemala;1-1-2012 00:00:00;1;U.S.A.;Blue Bandana;1;911;3,5;2012;Guatemala
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Blue Bandana;1;911;3,75;2012;Madagascar
+;Mexico;1-1-2016 00:00:00;1;France;Bonnat;1;1912;3,5;2016;Selva Maya
+;Brazil;1-1-2014 00:00:00;1;France;Bonnat;1;1339;4;2014;Kaori
+;Dominican Republic;1-1-2014 00:00:00;1;France;Bonnat;1;1418;3,25;2014;Los Colorados, Santo Domingo, Equateur
+;Venez,Africa,Brasil,Peru,Mex;1-1-2014 00:00:00;1;France;Bonnat;1;1418;3,75;2014;Surfin
+;Brazil;1-1-2013 00:00:00;1;France;Bonnat;1;1038;3,5;2013;Maragnam
+;Gabon;1-1-2013 00:00:00;1;France;Bonnat;1;1042;3,25;2013;Gabon
+Trinitario;Cuba;1-1-2011 00:00:00;1;France;Bonnat;1;629;3,5;2011;Cuba
+;Peru;1-1-2011 00:00:00;1;France;Bonnat;1;629;3,5;2011;Cusco, Cacao Cusco
+Forastero (Nacional);Peru;1-1-2011 00:00:00;1;France;Bonnat;1;629;3,5;2011;Piura Blanco
+;Brazil;1-1-2011 00:00:00;1;France;Bonnat;1;629;3,75;2011;Libanio
+;Haiti;1-1-2011 00:00:00;1;France;Bonnat;1;629;4;2011;Haiti
+Criollo;Madagascar;1-1-2011 00:00:00;1;France;Bonnat;1;629;4;2011;Madagascar, 100% criollo
+;Brazil;1-1-2011 00:00:00;1;France;Bonnat;1;672;3,5;2011;Juliana
+Trinitario;Jamaica;1-1-2011 00:00:00;1;France;Bonnat;1;761;3,25;2011;Jamaique
+;Ivory Coast;1-1-2009 00:00:00;1;France;Bonnat;1;331;3;2009;Ivory Coast
+Criollo;Peru;1-1-2009 00:00:00;1;France;Bonnat;1;336;2,75;2009;Porcelana, Apotequil
+Criollo;Mexico;1-1-2009 00:00:00;1;France;Bonnat;1;336;3;2009;Porcelana, Tabasco, Marfil de Blanco
+Criollo;Mexico;1-1-2009 00:00:00;1;France;Bonnat;1;395;3;2009;Xoconusco, cacao Real
+Criollo (Porcelana);Venezuela;1-1-2008 00:00:00;1;France;Bonnat;1;199;4;2008;Porcelana, Venezuela
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;France;Bonnat;1;123;2,5;2007;Equateur
+Trinitario;Carribean;1-1-2006 00:00:00;1;France;Bonnat;1;24;3,75;2006;Trinite
+;Venezuela;1-1-2006 00:00:00;1;France;Bonnat;1;32;4;2006;Ocumare, Puerto Cabello
+Criollo;Venezuela;1-1-2006 00:00:00;1;France;Bonnat;1;48;4;2006;Maracaibo, El Rosario
+Trinitario;Madagascar;1-1-2006 00:00:00;1;France;Bonnat;1;75;4;2006;Madagascar
+;;1-1-2006 00:00:00;1;France;Bonnat;1;81;1,5;2006;One Hundred
+;Sri Lanka;1-1-2006 00:00:00;1;France;Bonnat;1;81;3;2006;Ceylan
+Trinitario;Venezuela;1-1-2006 00:00:00;1;France;Bonnat;1;81;4;2006;Chuao
+Forastero (Arriba);Ecuador;1-1-2009 00:00:00;1;Ecuador;Bouga Cacao (Tulicorp);1;316;3,25;2009;El Oro, Hacienda de Oro
+Forastero (Arriba);Ecuador;1-1-2009 00:00:00;1;Ecuador;Bouga Cacao (Tulicorp);1;341;1,5;2009;El Oro, Hacienda de Oro
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Bowler Man;1;1267;2,75;2014;Maya Mountain
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Bowler Man;1;1271;2,75;2014;Conacado
+Criollo;Venezuela;1-1-2016 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1868;3,5;2016;Guasare, Zulia Prov.
+;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1868;3,75;2016;O'payo, Waslala
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1462;3,75;2015;Conacado
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1255;3,75;2014;Maya Mountain
+Trinitario;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1355;4;2014;Chuao
+Trinitario;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1125;3;2013;Cooproagro
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1125;3,25;2013;Camino Verde, Guayas
+Forastero;Ghana;1-1-2013 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1129;3,5;2013;Ghana
+Trinitario;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Brasstown aka It's Chocolate;1;1129;3,5;2013;Chuao, Mantuano blend
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1514;3;2015;Elvesia P.
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1514;3,25;2015;Elvesia P.
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1514;3,5;2015;Alta Verapaz, 2014
+;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1518;2,75;2015;Ambolikapiky P.
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1518;3,25;2015;Maya Mountain
+;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Brazen;1;1518;3,25;2015;Ambolikapkly P.
+Trinitario;Jamaica;1-1-2013 00:00:00;1;U.S.A.;Breeze Mill;1;1149;3;2013;Jamaica
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Australia;Bright;1;1231;3;2014;Somia Plantation
+;Dominican Republic;1-1-2014 00:00:00;1;Australia;Bright;1;1231;3,5;2014;Marabel Farms
+;Ecuador;1-1-2014 00:00:00;1;Australia;Bright;1;1231;3,5;2014;Camino Verde, Balao, Guayas
+Trinitario;Trinidad;1-1-2014 00:00:00;1;Australia;Bright;1;1235;2,75;2014;Gran Couva
+;Ecuador;1-1-2015 00:00:00;1;Russia;Britarev;1;1638;3,25;2015;Ecuador
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Bronx Grrl Chocolate;1;1181;2,75;2013;Dominican Republic
+Trinitario;Trinidad;1-1-2014 00:00:00;1;U.S.A.;Burnt Fork Bend;1;1299;3,25;2014;Trinidad
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Burnt Fork Bend;1;1299;3,5;2014;Mindo
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Burnt Fork Bend;1;1303;3,25;2014;Belize
+Blend;;1-1-2014 00:00:00;1;U.S.A.;Burnt Fork Bend;1;1303;3,25;2014;Blend
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Burnt Fork Bend;1;1323;2,5;2014;Ecuador, Bob Bar
+;Puerto Rico;1-1-2015 00:00:00;1;Puerto Rico;Cacao Arabuco;1;1606;2,5;2015;Puerto Rico
+Criollo;Peru;1-1-2014 00:00:00;1;U.S.A.;Cacao Atlanta;1;1215;2,5;2014;Tumbes
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;Cacao Atlanta;1;502;2,5;2010;"Dominican Republic, ""Love Bar"""
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;Cacao Atlanta;1;502;2,75;2010;Dominican Republic w/ nibs
+;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Cacao Atlanta;1;600;2,25;2010;Patanemo
+Trinitario, Criollo;Haiti;1-1-2016 00:00:00;1;France;Cacao Barry;1;1716;3,5;2016;Grand 'Anse
+;Dominican Republic;1-1-2010 00:00:00;1;France;Cacao Barry;1;586;3;2010;Santo Domingo
+;Tanzania;1-1-2008 00:00:00;1;France;Cacao Barry;1;300;2;2008;Tanzania
+;Venezuela;1-1-2007 00:00:00;1;France;Cacao Barry;1;141;2;2007;Venezuela
+;Mexico;1-1-2007 00:00:00;1;France;Cacao Barry;1;147;3;2007;Mexico
+Trinitario;Venezuela;1-1-2015 00:00:00;1;Venezuela;Cacao de Origen;1;1688;3,5;2015;Chuao
+Trinitario;Venezuela;1-1-2015 00:00:00;1;Venezuela;Cacao de Origen;1;1692;3,25;2015;Rio Caribe
+;Venezuela;1-1-2014 00:00:00;1;Venezuela;Cacao de Origen;1;1391;2,5;2014;"Agua Fria; Sucre region"
+;Venezuela;1-1-2014 00:00:00;1;Venezuela;Cacao de Origen;1;1391;3,25;2014;"Macuare; Miranda; Chloe formula"
+Trinitario;Venezuela;1-1-2014 00:00:00;1;Venezuela;Cacao de Origen;1;1391;3,5;2014;Chuao, Aragua region
+Trinitario;Venezuela;1-1-2014 00:00:00;1;Venezuela;Cacao de Origen;1;1395;3,75;2014;Chuao, Aragua region
+;Venezuela;1-1-2015 00:00:00;1;Venezuela;Cacao de Origin;1;1668;3,25;2015;Hacienda la Trinidad
+;Colombia;1-1-2016 00:00:00;1;Colombia;Cacao Hunters;1;1816;3,75;2016;Macondo
+;Colombia;1-1-2016 00:00:00;1;Colombia;Cacao Hunters;1;1816;3,75;2016;Perla Negra
+;Colombia;1-1-2015 00:00:00;1;Colombia;Cacao Hunters;1;1662;3,75;2015;Arhuacos
+;Colombia;1-1-2014 00:00:00;1;Colombia;Cacao Hunters;1;1430;3,5;2014;Sierra Nevada
+;Colombia;1-1-2014 00:00:00;1;Colombia;Cacao Hunters;1;1430;3,5;2014;Tumaco
+;Colombia;1-1-2014 00:00:00;1;Colombia;Cacao Hunters;1;1434;2,75;2014;Boyaca, Aprocampa Coop, Pauna
+;Colombia;1-1-2014 00:00:00;1;Colombia;Cacao Hunters;1;1434;3,25;2014;Arauca
+Trinitario;Honduras;1-1-2016 00:00:00;1;U.S.A.;Cacao Market;1;1860;3,5;2016;Jutiapa, lot 050916D
+Criollo;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Cacao Prieto;1;991;3,75;2012;Criollo, Dominican Republic
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Cacao Prieto;1;641;3;2011;Dominican Republicm, rustic
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Cacao Prieto;1;641;3,75;2011;Dominican Republic
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Cacao Prieto;1;647;3,25;2011;Dominican Republic, rustic
+Criollo;Congo;1-1-2016 00:00:00;1;Spain;Cacao Sampaka;1;1908;3,5;2016;Mahali, Kasai
+Trinitario;Madagascar;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;508;3,5;2010;Madagascar
+;Ecuador;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;523;3,75;2010;Ecuador
+;Papua New Guinea;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;523;4;2010;Papua
+Trinitario;Grenada;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;537;3,25;2010;Grenada
+;Venezuela;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;537;3,5;2010;Venezuela
+;Venezuela;1-1-2010 00:00:00;1;Spain;Cacao Sampaka;1;537;3,5;2010;Venezuela
+Criollo;Mexico;1-1-2009 00:00:00;1;Spain;Cacao Sampaka;1;336;4;2009;Porcelana, Tabasco, La Joya
+Criollo;Mexico;1-1-2009 00:00:00;1;Spain;Cacao Sampaka;1;346;4;2009;Xoconusco, Chiapas
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Japan;Cacao Store;1;1684;3;2015;Madagascar
+;Peru;1-1-2015 00:00:00;1;Japan;Cacao Store;1;1684;3,25;2015;Peru
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Japan;Cacao Store;1;1684;3,5;2015;Vietnam
+;Peru;1-1-2013 00:00:00;1;Peru;Cacaosuyo (Theobroma Inversiones);1;1173;3,25;2013;Piura
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Cacaoyere (Ecuatoriana);1;237;3,5;2008;Amazonia
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Cacaoyere (Ecuatoriana);1;237;3,5;2008;Esmeraldas
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Cacaoyere (Ecuatoriana);1;245;2,5;2008;Bolivar
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Cacaoyere (Ecuatoriana);1;259;1,5;2008;Pichincha
+Trinitario;Grenada;1-1-2008 00:00:00;1;Belgium;Callebaut;1;296;2,75;2008;Grenade
+;Ecuador;1-1-2007 00:00:00;1;Belgium;Callebaut;1;141;1;2007;Baking
+;Cuba;1-1-2014 00:00:00;1;Italy;C-Amaro;1;1442;2,5;2014;Cuba
+;Dominican Republic;1-1-2014 00:00:00;1;Italy;C-Amaro;1;1442;3;2014;Dominican Republic
+Blend;;1-1-2014 00:00:00;1;Italy;C-Amaro;1;1442;3,5;2014;Lago di Como, Blu
+;Ecuador;1-1-2013 00:00:00;1;Italy;C-Amaro;1;1185;3,5;2013;Ecuador
+;Venezuela;1-1-2012 00:00:00;1;Italy;C-Amaro;1;809;3;2012;Venezuela
+Forastero;Sao Tome;1-1-2011 00:00:00;1;Italy;C-Amaro;1;749;2,25;2011;Sao Tome
+Trinitario;Trinidad;1-1-2011 00:00:00;1;Italy;C-Amaro;1;765;2,5;2011;Trinidad
+Criollo;Venezuela;1-1-2016 00:00:00;1;U.S.A.;Cao;1;1804;2,5;2016;Porcelana
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Cao;1;1804;2,75;2016;Tanzania
+Criollo;Venezuela;1-1-2016 00:00:00;1;U.S.A.;Cao;1;1804;3;2016;Porcelana, Batch 5163
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Cao;1;1808;3;2016;Bolivia
+Trinitario;Brazil;1-1-2016 00:00:00;1;U.S.A.;Cao;1;1808;3,25;2016;Brazil
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;237;2;2008;Esmeraldas
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;237;2,5;2008;Manabi
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;245;2,75;2008;Los Rios
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;266;3;2008;Manabi
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;269;3,25;2008;Los Rios
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Caoni (Tulicorp);1;269;3,5;2008;Esmeraldas
+Trinitario;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Captain Pembleton;1;1263;3,5;2014;Saidor Estate, Madang P.
+;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Captain Pembleton;1;1263;3,75;2014;Kulili Estate
+;Guatemala;1-1-2015 00:00:00;1;Costa Rica;Caribeans;1;1582;3,5;2015;Antigua, Special Reserve
+;Costa Rica;1-1-2015 00:00:00;1;Costa Rica;Caribeans;1;1586;3,25;2015;Talamanca, Raul-Kekoldo community
+;Costa Rica;1-1-2015 00:00:00;1;Costa Rica;Caribeans;1;1586;3,5;2015;Anselmo Paraiso Estate
+Forastero;Costa Rica;1-1-2012 00:00:00;1;Costa Rica;Caribeans;1;841;3;2012;Costa Rica
+Forastero;Costa Rica;1-1-2012 00:00:00;1;Costa Rica;Caribeans;1;845;2,75;2012;Costa Rica
+Trinitario;Colombia;1-1-2016 00:00:00;1;Colombia;Carlotta Chocolat;1;1884;3;2016;Arauca
+Trinitario;Colombia;1-1-2016 00:00:00;1;Colombia;Carlotta Chocolat;1;1888;3,25;2016;Tumaco
+Trinitario;Colombia;1-1-2016 00:00:00;1;Colombia;Carlotta Chocolat;1;1888;3,25;2016;Cordoba
+Trinitario;Colombia;1-1-2016 00:00:00;1;Colombia;Carlotta Chocolat;1;1888;3,5;2016;Huila
+CCN51;Colombia;1-1-2016 00:00:00;1;Colombia;Carlotta Chocolat;1;1888;3,5;2016;Cesar
+Trinitario;Belize;1-1-2016 00:00:00;1;U.S.A.;Castronovo;1;1724;4;2016;Maya Mtn, Batch 454, Heirloom
+Trinitario;Honduras;1-1-2015 00:00:00;1;U.S.A.;Castronovo;1;1570;3,5;2015;the lost city, gracias a dias, batch 362
+Criollo, Trinitario;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Castronovo;1;1570;3,75;2015;Duarte, Batch 360
+;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Castronovo;1;1574;3,5;2015;Piaroa, Amazonas, Batch 350
+Criollo, Trinitario;Colombia;1-1-2014 00:00:00;1;U.S.A.;Castronovo;1;1347;3,5;2014;Sierra Nevada
+Criollo, Trinitario;Colombia;1-1-2014 00:00:00;1;U.S.A.;Castronovo;1;1371;3,5;2014;Arauca
+Trinitario;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Castronovo;1;1407;2,75;2014;Elvesia P.
+Trinitario;Bolivia;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1101;3;2013;Bolivia
+Trinitario;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1101;3,5;2013;Conacado
+Criollo;Peru;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1105;2,5;2013;San Martin
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1105;3,25;2013;Guaniamo, Amazonas
+Trinitario;Nicaragua;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1109;3,25;2013;Nicaragua
+Criollo;Peru;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1153;2,75;2013;Tumbes
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Castronovo;1;1153;3;2013;Guaniamo
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Cello;1;1247;2,5;2014;Ecuador
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Cello;1;1247;2,75;2014;Peru
+;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Cello;1;1251;2,75;2014;Venezuela
+;Bolivia;1-1-2014 00:00:00;1;U.S.A.;Cello;1;1251;3;2014;Bolivia
+;Ecuador;1-1-2009 00:00:00;1;France;Cemoi;1;404;2,75;2009;Equateur
+Forastero;Uganda;1-1-2014 00:00:00;1;Canada;Chaleur B;1;1426;2,75;2014;Uganda
+;Belize;1-1-2016 00:00:00;1;U.S.A.;Charm School;1;1900;3,25;2016;Maya Mtn
+Forastero (Arriba);Ecuador;1-1-2010 00:00:00;1;Ecuador;Chchukululu (Tulicorp);1;486;2,75;2010;Arriba
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Chchukululu (Tulicorp);1;252;3;2008;Los Rios
+;Costa Rica;1-1-2014 00:00:00;1;U.S.A.;Chequessett;1;1235;3,5;2014;la Amistad
+;;1-1-2011 00:00:00;1;France;Chloe Chocolat;1;672;3,5;2011;Blend No. 1
+;Ecuador;1-1-2015 00:00:00;1;U.K.;Chocablog;1;1454;3,25;2015;Ecuador
+Trinitario;Belize;1-1-2014 00:00:00;1;Germany;Choco Del Sol;1;1407;3;2014;Maya Mountain w/ nibs
+Trinitario;Belize;1-1-2014 00:00:00;1;Germany;Choco Del Sol;1;1407;3,25;2014;Maya Mountain
+Trinitario;Vietnam;1-1-2015 00:00:00;1;South Korea;Choco Dong;1;1696;2,75;2015;Mekong Delta, early 2014 Harvest
+Trinitario;Malaysia;1-1-2015 00:00:00;1;South Korea;Choco Dong;1;1696;3,5;2015;Tawau, Oct. 2015 Harvest
+Criollo;Peru;1-1-2015 00:00:00;1;U.K.;Chocolarder;1;1482;2,5;2015;Peru
+Criollo;Peru;1-1-2015 00:00:00;1;U.K.;Chocolarder;1;1482;2,75;2015;Peru + nibs
+;Dominican Republic;1-1-2015 00:00:00;1;U.K.;Chocolarder;1;1514;2,5;2015;Dominican Republic
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Chocola'te;1;647;3,75;2011;Madagascar
+;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Chocola'te;1;647;3,75;2011;Venezuela
+;Peru;1-1-2016 00:00:00;1;U.S.A.;Chocolate Alchemist-Philly;1;1772;2,5;2016;"Tumbes, ""Zarumilla"""
+;;1-1-2016 00:00:00;1;U.S.A.;Chocolate Alchemist-Philly;1;1772;2,5;2016;Philly Blend, 5 plantations
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1760;2,5;2016;Wild Bolivian
+;Uganda;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1760;2,75;2016;Uganda
+;Dominican Republic;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1764;3;2016;Dominican Republic
+;Dominican Republic;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1764;3;2016;Dominican Republic
+Criollo (Ocumare);Venezuela;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1764;3;2016;Ocumare
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1764;3,25;2016;Ecuador
+;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;Chocolate Con Amor;1;1768;2,75;2016;Nicaragua
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Chocolate Conspiracy;1;1259;2,75;2014;Peru
+Trinitario;Dominican Republic;1-1-2015 00:00:00;1;Amsterdam;Chocolate Makers;1;1530;3,25;2015;Tres Hombres
+Forastero;Congo;1-1-2015 00:00:00;1;Amsterdam;Chocolate Makers;1;1530;3,5;2015;Congo, Gorilla bar
+Criollo;Peru;1-1-2015 00:00:00;1;Amsterdam;Chocolate Makers;1;1530;3,75;2015;Peru, Awagum bar
+Forastero (Nacional);Peru;1-1-2015 00:00:00;1;Scotland;Chocolate Tree, The;1;1582;3,75;2015;Maranon
+Trinitario;Venezuela;1-1-2015 00:00:00;1;Scotland;Chocolate Tree, The;1;1582;3,75;2015;Carenero Superior
+Forastero (Nacional);Peru;1-1-2013 00:00:00;1;Scotland;Chocolate Tree, The;1;1121;3,75;2013;Peru
+Forastero (Arriba);Ecuador;1-1-2012 00:00:00;1;Scotland;Chocolate Tree, The;1;919;2,5;2012;Ecuador
+Criollo;Peru;1-1-2012 00:00:00;1;Scotland;Chocolate Tree, The;1;919;2,75;2012;Peru
+Criollo;Madagascar;1-1-2012 00:00:00;1;Scotland;Chocolate Tree, The;1;919;3,25;2012;Madagascar
+Criollo;Mexico;1-1-2014 00:00:00;1;Canada;Chocolats Privilege;1;1219;2,5;2014;Xoconusco
+Criollo;Venezuela;1-1-2015 00:00:00;1;Japan;ChocoReko;1;1454;3;2015;Patanemo
+;Mexico;1-1-2011 00:00:00;1;Canada;Chocosol;1;682;3,25;2011;Chiapas, Lacandon Jungle, Oaxacom Mtn
+Criollo;Mexico;1-1-2010 00:00:00;1;Spain;Chocovic;1;478;3,25;2010;Xoconusco
+Trinitario;Madagascar;1-1-2010 00:00:00;1;Spain;Chocovic;1;478;3,5;2010;Sambirano
+;;1-1-2009 00:00:00;1;Spain;Chocovic;1;439;3,25;2009;Kendari
+;;1-1-2009 00:00:00;1;Spain;Chocovic;1;439;3,25;2009;Tarakan
+Criollo;Venezuela;1-1-2008 00:00:00;1;Spain;Chocovic;1;209;3,5;2008;Ocumare
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Spain;Chocovic;1;117;2,5;2007;Bolivar, Guaranda
+Trinitario;Grenada;1-1-2007 00:00:00;1;Spain;Chocovic;1;117;2,5;2007;Guyave
+Blend;;1-1-2007 00:00:00;1;Spain;Chocovic;1;117;3;2007;Maragda
+Trinitario;Mexico;1-1-2015 00:00:00;1;U.S.A.;Chocovivo;1;1522;2,5;2015;Tabasco
+Trinitario;Mexico;1-1-2015 00:00:00;1;U.S.A.;Chocovivo;1;1522;2,5;2015;Tabasco
+Criollo;Venezuela;1-1-2009 00:00:00;1;Canada;Choklat;1;377;2,5;2009;Ocumare
+Criollo;Mexico;1-1-2009 00:00:00;1;Canada;Choklat;1;377;2,75;2009;Porcelana, Tabasco
+;Brazil;1-1-2009 00:00:00;1;Canada;Choklat;1;377;3;2009;Brazilian
+;Brazil;1-1-2009 00:00:00;1;Canada;Choklat;1;377;3;2009;Brazilian
+Criollo;Venezuela;1-1-2009 00:00:00;1;Canada;Choklat;1;377;3;2009;Ocumare
+;Martinique;1-1-2013 00:00:00;0;Martinique;Chokolat Elot (Girard);1;1149;2,75;2013;Guadeloupe
+;Mexico;1-1-2016 00:00:00;1;Canada;Choocsol;1;1832;3,25;2016;Chiapas, Lacandon Jungle, Oaxacom Mtn
+Forastero (Nacional);Peru;1-1-2011 00:00:00;1;Canada;Christopher Morel (Felchlin);1;666;3,75;2011;Maranon Canyon, Fortunato No. 4
+Criollo;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Chuao Chocolatier;1;445;3;2009;Choroni
+Trinitario;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Chuao Chocolatier (Pralus);1;486;2,75;2010;Chuao
+Forastero;Sao Tome & Principe;1-1-2010 00:00:00;1;Sao Tome;Claudio Corallo;1;470;3,75;2010;Terreiro Velho P.
+Forastero;Sao Tome & Principe;1-1-2008 00:00:00;1;Sao Tome;Claudio Corallo;1;209;3;2008;Terreiro Velho P. w/ sugar crystals
+Forastero;Sao Tome & Principe;1-1-2008 00:00:00;1;Sao Tome;Claudio Corallo;1;227;4;2008;Terreiro Velho P.
+Forastero;Sao Tome & Principe;1-1-2008 00:00:00;1;Sao Tome;Claudio Corallo;1;252;1;2008;Principe
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Cloudforest;1;1486;3,5;2015;Camino Verde P., Balao, Guayas, 2014
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Coleman & Davis;1;1646;3;2015;Sambirano
+;Venezuela;1-1-2010 00:00:00;1;Argentina;Compania de Chocolate (Salgado);1;579;3,25;2010;Sur del Lago
+Trinitario;Venezuela;1-1-2008 00:00:00;1;Argentina;Compania de Chocolate (Salgado);1;292;2,75;2008;Carenero Superior
+;Bolivia;1-1-2008 00:00:00;1;Argentina;Compania de Chocolate (Salgado);1;292;3,25;2008;Moxos
+Criollo;Venezuela;1-1-2008 00:00:00;1;Argentina;Compania de Chocolate (Salgado);1;292;3,75;2008;Ocumare
+Forastero (Nacional);Ecuador;1-1-2008 00:00:00;1;Argentina;Compania de Chocolate (Salgado);1;296;2,75;2008;Esmeraldas
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Condor;1;1630;3,5;2015;Camino Verde
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Confluence;1;1916;2,75;2016;Tien Giang, 2015, batch 10-2-16
+Forastero (Nacional);Ecuador;1-1-2013 00:00:00;1;Germany;Coppeneur;1;1169;3,25;2013;Ecuador, Puristique
+Forastero;Ghana;1-1-2012 00:00:00;1;Germany;Coppeneur;1;813;3,5;2012;Ghana Puristique
+;Ecuador;1-1-2012 00:00:00;1;Germany;Coppeneur;1;817;1,5;2012;Ecuador Puristique
+Forastero;Sao Tome & Principe;1-1-2012 00:00:00;1;Germany;Coppeneur;1;821;3,75;2012;Uba Budo
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Germany;Coppeneur;1;959;3,5;2012;Madagascar
+Trinitario;Grenada;1-1-2010 00:00:00;1;Germany;Coppeneur;1;470;3,25;2010;Grenada
+Trinitario;Venezuela;1-1-2010 00:00:00;1;Germany;Coppeneur;1;478;3;2010;Chuao
+Nacional;Ecuador;1-1-2010 00:00:00;1;Germany;Coppeneur;1;558;2,5;2010;Los Rios, H. Iara
+Trinitario;Trinidad;1-1-2010 00:00:00;1;Germany;Coppeneur;1;558;3;2010;Trinidad
+Trinitario;Jamaica;1-1-2010 00:00:00;1;Germany;Coppeneur;1;558;3,25;2010;Jamaica
+Criollo (Ocumare 61);Venezuela;1-1-2010 00:00:00;1;Germany;Coppeneur;1;558;3,25;2010;Ocumare 61
+Criollo;Peru;1-1-2009 00:00:00;1;Germany;Coppeneur;1;341;3;2009;Porcelana, Apotequil
+Criollo;Peru;1-1-2009 00:00:00;1;Germany;Coppeneur;1;445;3,25;2009;Porcelana, Apotequil
+Criollo, Trinitario;Venezuela;1-1-2009 00:00:00;1;Germany;Coppeneur;1;451;3,5;2009;Chuao 100hr
+Criollo, Trinitario;Venezuela;1-1-2009 00:00:00;1;Germany;Coppeneur;1;451;3,75;2009;Chuao 70hr
+Criollo;Mexico;1-1-2008 00:00:00;1;Germany;Coppeneur;1;220;3;2008;Porcelana, Tabasco, Mexico
+Criollo (Porcelana);Venezuela;1-1-2008 00:00:00;1;Germany;Coppeneur;1;220;3;2008;Porcelana, Venezuela
+Trinitario;Madagascar;1-1-2007 00:00:00;1;Germany;Coppeneur;1;196;3;2007;Sambirano, Menava P.
+;;1-1-2006 00:00:00;1;Belgium;Cote d' Or (Kraft);1;48;1;2006;Sensations Intense
+Forastero;Papua New Guinea;1-1-2014 00:00:00;1;Australia;Cravve;1;1283;2,5;2014;New Ireland
+Trinitario;Vanuatu;1-1-2014 00:00:00;1;Australia;Cravve;1;1335;2,75;2014;Vanuatu, batch 2410
+Forastero;Tanzania;1-1-2012 00:00:00;1;Australia;Cravve;1;971;3,25;2012;Tanzania, batch a1
+Trinitario;Brazil;1-1-2012 00:00:00;1;Australia;Cravve;1;975;3,25;2012;Bahia, batch a1213
+Trinitario;Fiji;1-1-2012 00:00:00;1;Australia;Cravve;1;975;3,25;2012;Namau Village, N. Taileva P., batch a2812
+Trinitario;Vanuatu;1-1-2012 00:00:00;1;Australia;Cravve;1;975;3,25;2012;Vanuatu
+Forastero;Papua New Guinea;1-1-2012 00:00:00;1;Australia;Cravve;1;975;3,5;2012;Djual Island
+Forastero (Nacional);Ecuador;1-1-2016 00:00:00;1;U.S.A.;Creo;1;1736;3,25;2016;"""heirloom"", Arriba Nacional"
+Forastero (Nacional);Ecuador;1-1-2016 00:00:00;1;U.S.A.;Creo;1;1736;3,75;2016;"""heirloom"", Arriba Nacional"
+;Australia;1-1-2015 00:00:00;1;Australia;Daintree;1;1654;2,75;2015;Goodman Estate
+;Australia;1-1-2011 00:00:00;1;Australia;Daintree;1;785;3,25;2011;Daintree Estates, N. Queensland
+;Dominican Republic;1-1-2017 00:00:00;1;U.S.A.;Dalloway;1;1928;2,75;2017;Dominican Republic, batch 7
+Trinitario;Trinidad;1-1-2015 00:00:00;1;U.K.;Damson;1;1610;3;2015;Robson Estate
+;Ecuador;1-1-2015 00:00:00;1;U.K.;Damson;1;1610;3,5;2015;Los Rios
+;Grenada;1-1-2015 00:00:00;1;U.K.;Damson;1;1666;2,25;2015;Crayfish Bay aka Non Pariel Estate
+;Nicaragua;1-1-2015 00:00:00;1;U.K.;Damson;1;1666;2,75;2015;O'Payo
+;;1-1-2016 00:00:00;1;U.S.A.;Dandelion;1;1816;3,75;2016;Zorzal Reserva, 2015 H., Kerchner
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Dandelion;1;1446;3;2015;Maya Mtn., Break Bar- Snark
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Dandelion;1;1219;3,5;2014;Maya Mountain
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Dandelion;1;1295;3,5;2014;Camino Verde P., Balao, Guayas, 2013
+;Liberia;1-1-2014 00:00:00;1;U.S.A.;Dandelion;1;1303;2,75;2014;Buto
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Dandelion;1;1387;3,75;2014;San Francisco de Macoris, Cibao region
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Dandelion;1;1026;2,75;2013;Cumboto, farmer Jose Lugo
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Dandelion;1;1026;3,25;2013;Patanemo
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Dandelion;1;1085;3,5;2013;Mantuano, 2012
+;Papua New Guinea;1-1-2013 00:00:00;1;U.S.A.;Dandelion;1;1153;3,5;2013;Papua New Guinea
+;Costa Rica;1-1-2012 00:00:00;1;U.S.A.;Dandelion;1;805;3;2012;Upala
+;Colombia;1-1-2012 00:00:00;1;U.S.A.;Dandelion;1;805;3,25;2012;Colombian
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Dandelion;1;915;3,75;2012;Elvesia, 2011
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Dandelion;1;654;3,25;2011;Dominican Republic
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Dandelion;1;654;3,25;2011;Madagascar
+;Tanzania;1-1-2011 00:00:00;1;U.S.A.;Dandelion;1;654;3,25;2011;Tanzania
+;Guatemala;1-1-2014 00:00:00;1;Guatemala;Danta;1;1223;3,25;2014;Los Ujuxtes
+Trinitario;Venezuela;1-1-2012 00:00:00;1;Guatemala;Danta;1;987;3;2012;Chuao
+;Guatemala;1-1-2012 00:00:00;1;Guatemala;Danta;1;987;3,75;2012;Los Ujuxtes
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Guatemala;Danta;1;987;3,75;2012;Sambirano
+Criollo;Guatemala;1-1-2012 00:00:00;1;Guatemala;Danta;1;987;4;2012;Las Acacias E.
+;Guatemala;1-1-2012 00:00:00;1;Guatemala;Danta;1;991;3,25;2012;Oscuro, Finca Chimelb
+;Guatemala;1-1-2011 00:00:00;1;Guatemala;Danta;1;661;3,5;2011;Los Ujuxtes
+Criollo;Guatemala;1-1-2009 00:00:00;1;Guatemala;Danta;1;423;3;2009;Las Acacias E.
+Criollo;Guatemala;1-1-2009 00:00:00;1;Guatemala;Danta;1;423;3,25;2009;Las Acacias E.
+;Venezuela;1-1-2016 00:00:00;1;U.S.A.;DAR;1;1920;2,75;2016;Venezuela, batch 122
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;DAR;1;1920;3;2016;Vietnam
+;Ecuador, Costa Rica;1-1-2016 00:00:00;1;U.S.A.;DAR;1;1920;3,25;2016;DUO, batch 002
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Dark Forest;1;1708;3,25;2016;Bolivia
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Dark Forest;1;1550;3;2015;Madagascar
+;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Dark Forest;1;1550;3,25;2015;Ocumare
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Dark Forest;1;1554;3;2015;Tanzania
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Dark Forest;1;1554;3,25;2015;Ecuador
+Forastero;Ghana;1-1-2013 00:00:00;1;U.S.A.;Davis;1;1093;2,5;2013;Ghana
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Davis;1;1093;2,75;2013;Rainforest
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Davis;1;1093;2,75;2013;Venezuela
+Forastero;West Africa;1-1-2012 00:00:00;1;U.S.A.;Davis;1;907;3,25;2012;West Africa
+;Brazil;1-1-2015 00:00:00;1;Brazil;De Mendes;1;1462;3,5;2015;Nativo, Varzea
+;Brazil;1-1-2015 00:00:00;1;Brazil;De Mendes;1;1462;3,5;2015;Selvagem, Jari
+Forastero;Uganda;1-1-2016 00:00:00;1;South Africa;De Villiers;1;1832;2,5;2016;Bundibugyo District
+;Madagascar;1-1-2016 00:00:00;1;South Africa;De Villiers;1;1832;3;2016;Sambirano Valley, batch 2477
+Trinitario;Madagascar;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;170;2,5;2007;Madagascar
+;Costa Rica;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;175;3;2007;Costa Rica
+;Ecuador;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;175;3;2007;Ecuador
+Forastero;Ghana;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;175;3;2007;Ghana
+;Papua New Guinea;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;180;3;2007;Papua New Guinea
+;Peru;1-1-2007 00:00:00;1;U.S.A.;Dean and Deluca (Belcolade);1;180;3;2007;Peru
+;Papua New Guinea;1-1-2009 00:00:00;1;France;Debauve & Gallais (Michel Cluizel);1;423;3;2009;Papua New Guinea
+;Venezuela;1-1-2008 00:00:00;1;France;Debauve & Gallais (Michel Cluizel);1;263;3,75;2008;Venezuela
+;Tanzania;1-1-2016 00:00:00;1;Canada;Desbarres;1;1916;2,5;2016;Kilombero, batch 41
+;Bolivia;1-1-2008 00:00:00;1;U.S.A.;DeVries;1;241;2,75;2008;Bolivian
+Trinitario;Costa Rica;1-1-2007 00:00:00;1;U.S.A.;DeVries;1;166;3,5;2007;Costa Rica
+;Dominican Republic;1-1-2007 00:00:00;1;U.S.A.;DeVries;1;166;3,5;2007;Dominican Republic
+;Guatemala;1-1-2017 00:00:00;1;U.S.A.;Dick Taylor;1;1952;3,75;2017;Lanquin Estate
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Dick Taylor;1;1864;3,5;2016;Tien Giang
+;Bolivia;1-1-2015 00:00:00;1;U.S.A.;Dick Taylor;1;1634;3,75;2015;Alto Beni, Wild Harvest, Limited Ed.
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Dick Taylor;1;1235;3,5;2014;Elvesia
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Dick Taylor;1;1034;3,25;2013;Ecuador, Choc. Garage Exclusive
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Dick Taylor;1;1193;3,5;2013;Camino Verde
+;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Dick Taylor;1;895;2,75;2012;Bolivia
+Trinitario;Belize;1-1-2012 00:00:00;1;U.S.A.;Dick Taylor;1;955;2,75;2012;Belize
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Dick Taylor;1;661;2,75;2011;Sambirano
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Dick Taylor;1;661;3;2011;Sambirano
+Criollo;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Dick Taylor;1;682;2,75;2011;Mantuano
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Dick Taylor;1;769;3;2011;La Red
+;Ecuador;1-1-2011 00:00:00;1;U.S.A.;Dick Taylor;1;769;3,25;2011;Ecuador
+;Venezuela;1-1-2015 00:00:00;1;U.K.;Doble & Bignall;1;1688;3;2015;Puerto Cabello
+;Panama;1-1-2014 00:00:00;1;U.K.;Doble & Bignall;1;1371;3,25;2014;Panama, Raven
+Trinitario;Venezuela;1-1-2014 00:00:00;1;U.K.;Doble & Bignall;1;1371;3,25;2014;Puerto Cabello, Mantuano
+Criollo, Trinitario;Nicaragua;1-1-2014 00:00:00;1;U.K.;Doble & Bignall;1;1407;3,5;2014;Johe
+;Hawaii;1-1-2009 00:00:00;1;U.S.A.;Dole (Guittard);1;311;3,75;2009;O'ahu, N. Shore, Waialua Estate
+Forastero;West Africa;1-1-2008 00:00:00;1;Belgium;Dolfin (Belcolade);1;304;3;2008;Africa
+;;1-1-2006 00:00:00;1;Belgium;Dolfin (Belcolade);1;63;1,5;2006;Noir
+;Ecuador;1-1-2015 00:00:00;1;Italy;Domori;1;1672;3,75;2015;Hacienda Victoria
+Criollo (Ocumare 77);Venezuela;1-1-2015 00:00:00;1;Italy;Domori;1;1672;3,75;2015;Ocumare 77
+Criollo;Venezuela;1-1-2013 00:00:00;1;Italy;Domori;1;1109;3;2013;IL100, H. San Jose
+;Tanzania;1-1-2012 00:00:00;1;Italy;Domori;1;863;3,5;2012;Morogoro
+Criollo;Venezuela;1-1-2012 00:00:00;1;Italy;Domori;1;863;3,75;2012;Guasare
+Criollo;Venezuela;1-1-2011 00:00:00;1;Italy;Domori;1;693;3,5;2011;Canoabo, Hacienda San Jose
+Trinitario;Venezuela;1-1-2010 00:00:00;1;Italy;Domori;1;470;3;2010;Chuao, Hacienda San Jose
+Trinitario;Venezuela;1-1-2008 00:00:00;1;Italy;Domori;1;227;3;2008;Carupano, H. San Jose
+;Colombia;1-1-2008 00:00:00;1;Italy;Domori;1;272;3;2008;Teyuna
+Blend;;1-1-2008 00:00:00;1;Italy;Domori;1;272;3,5;2008;Blend No. 1
+Blend;;1-1-2008 00:00:00;1;Italy;Domori;1;272;3,75;2008;Ilblend
+Criollo (Porcelana);Venezuela;1-1-2007 00:00:00;1;Italy;Domori;1;111;4;2007;Porcelana
+Criollo (Ocumare 61);Venezuela;1-1-2007 00:00:00;1;Italy;Domori;1;129;3,25;2007;Ocumare 61, Puertomar
+Trinitario;Venezuela;1-1-2007 00:00:00;1;Italy;Domori;1;135;3,25;2007;Granella
+Trinitario;Madagascar;1-1-2007 00:00:00;1;Italy;Domori;1;135;3,5;2007;Madagascar
+Criollo;Madagascar;1-1-2007 00:00:00;1;Italy;Domori;1;192;3,5;2007;Madagared
+Criollo;Indonesia;1-1-2007 00:00:00;1;Italy;Domori;1;192;3,75;2007;Java, Javablond
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Italy;Domori;1;192;4;2007;Ecuador
+Criollo (Ocumare 67);Venezuela;1-1-2007 00:00:00;1;Italy;Domori;1;192;4;2007;Ocumare 67, Puertofino
+Trinitario;Venezuela;1-1-2006 00:00:00;1;Italy;Domori;1;87;3;2006;Sur del Lago Classificado
+Trinitario;Peru;1-1-2006 00:00:00;1;Italy;Domori;1;87;3,25;2006;Apurimac
+Trinitario;Venezuela;1-1-2006 00:00:00;1;Italy;Domori;1;87;3,5;2006;Carenero Superior
+Trinitario;Grenada;1-1-2016 00:00:00;1;U.K.;Dormouse;1;1880;2,75;2016;Non Pariel Estate
+Trinitario;Venezuela;1-1-2015 00:00:00;1;U.K.;Dormouse;1;1672;2,5;2015;Rio Caribe, Batch 7
+Criollo, Trinitario;Colombia;1-1-2015 00:00:00;1;U.K.;Dormouse;1;1676;2,75;2015;Colombia, Batch 9
+Criollo, Trinitario;Madagascar;1-1-2015 00:00:00;1;U.K.;Dormouse;1;1676;2,75;2015;Madagascar, Batch 8
+Criollo;Guatemala;1-1-2015 00:00:00;1;U.K.;Duffy's;1;1662;4;2015;Rio Dulce, Xoco
+Criollo;Nicaragua;1-1-2014 00:00:00;1;U.K.;Duffy's;1;1331;3,5;2014;Chuno, Xoco
+Criollo;Nicaragua;1-1-2014 00:00:00;1;U.K.;Duffy's;1;1331;3,75;2014;Rico Rugoso, Xoco
+;Venezuela;1-1-2012 00:00:00;1;U.K.;Duffy's;1;923;3,75;2012;Ocumare
+Criollo;Honduras;1-1-2011 00:00:00;1;U.K.;Duffy's;1;623;3,75;2011;Indio Rojo, Xoco
+;Dominican Republic;1-1-2011 00:00:00;1;U.K.;Duffy's;1;661;3,5;2011;Dominican Republic
+;Panama;1-1-2011 00:00:00;1;U.K.;Duffy's;1;697;3;2011;Bocas del Toro, Tierra Oscura
+Criollo;Nicaragua;1-1-2011 00:00:00;1;U.K.;Duffy's;1;697;3,25;2011;Nicaliso, Xoco
+;Venezuela;1-1-2011 00:00:00;1;U.K.;Duffy's;1;765;3,5;2011;Ocumare
+;Panama;1-1-2010 00:00:00;1;U.K.;Duffy's;1;516;3,5;2010;Panama
+;Ecuador;1-1-2010 00:00:00;1;U.K.;Duffy's;1;516;3,75;2010;Corazon del Ecuador, Calceta beans
+;Ecuador;1-1-2010 00:00:00;1;U.K.;Duffy's;1;523;2,5;2010;Star of Ecuador
+;Peru;1-1-2010 00:00:00;1;U.K.;Duffy's;1;523;3,75;2010;Star of Peru
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Dulcinea;1;1506;3,25;2015;Dominican Republic
+Trinitario;Madagascar;1-1-2012 00:00:00;1;France;Durand;1;841;2,75;2012;Madagascar
+Forastero (Nacional);Peru;1-1-2015 00:00:00;1;U.S.A.;Durci;1;1626;3,5;2015;Maranon, Joya Rara
+Trinitario;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Durci;1;1626;3,5;2015;Rio Caribe, Tepui Treasure
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Durci;1;1630;3,25;2015;Taino Secret
+Trinitario;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Durci;1;1630;3,25;2015;Carenero, Empyrean Sabor
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Durci;1;1630;4;2015;Corona Arriba
+;Peru;1-1-2014 00:00:00;1;Canada;East Van Roasters;1;1343;3,25;2014;Peru
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Canada;East Van Roasters;1;1343;3,5;2014;Madagascar
+;Dominican Republic;1-1-2014 00:00:00;1;Canada;East Van Roasters;1;1343;3,75;2014;Dominican Republic
+;Colombia;1-1-2016 00:00:00;1;Canada;Eau de Rose;1;1812;3,25;2016;Tumaco
+;Colombia;1-1-2016 00:00:00;1;Canada;Eau de Rose;1;1812;3,25;2016;Arauca
+Forastero (Nacional);Peru;1-1-2012 00:00:00;1;U.S.A.;Eclat (Felchlin);1;919;2,75;2012;Maranon, Good & Evil, w/ nibs
+Criollo;Venezuela;1-1-2016 00:00:00;1;Germany;Edelmond;1;1876;3;2016;Porcelana
+;Bolivia;1-1-2011 00:00:00;1;Bolivia;El Ceibo;1;709;3,75;2011;Alto Beni, Covendo Region
+;Bolivia;1-1-2008 00:00:00;1;Bolivia;El Ceibo;1;252;2,75;2008;Alto Beni
+;Venezuela;1-1-2015 00:00:00;1;Venezuela;El Rey;1;1662;3,75;2015;San Joaquin
+Trinitario;Venezuela;1-1-2009 00:00:00;1;Venezuela;El Rey;1;439;2,75;2009;Rio Caribe, Cariaco
+Trinitario;Venezuela;1-1-2009 00:00:00;1;Venezuela;El Rey;1;439;3;2009;Rio Caribe, Macuro
+Criollo;Venezuela;1-1-2008 00:00:00;1;Venezuela;El Rey;1;206;2,5;2008;Carenero Superior, Apamate
+Criollo;Venezuela;1-1-2008 00:00:00;1;Venezuela;El Rey;1;206;2,5;2008;Carenero Superior, Bucare
+Criollo;Venezuela;1-1-2008 00:00:00;1;Venezuela;El Rey;1;206;3;2008;Carenero Superior, Mijao
+Criollo;Venezuela;1-1-2006 00:00:00;1;Venezuela;El Rey;1;32;2,75;2006;Carenero Superior, Gran Saman
+;St. Lucia;1-1-2013 00:00:00;1;St. Lucia;Emerald Estate;1;1137;2,75;2013;Emerald Estate
+;St. Lucia;1-1-2013 00:00:00;1;St. Lucia;Emerald Estate;1;1137;3,25;2013;Emerald Estate
+;Venezuela;1-1-2015 00:00:00;1;Japan;Emily's;1;1450;3;2015;Patanemo
+Criollo;Peru;1-1-2015 00:00:00;1;Japan;Emily's;1;1454;3,5;2015;Peru
+;Honduras;1-1-2016 00:00:00;1;U.S.A.;ENNA;1;1916;3,25;2016;Wampusirpi, batch 007
+Forastero;Sao Tome & Principe;1-1-2010 00:00:00;1;Spain;Enric Rovira (Claudio Corallo);1;565;3,25;2010;Terreiro Velho P.
+Trinitario;Vietnam;1-1-2014 00:00:00;1;France;Erithaj (A. Morin);1;1205;3,25;2014;Ben Tre
+Trinitario;Vietnam;1-1-2014 00:00:00;1;France;Erithaj (A. Morin);1;1209;3;2014;Ham Luong
+Trinitario;Vietnam;1-1-2014 00:00:00;1;France;Erithaj (A. Morin);1;1209;3,25;2014;Ba Lai
+Trinitario;Venezuela;1-1-2012 00:00:00;1;U.S.A.;Escazu;1;903;2,75;2012;Rio Caribe
+;Costa Rica;1-1-2009 00:00:00;1;U.S.A.;Escazu;1;414;2;2009;Guapiles
+Criollo;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Escazu;1;423;3,5;2009;Carenero Superior
+;Cost Rica, Ven;1-1-2009 00:00:00;1;U.S.A.;Escazu;1;431;2,75;2009;Carenero, Guapiles, Ocumare blend
+Criollo;Venezuela;1-1-2008 00:00:00;1;U.S.A.;Escazu;1;252;3;2008;Ocumare
+;Peru, Madagascar;1-1-2011 00:00:00;1;U.S.A.;Ethel's Artisan (Mars);1;666;2,5;2011;Peru, Madagascar
+Trinitario;Trinidad;1-1-2011 00:00:00;1;U.S.A.;Ethel's Artisan (Mars);1;666;2,5;2011;Trinidad
+Criollo (Porcelana);Venezuela;1-1-2011 00:00:00;1;U.S.A.;Ethel's Artisan (Mars);1;666;2,5;2011;Porcelana
+;;1-1-2011 00:00:00;1;U.S.A.;Ethel's Artisan (Mars);1;666;2,75;2011;Red Vanilla
+;Venezuela, Trinidad;1-1-2011 00:00:00;1;U.S.A.;Ethel's Artisan (Mars);1;672;2,5;2011;Venezuela, Trinidad
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Ethereal;1;1275;3;2014;Belize
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Ethereal;1;1275;3,5;2014;Ecuador
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Ethereal;1;1275;3,75;2014;Dominican Republic
+;Brazil;1-1-2010 00:00:00;1;U.S.A.;Fearless (AMMA);1;565;2,75;2010;Monte Alegre, D. Badaro, Raw, Organic
+;Jamaica;1-1-2016 00:00:00;1;Portugal;Feitoria Cacao;1;1732;3;2016;Blue Mountain
+;Venezuela;1-1-2016 00:00:00;1;Portugal;Feitoria Cacao;1;1736;2,5;2016;Cuyagua
+Trinitario;Belize;1-1-2016 00:00:00;1;Portugal;Feitoria Cacao;1;1736;2,75;2016;Maya Mountain
+Trinitario;Grenada;1-1-2010 00:00:00;1;Switzerland;Felchlin;1;494;3,5;2010;Grenada
+;;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;105;2;2006;Supremo- SF
+Trinitario, Criollo;Dominican Republic;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;105;3;2006;Elvesia P.
+Criollo;Madagascar;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;48;3;2006;Madagascar, Grand Cru
+Criollo;Venezuela;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;48;3;2006;Maracaibo Clasificado
+Forastero (Arriba);Ecuador;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;48;3,5;2006;Arriba
+Criollo (Wild);Bolivia;1-1-2006 00:00:00;1;Switzerland;Felchlin;1;56;4;2006;Alto Beni, Cru Savage
+;Puerto Rico;1-1-2014 00:00:00;1;U.S.A.;Finca;1;1283;2,25;2014;Puerto Rico
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Finca;1;1283;3;2014;Dominican Republic
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Finca;1;1283;3,25;2014;Dominican Republic
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Finca;1;1287;2,5;2014;Dominican Republic
+Criollo;Peru;1-1-2014 00:00:00;1;U.K.;Forever Cacao;1;1267;2,75;2014;Rio Eni
+;Domincan Republic;1-1-2016 00:00:00;1;Puerto Rico;Forteza (Cortes);1;1776;2,75;2016;Dominican Republic
+;Domincan Republic;1-1-2016 00:00:00;1;Puerto Rico;Forteza (Cortes);1;1776;2,75;2016;Puerto Rico
+;Madagascar;1-1-2016 00:00:00;1;Singapore;Fossa;1;1772;2,75;2016;Akesson's E., Sambirano V.
+;Ecuador;1-1-2016 00:00:00;1;Singapore;Fossa;1;1776;3,5;2016;Camino Verde P., Balao, Guayas
+Trinitario;Tanzania;1-1-2016 00:00:00;1;Singapore;Fossa;1;1776;3,75;2016;Kokoa Kamili Coop, Kilombero
+;Venezuela;1-1-2014 00:00:00;1;Venezuela;Franceschi;1;1355;3,5;2014;Choroni
+;Venezuela;1-1-2014 00:00:00;1;Venezuela;Franceschi;1;1355;3,75;2014;Ocumare
+;Venezuela;1-1-2012 00:00:00;1;Venezuela;Franceschi;1;911;3,75;2012;Canoabo
+;Venezuela;1-1-2012 00:00:00;1;Venezuela;Franceschi;1;915;3,5;2012;Sur del Lago
+;Costa Rica;1-1-2015 00:00:00;1;Belgium;Frederic Blondeel;1;1538;3,5;2015;Costa Rica
+;Peru;1-1-2015 00:00:00;1;Belgium;Frederic Blondeel;1;1538;3,5;2015;Peru Brutus
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Belgium;Frederic Blondeel;1;1542;3;2015;Vietnam
+Forastero;Ghana;1-1-2014 00:00:00;1;Belgium;Frederic Blondeel;1;1351;3,5;2014;Ghana
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Belgium;Frederic Blondeel;1;1351;3,5;2014;Madagascar
+;Peru;1-1-2017 00:00:00;1;U.S.A.;French Broad;1;1940;3,5;2017;Norandino, batch 161208
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;French Broad;1;1634;3,5;2015;Guatemala
+;Costa Rica;1-1-2014 00:00:00;1;U.S.A.;French Broad;1;1209;3;2014;San Andres
+;Nicaragua;1-1-2014 00:00:00;1;U.S.A.;French Broad;1;1295;3,25;2014;Matagalpa
+;Peru;1-1-2013 00:00:00;1;U.S.A.;French Broad;1;1042;3,5;2013;Palo Blanco, Chulucanas
+Criollo;Peru;1-1-2012 00:00:00;1;U.S.A.;French Broad;1;883;2,5;2012;Tumbes Coop
+;Peru;1-1-2012 00:00:00;1;U.S.A.;French Broad;1;883;3,5;2012;Palo Blanco, Chulucanas
+;Peru;1-1-2012 00:00:00;1;U.S.A.;French Broad;1;887;2;2012;Palo Blanco w/ panela, Chulucanas
+Forastero (Nacional);Peru;1-1-2011 00:00:00;1;U.S.A.;French Broad;1;781;3,5;2011;Maranon Canyon, Fortunato No. 4
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;French Broad;1;785;3,5;2011;La Red
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Fresco;1;1383;3;2014;Maranon, #228, MR, SC
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Fresco;1;1383;3,5;2014;Maranon, #227, LR, MC
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Fresco;1;1383;3,5;2014;Maranon, #229, MR, LC
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Fresco;1;1387;3,5;2014;Maranon, #230, DR, LC
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Fresco;1;1030;3,25;2013;Conacado, #223, MR, SC
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Fresco;1;1081;3,75;2013;Conacado, #224, MR, MC
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Fresco;1;1117;3,75;2013;San Martin, Bellavista Coop, #226, DR, MC
+Trinitario;Peru;1-1-2013 00:00:00;1;U.S.A.;Fresco;1;1149;4;2013;Bellavista Coop, #225, LR, MC, CG Exclusive
+;Papua New Guinea;1-1-2012 00:00:00;1;U.S.A.;Fresco;1;899;3,5;2012;Markham Valley, #219, LR, MC
+;Papua New Guinea;1-1-2012 00:00:00;1;U.S.A.;Fresco;1;899;3,5;2012;Markham Valley, #221, DR, MC
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Fresco;1;915;4;2012;Sambirano Valley, #216, MR, LC
+Trinitario;Papua New Guinea;1-1-2012 00:00:00;1;U.S.A.;Fresco;1;927;4;2012;Markham Valley, #220, MR, MC
+Trinitario;Papua New Guinea;1-1-2012 00:00:00;1;U.S.A.;Fresco;1;931;3;2012;Markham Valley, #222, LR, 0C
+Forastero;Ghana;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;636;2,75;2011;Ghana, #211, MR, MC
+Trinitario;Jamaica;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;642;3,25;2011;Jamaica, #209, DR, SC
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;642;3,5;2011;Conacado, #212, LR, SC
+Trinitario;Jamaica;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;642;3,5;2011;Jamaica, #210, DR, MC
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;682;2,75;2011;Sambirano Valley, #214, LR, MC
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;682;3,25;2011;Conacado, #213, DR, -C
+Trinitario;Madagascar;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;688;3;2011;Sambirano Valley, #215, MR, MC
+Trinitario;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;745;3,25;2011;Chuao, #218, MR, MC
+Trinitario;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Fresco;1;745;4;2011;Chuao, #217, DR, MC
+Trinitario;Jamaica;1-1-2009 00:00:00;1;U.S.A.;Fresco;1;370;2,75;2009;Jamaica, #204, DR, SC
+Trinitario;Jamaica;1-1-2009 00:00:00;1;U.S.A.;Fresco;1;370;3;2009;Jamaica, #206, DR, LC
+Trinitario;Jamaica;1-1-2009 00:00:00;1;U.S.A.;Fresco;1;370;3,25;2009;Jamaica, #205, DR, MC
+Criollo;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Fresco;1;370;3,5;2009;Carenero Superior, #203, MR, SC
+;Nicaragua;1-1-2016 00:00:00;1;Denmark;Friis Holm;1;1912;3,5;2016;Rugoso, Bad Fermentation
+;Nicaragua;1-1-2015 00:00:00;1;Denmark;Friis Holm (Bonnat);1;1680;3;2015;La Dalia
+;Nicaragua;1-1-2015 00:00:00;1;Denmark;Friis Holm (Bonnat);1;1680;3,25;2015;La Dalia
+;Nicaragua;1-1-2014 00:00:00;1;Denmark;Friis Holm (Bonnat);1;1259;3,5;2014;La Dalia
+;Nicaragua;1-1-2013 00:00:00;1;Denmark;Friis Holm (Bonnat);1;1034;3,25;2013;Barba, Xoco
+;Nicaragua;1-1-2013 00:00:00;1;Denmark;Friis Holm (Bonnat);1;1034;3,5;2013;Medagla, Xoco
+Criollo, Trinitario;Nicaragua;1-1-2012 00:00:00;1;Denmark;Friis Holm (Bonnat);1;895;3,25;2012;Chuno, triple turned, Xoco
+Criollo, Trinitario;Honduras;1-1-2012 00:00:00;1;Denmark;Friis Holm (Bonnat);1;899;3,25;2012;Red Mayan, Xoco
+Criollo, Trinitario;Nicaragua;1-1-2012 00:00:00;1;Denmark;Friis Holm (Bonnat);1;899;3,25;2012;Chuno, double turned, Xoco
+;Nicaragua;1-1-2012 00:00:00;1;Denmark;Friis Holm (Bonnat);1;923;3,75;2012;Rugoso, Xoco
+Criollo, Trinitario;Nicaragua;1-1-2011 00:00:00;1;Denmark;Friis Holm (Bonnat);1;623;3,25;2011;Johe, Xoco
+Criollo, Trinitario;Nicaragua;1-1-2011 00:00:00;1;Denmark;Friis Holm (Bonnat);1;623;3,5;2011;Chuno, Xoco
+Criollo, Trinitario;Nicaragua;1-1-2011 00:00:00;1;Denmark;Friis Holm (Bonnat);1;623;3,5;2011;Nicaliso, Xoco
+Beniano;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Fruition;1;1780;3,75;2016;Wild Bolivian, Batch 2
+Amazon mix;Costa Rica;1-1-2016 00:00:00;1;U.S.A.;Fruition;1;1780;4;2016;Coto Brus, Heirloom, Batch 1
+Trinitario;Trinidad;1-1-2014 00:00:00;1;U.S.A.;Fruition;1;1347;3,75;2014;Gran Couva
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Fruition;1;1359;3;2014;Maranon
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Fruition;1;1046;3,75;2013;La Red
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Fruition;1;1185;3;2013;Camino Verde
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Fruition;1;863;2,5;2012;Peru
+Trinitario;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Fruition;1;753;3,25;2011;Signature Blend
+;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Fruition;1;781;3;2011;Costa Rica
+Blend;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Garden Island;1;1367;2,5;2014;Kaua'I, Alea Estate +world
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Germany;Georgia Ramon;1;1642;3,25;2015;Akesson P.
+Forastero;Ghana;1-1-2015 00:00:00;1;Germany;Georgia Ramon;1;1642;4;2015;ABOCFA Coop
+Trinitario;Domincan Republic;1-1-2015 00:00:00;1;Germany;Georgia Ramon;1;1646;3,5;2015;Conacado Coop
+Trinitario;Domincan Republic;1-1-2015 00:00:00;1;Germany;Georgia Ramon;1;1646;3,5;2015;Conacado Coop
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Germany;Georgia Ramon;1;1646;3,5;2015;Akesson P.
+;Belize;1-1-2016 00:00:00;1;U.S.A.;Glennmade;1;1848;3,5;2016;Toledo District, 2015 Harvest
+Trinitario, Forastero;Brazil;1-1-2015 00:00:00;1;U.S.A.;Glennmade;1;1672;3;2015;Bahia
+;Mexico;1-1-2016 00:00:00;1;U.S.A.;Goodnow Farms;1;1924;2,75;2016;Almendra Blanca, batch 1004
+;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;Goodnow Farms;1;1924;3,25;2016;El Carmen, batch 1003
+;Guatemala;1-1-2016 00:00:00;1;U.S.A.;Goodnow Farms;1;1924;3,25;2016;Asochivite, batch 1005
+Trinitario;Vietnam;1-1-2011 00:00:00;1;Vietnam;Grand Place;1;741;3;2011;Ben Tre, Dong Nai
+;;1-1-2006 00:00:00;1;U.K.;Green & Black's (ICAM);1;15;2,5;2006;Dark
+;Madagascar;1-1-2016 00:00:00;1;Japan;Green Bean to Bar;1;1896;3,5;2016;Madagascar
+Trinitario;Grenada;1-1-2010 00:00:00;1;Grenada;Grenada Chocolate Co.;1;494;3,25;2010;Grenada
+Trinitario;Grenada;1-1-2009 00:00:00;1;Grenada;Grenada Chocolate Co.;1;363;2,75;2009;Grenada
+Trinitario;Grenada;1-1-2008 00:00:00;1;Grenada;Grenada Chocolate Co.;1;241;2,5;2008;Grenada
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Italy;Guido Castagna;1;355;3;2009;Arriba
+Forastero;Ghana;1-1-2009 00:00:00;1;Italy;Guido Castagna;1;355;3;2009;Ghana
+;Trinidad, Tobago;1-1-2009 00:00:00;1;Italy;Guido Castagna;1;355;3;2009;Trinidad & Tobago
+;Venezuela;1-1-2009 00:00:00;1;Italy;Guido Castagna;1;355;3;2009;Lacri Blend
+;Ven, Trinidad, Ecuador;1-1-2009 00:00:00;1;Italy;Guido Castagna;1;355;3,25;2009;Blend
+;;1-1-2015 00:00:00;1;U.S.A.;Guittard;1;1602;3,75;2015;Epique, Blend No. 49
+;Haiti;1-1-2013 00:00:00;1;U.S.A.;Guittard;1;1053;2,75;2013;Haiti
+;Nicaragua;1-1-2013 00:00:00;1;U.S.A.;Guittard;1;1053;2,75;2013;Nicaragua
+Trinitario;Jamaica;1-1-2013 00:00:00;1;U.S.A.;Guittard;1;1053;3,25;2013;Jamaica
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Guittard;1;1053;3,5;2013;Ecuador
+;;1-1-2011 00:00:00;1;U.S.A.;Guittard;1;654;2,75;2011;Coucher du Soleil
+;;1-1-2011 00:00:00;1;U.S.A.;Guittard;1;654;3,25;2011;Lever du Soleil
+;;1-1-2011 00:00:00;1;U.S.A.;Guittard;1;654;3,25;2011;Onyx
+Trinitario;Trinidad;1-1-2010 00:00:00;1;U.S.A.;Guittard;1;552;3;2010;Trinidad
+;Hawaii;1-1-2009 00:00:00;1;U.S.A.;Guittard;1;316;3;2009;O'ahu, N. Shore, Waialua E., Kakoleka
+;;1-1-2009 00:00:00;1;U.S.A.;Guittard;1;387;3;2009;Nocturne
+Blend;;1-1-2009 00:00:00;1;U.S.A.;Guittard;1;387;3,5;2009;Complexite
+;Peru;1-1-2008 00:00:00;1;U.S.A.;Guittard;1;259;3;2008;Machu Pichu
+;;1-1-2008 00:00:00;1;U.S.A.;Guittard;1;276;3;2008;Special Maker Reserve
+;Venezuela;1-1-2008 00:00:00;1;U.S.A.;Guittard;1;276;3,5;2008;Ocumare
+Blend;;1-1-2007 00:00:00;1;U.S.A.;Guittard;1;147;3,5;2007;Quetzalcoatl
+Trinitario;Colombia;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;15;3;2006;Chucuri
+Trinitario, Criollo;Venezuela;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;87;2,5;2006;Sur del Lago
+Criollo, +;Madagascar;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;87;3,5;2006;Sambirano, Ambanja
+Forastero (Arriba);Ecuador;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;93;3,5;2006;Los Rios, Quevedo
+Blend;;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;93;3,5;2006;Tsaranta
+Blend;;1-1-2006 00:00:00;1;U.S.A.;Guittard;1;99;3;2006;Semisweet
+;Papua New Guinea;1-1-2014 00:00:00;1;Canada;Habitual;1;1197;2,75;2014;Papua New Guinea
+;;1-1-2014 00:00:00;1;Canada;Habitual;1;1197;2,75;2014;Campesino w/ nibs
+;Dominican Republic;1-1-2014 00:00:00;1;Canada;Habitual;1;1197;3,25;2014;Dominican Republic
+Trinitario;;1-1-2014 00:00:00;1;Canada;Habitual;1;1197;3,5;2014;Trinitario
+;;1-1-2014 00:00:00;1;Canada;Habitual;1;1201;2,75;2014;Downtown London
+;;1-1-2014 00:00:00;1;Canada;Habitual;1;1201;3;2014;Africa meets Latina
+;;1-1-2014 00:00:00;1;Canada;Habitual;1;1201;3;2014;Amazonas
+;Hawaii;1-1-2014 00:00:00;1;Canada;Habitual;1;1201;3,25;2014;Sharkey
+;;1-1-2014 00:00:00;1;Canada;Habitual;1;1205;2;2014;one hundred
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Germany;Hachez;1;166;2,5;2007;Arriba
+Trinitario;Ecuador;1-1-2014 00:00:00;1;Ecuador;Hacienda El Castillo;1;1327;2,75;2014;Don Homero- Cerecita Valley
+Trinitario;Ecuador;1-1-2014 00:00:00;1;Ecuador;Hacienda El Castillo;1;1327;3;2014;Don Homero- Cerecita Valley
+;South America, Africa;1-1-2011 00:00:00;1;Australia;Haigh;1;701;3;2011;South America and Africa
+;Brazil;1-1-2016 00:00:00;1;U.S.A.;Harper Macaw;1;1808;3,25;2016;Vale do Juliana, w/ nibs
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Harper Macaw;1;1696;3;2015;Brazil Blend
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Harper Macaw;1;1700;3,5;2015;Tome Acu E., Amazon Rainforest
+;Brazil;1-1-2015 00:00:00;1;U.S.A.;Harper Macaw;1;1700;3,5;2015;Vale do Juliana E., Atlantic Forest
+;Peru;1-1-2016 00:00:00;1;Germany;Heilemann;1;1876;2,75;2016;Peru
+Amazon;Belize;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Brasstown);1;1748;3,25;2016;Maya Mtn, Moho R., Toledo D., 2015
+Amazon mix;Costa Rica;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Fruition);1;1748;3,5;2016;Cota Brus, Terciopelo, 2015
+Amazon, ICS;Bolivia;1-1-2014 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Guittard);1;1239;3,5;2014;Alto Beni, Upper Rio Beni, 2014
+Beniano;Bolivia;1-1-2014 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Guittard);1;1243;3;2014;Wild Beni, Lower Rio Beni, Tranquilidad, 2014
+EET;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Guittard);1;1243;3,75;2014;Los Rios, Hacienda Limon, Orecao, 2014
+;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Guittard);1;1243;3,75;2014;Maunawili, O'ahu, Agri Research C., 2014
+;Hawaii;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Manoa);1;1744;3,5;2016;Maunawili, O'ahu, Agri Research C., 2015
+EET;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Millcreek);1;1744;3,5;2016;Los Rios, Hacienda Limon, Orecao, 2015
+EET;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Mindo);1;1748;3,5;2016;Pinchincha, Mindo, Coop Nueva Esper., 2015
+Amazon, ICS;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Zokoko);1;1744;3,75;2016;Alto Beni, Upper Rio Beni, 2015
+Beniano;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Heirloom Cacao Preservation (Zokoko);1;1744;4;2016;Wild Beni, Lower Rio Beni, Tranquilidad, 2015
+Forastero;Uganda;1-1-2015 00:00:00;1;U.S.A.;hello cocoa;1;1458;2,75;2015;Uganda
+Criollo;Venezuela;1-1-2015 00:00:00;1;U.S.A.;hello cocoa;1;1462;3,5;2015;Venezuela
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;hexx;1;1546;2,75;2015;Tanzania
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;hexx;1;1546;3;2015;Madagascar
+;Venezuela;1-1-2015 00:00:00;1;U.S.A.;hexx;1;1546;3;2015;Venezuela
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;hexx;1;1550;3,25;2015;Ecuador
+;Peru;1-1-2015 00:00:00;1;U.S.A.;hexx;1;1550;3,25;2015;Peru
+Trinitario;Madagascar;1-1-2016 00:00:00;1;New Zealand;Hogarth;1;1712;2,75;2016;Akesson's Estate
+Trinitario;Venezuela;1-1-2016 00:00:00;1;New Zealand;Hogarth;1;1712;2,75;2016;Carenero Superior
+Trinitario;Domincan Republic;1-1-2016 00:00:00;1;New Zealand;Hogarth;1;1712;3,25;2016;Conacado
+Criollo;Peru;1-1-2016 00:00:00;1;New Zealand;Hogarth;1;1712;3,5;2016;Gran Blanco
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Ecuador;Hoja Verde (Tulicorp);1;414;2;2009;Arriba
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Ecuador;Hoja Verde (Tulicorp);1;414;2,5;2009;Manabi
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Ecuador;Hoja Verde (Tulicorp);1;414;3;2009;Arriba
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Ecuador;Hoja Verde (Tulicorp);1;414;3,25;2009;Arriba
+Forastero (Arriba) ASS;Ecuador;1-1-2009 00:00:00;1;Ecuador;Hoja Verde (Tulicorp);1;414;3,5;2009;Manabi
+;Peru;1-1-2016 00:00:00;1;Israel;Holy Cacao;1;1872;2,75;2016;Maranon
+;Ecuador;1-1-2015 00:00:00;1;Israel;Holy Cacao;1;1466;3,5;2015;Camino Verde P., Balao, Guayas
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Israel;Holy Cacao;1;1466;3,5;2015;Sambirano
+Trinitario;Trinidad;1-1-2015 00:00:00;1;Israel;Holy Cacao;1;1466;3,5;2015;Gran Couva
+;Venezuela;1-1-2015 00:00:00;1;Israel;Holy Cacao;1;1466;3,5;2015;Mara
+;Ivory Coast;1-1-2009 00:00:00;1;Israel;Holy Cacao;1;431;2,5;2009;Ivory Coast
+;Dominican Republic;1-1-2009 00:00:00;1;Israel;Holy Cacao;1;431;2,75;2009;Hispaniola
+;Peru;1-1-2009 00:00:00;1;Israel;Holy Cacao;1;431;3,5;2009;San Martin
+;Dominican Republic;1-1-2009 00:00:00;1;Israel;Holy Cacao;1;431;3,75;2009;Hispaniola w/ nibs
+;Ecuador;1-1-2014 00:00:00;1;South Africa;Honest;1;1327;2,5;2014;Ecuador, w/ nibs
+;St. Lucia;1-1-2015 00:00:00;1;U.K.;Hotel Chocolat;1;1654;2,75;2015;Pepiniere, single Cote
+Trinitario;St. Lucia;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat;1;1030;4;2013;Marcial, single Cote, 2012
+Trinitario;St. Lucia;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat;1;1113;1,75;2013;Island Growers, 2012, 120hr c.
+Trinitario;Trinidad;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1038;3;2013;Trinidad
+Trinitario;Vietnam;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1038;3,5;2013;Mekong Delta & Dong Nai
+Forastero (Nacional);Ecuador;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1065;3;2013;Los Rios, H. Iara
+Trinitario;Madagascar;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1065;3;2013;Somia Plantation, Akesson, 2012
+Forastero (Nacional);Ecuador;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1065;3,5;2013;Los Rios, H. Iara, 2012
+;Peru;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1109;2,75;2013;Chanchamayo, Pichanadi, 2012, 60hr c.
+Forastero (Nacional);Ecuador;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1113;2,5;2013;Los Rios, H. Iara, 2012, 120hr c.
+;Dominican Republic;1-1-2013 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;1113;2,75;2013;Conacado, 2012, 120hr c.
+Trinitario, Criollo;Madagascar;1-1-2012 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;809;3,5;2012;Sambirano
+Forastero (Nacional);Ecuador;1-1-2011 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;623;3;2011;Los Rios, H. Iara, 96hr c.
+Trinitario;St. Lucia;1-1-2011 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;623;3;2011;Island Growers, 120hr c.
+Trinitario;St. Lucia;1-1-2011 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;623;3,25;2011;Island Growers, 96hr c.
+;Ecuador;1-1-2010 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;552;2,75;2010;Ecuador
+;Dominican Republic;1-1-2010 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;552;3;2010;Santo Domingo
+Trinitario;Venezuela;1-1-2010 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;600;2,75;2010;Chuao
+;St. Lucia;1-1-2008 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;245;3;2008;St. Lucia
+Forastero;Uganda;1-1-2008 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;296;2,5;2008;Uganda
+;Tanzania;1-1-2008 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;296;2,75;2008;Tanzania
+Forastero;Sao Tome;1-1-2008 00:00:00;1;U.K.;Hotel Chocolat (Coppeneur);1;300;3;2008;Uba Budo
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Canada;Hummingbird;1;1542;3,5;2015;Lam Dong
+Criollo, Trinitario;Bolivia;1-1-2014 00:00:00;1;Canada;Hummingbird;1;1307;3;2014;Bolivia
+Criollo, Trinitario;Bolivia;1-1-2014 00:00:00;1;Canada;Hummingbird;1;1311;3;2014;Bolivia, Bo-nib-ia, w/ nibs
+Trinitario;Nicaragua;1-1-2014 00:00:00;1;Canada;Hummingbird;1;1311;3;2014;Momotombo
+Trinitario;Dominican Republic;1-1-2014 00:00:00;1;Canada;Hummingbird;1;1311;3,75;2014;Hispaniola
+;Dominican Republic;1-1-2014 00:00:00;1;Canada;Hummingbird;1;1387;3,5;2014;Zorzal Reserva w/ Charles Kerchner
+Trinitario, Criollo;Venezuela;1-1-2013 00:00:00;1;Canada;Hummingbird;1;1097;3,25;2013;Ocumare, Cumboto
+Forastero;Venezuela;1-1-2013 00:00:00;1;Canada;Hummingbird;1;1097;3,75;2013;Amazonas
+Trinitario;Venezuela;1-1-2013 00:00:00;1;Switzerland;Idilio (Felchlin);1;1085;3,75;2013;Chuao, Venezuela
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;725;3,75;2011;Coopertiva Amazona
+;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;725;3,75;2011;Sur del Lago, Amiari Meridena, Zulia, 48hr c.
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;729;3,25;2011;Choroni, Finca Torres, 48hr c.
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;733;3,75;2011;Ocumare, H. Cata, 48hr c.
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;733;4;2011;Porcelana, Zulia
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;737;3,5;2011;Ocumare, H. Cata, w/ nibs
+Trinitario;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;737;4;2011;Carenero Superior, Urrutia, Barlovento
+Criollo;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;737;4;2011;Coopertiva Amazona w/ nibs
+;Venezuela;1-1-2011 00:00:00;1;Switzerland;Idilio (Felchlin);1;737;4;2011;Sur del Lago, Amiari Meridena, Zulia, w/ nibs
+;India;1-1-2016 00:00:00;1;India;Indah;1;1788;2,5;2016;India (south)
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Indaphoria;1;821;3,25;2012;La Red
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Indaphoria;1;907;2,75;2012;Conacado, Manifesto
+;Honduras;1-1-2014 00:00:00;1;U.S.A.;Indi;1;1255;3;2014;Honduras
+Criollo;Peru;1-1-2012 00:00:00;1;Scotland;iQ Chocolate;1;943;2,75;2012;Satipo region, white label
+;Peru;1-1-2012 00:00:00;1;Scotland;iQ Chocolate;1;943;3;2012;black label
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Isidro;1;1275;3,5;2014;Madagascar
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Isidro;1;1279;2,25;2014;Peru
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Isidro;1;1279;3,25;2014;Belize
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Isidro;1;1279;3,25;2014;Dominican Republic
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Izard;1;1542;3,5;2015;Maya Mountain, Toledo, Batch 29
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Izard;1;1546;2,75;2015;Elvesia P., Batch 32
+Trinitario;Ghana;1-1-2006 00:00:00;1;U.S.A.;Jacque Torres;1;5;2;2006;Trinatario Treasure
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Czech Republic;Jordis;1;1534;2,75;2015;Madagascar
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Just Good Chocolate;1;1375;3,5;2014;Belize
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Just Good Chocolate;1;1375;3,5;2014;Madagascar
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Just Good Chocolate;1;1375;4;2014;Peru
+;Dominican Republic;1-1-2013 00:00:00;1;Domincan Republic;Kah Kow;1;1061;3,5;2013;Rizek Cacao, Cibao Valley, Domin. Rep.
+;Dominican Republic;1-1-2013 00:00:00;1;Domincan Republic;Kah Kow;1;1069;3;2013;Rizek Cacao, Domin. Rep.
+;Dominican Republic;1-1-2013 00:00:00;1;Domincan Republic;Kah Kow;1;1069;3,25;2013;Rizek Cacao, Domin. Rep.
+;Dominican Republic;1-1-2013 00:00:00;1;Domincan Republic;Kah Kow;1;1073;3,25;2013;Rizek Cacao, Domin. Rep.
+;Peru;1-1-2012 00:00:00;1;Germany;Kakao;1;837;2,5;2012;Peru
+Trinitario;Vanuatu;1-1-2009 00:00:00;1;Germany;Kakao;1;387;3,75;2009;Vanuatu
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;241;3;2008;Sisa 36hr/ W. F. blend prototype
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;241;3,5;2008;Sisa's Secret/ original micro
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;245;2,75;2008;Roberto
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;248;2,5;2008;Diego/ original micro
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;248;2,75;2008;Diego 48hr/ W.F. blend prototype
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;248;3;2008;Diego 60hr/ W.F. blend prototype
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;263;2,5;2008;Cacao Nacional W.F.
+;Ecuador;1-1-2008 00:00:00;1;Ecuador;Kallari (Ecuatoriana);1;269;3;2008;Cacao Nacional W.F.
+;;1-1-2009 00:00:00;1;France;Kaoka (Cemoi);1;404;2,75;2009;Noir
+;Ecuador;1-1-2009 00:00:00;1;France;Kaoka (Cemoi);1;423;2,75;2009;Ecuador
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Kerchner;1;1133;3,75;2013;La Red, Project Reserva, Guaconejo
+;Mexico;1-1-2009 00:00:00;1;Mexico;Ki' Xocolatl;1;431;2;2009;Dark
+Trinitario;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Kiskadee;1;1251;3;2014;La Red, Guanconjeco
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1422;2,5;2014;San Martin
+;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1422;2,75;2014;Ocumare
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1422;3;2014;Belize
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1422;3,25;2014;Sambirano Valley
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1426;3,25;2014;Belize
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1426;3,25;2014;Elvesia
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Kto;1;1426;3,25;2014;ROIG
+;Haiti;1-1-2016 00:00:00;1;U.S.A.;K'ul;1;1840;3,25;2016;Kafupbo, Petit Bourg, De Borgnes
+Forastero (Nacional);Peru;1-1-2016 00:00:00;1;U.S.A.;K'ul;1;1852;2,75;2016;Maranon, Fortunato No. 4
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;K'ul;1;1852;3,75;2016;Los Rios, Hacienda Limon, Heirloom
+Forastero;Brazil;1-1-2016 00:00:00;1;U.S.A.;K'ul;1;1852;3,75;2016;Bahia, Fazenda Camboa
+Forastero;Uganda;1-1-2014 00:00:00;1;U.S.A.;Kyya;1;1359;2,5;2014;Uganda
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Kyya;1;1359;3;2014;Hispaniola
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Kyya;1;1363;2,5;2014;Ecuador
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Kyya;1;1363;3;2014;Madagascar
+;Peru;1-1-2012 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;891;3,25;2012;Peru
+;Brazil;1-1-2012 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;891;4;2012;Brazil
+Trinitario;Venezuela;1-1-2012 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;927;3,75;2012;Chuao
+;Ecuador;1-1-2011 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;682;3,75;2011;Quito
+Trinitario;Grenada;1-1-2010 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;576;3,25;2010;Grenada
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;576;3,75;2010;Dominican Republic
+;Venezuela;1-1-2010 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;597;3;2010;Venzuela
+Trinitario;Madagascar;1-1-2009 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;431;3,5;2009;Madagascar
+;Bolivia;1-1-2009 00:00:00;1;U.S.A.;L.A. Burdick (Felchlin);1;451;3;2009;Bolivian
+Trinitario, Criollo;Peru;1-1-2016 00:00:00;1;Japan;La Chocolaterie Nanairo;1;1892;2,25;2016;Lumas, 2015 Harvest, Batch 6, brown sugar
+Trinitario, Criollo;Peru;1-1-2016 00:00:00;1;Japan;La Chocolaterie Nanairo;1;1892;2,5;2016;Lumas, 2015 Harvest, Batch 7
+Criollo;Peru;1-1-2016 00:00:00;1;Japan;La Chocolaterie Nanairo;1;1892;3;2016;Tumbes, 2013 Harvest, Batch 8
+Trinitario, Criollo;Belize;1-1-2016 00:00:00;1;Japan;La Chocolaterie Nanairo;1;1892;3;2016;Belize, 2014 Harvest, Batch 9
+;Africa, Carribean, C. Am.;1-1-2013 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;1121;2,75;2013;Cuana, 2013
+;Tobago;1-1-2013 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;1145;3,25;2013;Tobago
+;Ecuador;1-1-2013 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;1189;3,25;2013;Acarigua, w/ nibs
+;Dominican Republic;1-1-2012 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;891;3,5;2012;Loma Sotavento
+Trinitario;Grenada;1-1-2011 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;741;3,5;2011;Grenada
+Forastero;Ghana;1-1-2009 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;346;3,25;2009;Akosombo
+Criollo (Porcelana);Venezuela;1-1-2009 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;346;3,5;2009;Porcelana, Pariguan
+;;1-1-2009 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;439;3;2009;Kuruba
+;;1-1-2009 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;445;3,75;2009;Orinoco
+Blend;Ven., Indonesia, Ecuad.;1-1-2008 00:00:00;1;France;La Maison du Chocolat (Valrhona);1;230;3,5;2008;Cuana, 2008
+;Peru;1-1-2011 00:00:00;1;Peru;La Oroquidea;1;721;2,5;2011;Peruvian Amazon
+;Ecuador;1-1-2011 00:00:00;1;Ecuador;La Pepa de Oro;1;713;3,25;2011;Vinces
+Trinitario;Madagascar;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1590;2,75;2015;Madagascar, Batch 59/100
+Trinitario;Vietnam;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1590;2,75;2015;Vietnam, Batch 50/100
+;Cuba;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1590;3;2015;Cuba, Batch 59/100
+;Peru;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1590;3,25;2015;Peru, Batch 51/100
+;Ivory Coast;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1594;3;2015;Ivory Coast, Batch 56/100
+Forastero;Sao Tome;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1638;3,5;2015;Sao Tome, Batch 151
+;Brazil;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1642;3,25;2015;Bahia, Batch 148
+Trinitario;Vietnam;1-1-2015 00:00:00;1;France;Laia aka Chat-Noir;1;1642;3,75;2015;Lam Dong, Batch 153
+;Cuba;1-1-2014 00:00:00;1;France;Laia aka Chat-Noir;1;1434;2,75;2014;Cuba
+;Trinidad-Tobago;1-1-2014 00:00:00;1;France;Laia aka Chat-Noir;1;1438;2,75;2014;Trinidad-Tobago
+Forastero (Catongo);Brazil;1-1-2012 00:00:00;1;Brazil;Lajedo do Ouro;1;927;3,5;2012;Catongo
+;Tanzania;1-1-2009 00:00:00;1;U.S.A.;Lake Champlain (Callebaut);1;327;2,5;2009;Tanzania
+Trinitario;Nicaragua;1-1-2016 00:00:00;1;U.S.A.;L'Amourette;1;1784;3,5;2016;Rugoso
+Trinitario;Venezuela;1-1-2012 00:00:00;1;U.S.A.;L'Amourette;1;833;3;2012;Carenero Superior
+Trinitario;Venezuela;1-1-2012 00:00:00;1;U.S.A.;L'Amourette;1;833;3;2012;Rio Caribe
+Criollo;Peru, Ecuador, Venezuela;1-1-2012 00:00:00;1;U.S.A.;L'Amourette;1;853;3;2012;Blend
+;Honduras;1-1-2017 00:00:00;1;U.S.A.;Letterpress;1;1952;3,5;2017;La Masica, Batch 7, FHIA
+;Belize;1-1-2017 00:00:00;1;U.S.A.;Letterpress;1;1952;3,25;2017;Maya Mtn, Batch 18, Heirloom
+;Liberia;1-1-2016 00:00:00;1;U.S.A.;Letterpress;1;1728;3,25;2016;Liberia
+;Bolivia;1-1-2015 00:00:00;1;U.S.A.;Letterpress;1;1562;3,25;2015;Beniamo
+Trinitario;Trinidad;1-1-2015 00:00:00;1;U.S.A.;Letterpress;1;1562;3,5;2015;San Juan Estate, Gran Couva
+;Costa Rica;1-1-2015 00:00:00;1;U.S.A.;Letterpress;1;1566;3;2015;San Andres
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Letterpress;1;1566;3,25;2015;La Red, Guaconejo
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Letterpress;1;1566;3,5;2015;Kokoa Kamili
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Letterpress;1;1371;3,5;2014;Maranura
+Criollo;Madagascar;1-1-2014 00:00:00;1;Finland;Levy;1;1231;3,5;2014;Sambirano
+Trinitario;Madagascar;1-1-2016 00:00:00;1;Finland;Lilla;1;1856;3;2016;Madagascar
+Criollo;Peru;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;855;3,5;2012;Perfect Illusion
+Criollo;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;903;3,5;2012;Bolivia, Wild Thing
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;903;3,75;2012;La Selva
+;Venezuela, Dom. Rep.;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;947;2,75;2012;Purple Haze
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;947;3;2012;The Other One, Grand Cru
+Criollo;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Lillie Belle;1;947;3,5;2012;Wild Thing
+;;1-1-2007 00:00:00;1;Switzerland;Lindt & Sprungli;1;157;3;2007;Excellence (US Version)
+;Puerto Rico;1-1-2013 00:00:00;1;Puerto Rico;Loiza;1;1049;2,5;2013;Puerto Rico
+;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Lonohana;1;1383;3,75;2014;"Haleiwa, O'ahu; Lonohana E., Kanahiku"
+;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Lonohana;1;1395;3,25;2014;Haleiwa E, O'ahu, 2014
+;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Lonohana;1;1395;3,75;2014;Haleiwa E, O'ahu, 2014
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Lonohana;1;1093;3;2013;Opaeula Estate, O'ahu, Nene, CG Exclusive
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Lonohana;1;1097;3;2013;Opaeula Estate, O'ahu, Ele'ele
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Lonohana;1;1097;3,5;2013;Hawaiian Crown, Kona Vanilla
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Love Bar;1;1502;2;2015;Nicaragua
+;Colombia, Ecuador;1-1-2010 00:00:00;0;Colombia;Luker;1;552;2,75;2010;Selva
+;Colombia, Ecuador;1-1-2010 00:00:00;1;Colombia;Luker;1;552;3;2010;Macondo
+;Colombia, Ecuador;1-1-2010 00:00:00;1;Colombia;Luker;1;552;3;2010;Misterio
+;Colombia;1-1-2010 00:00:00;1;Colombia;Luker;1;552;3,5;2010;Santander
+;Peru;1-1-2011 00:00:00;1;Peru;Machu Picchu Trading Co.;1;721;1,5;2011;Peru
+;Peru;1-1-2010 00:00:00;1;Peru;Machu Picchu Trading Co.;1;552;2,25;2010;Peru
+Trinitario;Madagascar;1-1-2008 00:00:00;1;Madagascar;Madecasse (Cinagra);1;284;3,5;2008;Madagascar
+Trinitario;Madagascar;1-1-2008 00:00:00;1;Madagascar;Madecasse (Cinagra);1;284;3,75;2008;Madagascar
+Trinitario;Madagascar;1-1-2008 00:00:00;1;Madagascar;Madecasse (Cinagra);1;284;4;2008;Madagascar
+Trinitario;Madagascar;1-1-2008 00:00:00;1;Madagascar;Madecasse (Cinagra);1;288;3,5;2008;Madagascar
+;Solomon Islands;1-1-2017 00:00:00;1;U.S.A.;Madre;1;1940;3,5;2017;Guadalcanal
+;Puerto Rico;1-1-2013 00:00:00;1;U.S.A.;Madre;1;1085;2,75;2013;Puerto Rico
+;Brazil;1-1-2013 00:00:00;1;U.S.A.;Madre;1;1085;3,5;2013;Brazil
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Madre;1;1089;2,75;2013;Choobua, Kona
+;Mexico;1-1-2013 00:00:00;1;U.S.A.;Madre;1;1089;2,75;2013;Xocunusco, Chiapas, Pichucalco
+;Hawaii;1-1-2012 00:00:00;1;U.S.A.;Madre;1;991;3,25;2012;Hamakua Coast, Kokoleka
+Criollo;Hawaii;1-1-2012 00:00:00;1;U.S.A.;Madre;1;995;3,25;2012;Criollo, Hawaii
+;Hawaii;1-1-2012 00:00:00;1;U.S.A.;Madre;1;995;3,5;2012;Kaua'i
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Madre;1;672;2,5;2011;Dominican
+;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Madre;1;693;2,75;2011;Upala
+;Mexico;1-1-2010 00:00:00;1;U.S.A.;Madre;1;607;2,75;2010;Chiapas, Triple Cacao
+;Tanzania;1-1-2008 00:00:00;1;Italy;Maglio;1;300;2;2008;Africa
+Forastero (Nacional);Ecuador;1-1-2008 00:00:00;1;Italy;Maglio;1;308;3;2008;Ecuador
+Criollo;Cuba;1-1-2008 00:00:00;1;Italy;Maglio;1;308;3,25;2008;Cuba
+Blend-Forastero,Criollo;Dominican Republic;1-1-2008 00:00:00;1;Italy;Maglio;1;308;3,75;2008;Santo Domingo
+;Ecuador;1-1-2010 00:00:00;1;Italy;Majani;1;531;2;2010;Ecuador
+Trinitario;Madagascar;1-1-2007 00:00:00;1;Madagascar;Malagasy (Chocolaterie Robert);1;184;2,75;2007;Sambirano 2006
+Trinitario;Madagascar;1-1-2007 00:00:00;1;Madagascar;Malagasy (Chocolaterie Robert);1;184;3,5;2007;Mora Mora 2006
+Trinitario;Philippines;1-1-2013 00:00:00;1;Philippines;Malagos;1;1121;3,5;2013;Davao, Mt. Talamo foothills
+;Hawaii;1-1-2010 00:00:00;1;U.S.A.;Malie Kai (Guittard);1;502;3,5;2010;O'ahu, N. Shore, Waialua Estate w/ nibs
+Blend;Hawaii;1-1-2009 00:00:00;1;U.S.A.;Malie Kai (Guittard);1;311;2,75;2009;O'ahu, N. Shore, Waialua Estate
+;Venezuela;1-1-2016 00:00:00;1;Sweden;Malmo;1;1856;3;2016;Chuao
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Mana;1;1446;2,5;2015;Ecuador
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Mana;1;1219;2,5;2014;Peru
+;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Mana;1;1219;2,75;2014;Venezuela
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Mana;1;821;3,75;2012;Conacado
+;Colombia;1-1-2014 00:00:00;1;Colombia;Manifesto Cacao;1;1331;2,75;2014;Colombia
+;Papua New Guinea;1-1-2015 00:00:00;1;U.S.A.;Manoa;1;1522;3,5;2015;Markham Valley
+;Costa Rica;1-1-2015 00:00:00;1;U.S.A.;Manoa;1;1522;3,75;2015;Coto Brus
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Manoa;1;1089;3,75;2013;Waiahole, O'ahu
+;Liberia;1-1-2012 00:00:00;1;U.S.A.;Manoa;1;1003;3,25;2012;Liberia, #174
+;Hawaii;1-1-2012 00:00:00;1;U.S.A.;Manoa;1;1007;2,75;2012;Hamakua, Hawaiian Crown, #176
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Manoa;1;1007;3;2012;Piura
+;Hawaii;1-1-2012 00:00:00;1;U.S.A.;Manoa;1;1007;3,25;2012;Oahu, Winward, #151, Maunawili district
+;Nicaragua;1-1-2016 00:00:00;1;Poland;Manufaktura Czekolady;1;1844;3,75;2016;Johe
+;Peru;1-1-2016 00:00:00;1;Poland;Manufaktura Czekolady;1;1848;3,5;2016;Peru
+Criollo;Venezuela;1-1-2014 00:00:00;1;Poland;Manufaktura Czekolady;1;1255;3,75;2014;Porcelana
+;Colombia;1-1-2014 00:00:00;1;Poland;Manufaktura Czekolady;1;1279;3,5;2014;Kolumbia
+;Dominican Republic;1-1-2012 00:00:00;1;Poland;Manufaktura Czekolady;1;871;3,25;2012;Grand Cru Dominican Republic
+Forastero;Ghana;1-1-2012 00:00:00;1;Poland;Manufaktura Czekolady;1;871;3,5;2012;Grand Cru Ghana
+;Ecuador;1-1-2012 00:00:00;1;Poland;Manufaktura Czekolady;1;875;3,25;2012;Grand Cru Ecuador
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Map Chocolate;1;1896;3,25;2016;Ben Tre, Surprise Valley
+Criollo, Trinitario;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1474;3,5;2015;ROIG, 2014
+Forastero (Nacional);Peru;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1474;3,5;2015;Maranon, 2014
+Trinitario;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1478;3,5;2015;Ecuador
+Trinitario;Trinidad;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1606;2,75;2015;San Juan Estate, Cherry Blossoms at Night
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1606;3,5;2015;A case of the Xerces Blues, triple roast
+Criollo;Peru;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1606;3,5;2015;Tumbes, Dear Mr. Finley, 2014
+;Colombia;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1610;2,75;2015;Colombia
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1610;3;2015;Kakoa Kamili, Both Man & Bird & Beast
+;Honduras;1-1-2015 00:00:00;1;U.S.A.;Map Chocolate;1;1634;3,5;2015;Le Chocolat Chaud
+;Peru;1-1-2016 00:00:00;1;Peru;Marana;1;1872;3;2016;Piura
+;Peru;1-1-2016 00:00:00;1;Peru;Marana;1;1884;2,75;2016;Cusco
+;Peru;1-1-2016 00:00:00;1;Peru;Marana;1;1884;3;2016;San Martin
+;;1-1-2016 00:00:00;1;Canada;Marigold's Finest;1;1808;3,25;2016;Cacao Nib Crunch
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Vietnam;Marou;1;1650;3,25;2015;Tan Phu Dong Island, Heart of Darkness
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Vietnam;Marou;1;1650;3,5;2015;Ben Tre
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Vietnam;Marou;1;1650;3,75;2015;Dak Lak, Batch 2451
+Trinitario;Vietnam;1-1-2013 00:00:00;1;Vietnam;Marou;1;1149;3,5;2013;Tan Phu Dong, Treasure Island
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;845;3,5;2012;Ba Ria
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;845;3,5;2012;Dong Nai
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;845;3,5;2012;Tien Giang, Gao Co-op
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;849;3,5;2012;Ben Tre
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;895;3;2012;Tien Giang
+Trinitario;Vietnam;1-1-2012 00:00:00;1;Vietnam;Marou;1;955;3,5;2012;Lam Dong
+;Costa Rica;1-1-2010 00:00:00;1;U.S.A.;Mars;1;537;3;2010;Matina 1-6, prototype
+;Ivory Coast;1-1-2010 00:00:00;1;U.S.A.;Mars;1;544;3;2010;Ivory Coast
+;Nigeria;1-1-2010 00:00:00;1;U.S.A.;Mars;1;544;3,25;2010;Nigeria
+Forastero;Ghana;1-1-2010 00:00:00;1;U.S.A.;Mars;1;544;3,5;2010;Ghana, prototype
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Marsatta;1;1189;2,25;2013;Dominican Republic
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Marsatta;1;1189;2,5;2013;Dominican Republic
+;Bolivia;1-1-2016 00:00:00;1;Austria;Martin Mayer;1;1836;2,75;2016;Alto Beni
+;Haiti;1-1-2016 00:00:00;1;Austria;Martin Mayer;1;1836;3;2016;Pisa
+;Colombia;1-1-2016 00:00:00;1;Austria;Martin Mayer;1;1836;3,25;2016;Tumaco
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Mast Brothers;1;1450;3;2015;Guatemala
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Mast Brothers;1;1450;3,25;2015;Tanzania
+Blend;Peru, Belize;1-1-2014 00:00:00;1;U.S.A.;Mast Brothers;1;1359;3,75;2014;French Laundry 20th Anniversary
+Blend;Peru, Mad., Dom. Rep.;1-1-2012 00:00:00;1;U.S.A.;Mast Brothers;1;959;3,5;2012;Shake Shack
+Trinitario;;1-1-2012 00:00:00;1;U.S.A.;Mast Brothers;1;999;2,5;2012;Madagascar
+Trinitario;Venezuela;1-1-2012 00:00:00;1;U.S.A.;Mast Brothers;1;999;2,75;2012;Chuao
+;;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;672;3,5;2011;Brooklyn Blend
+Trinitario;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;701;3;2011;Chuao, Med. Roast
+Trinitario;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;709;3;2011;Chuao, Dark Roast
+Trinitario;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;713;2,75;2011;Chuao, Light Roast
+Trinitario;Belize;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;773;3,5;2011;Moho River
+;Papua New Guinea;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;777;2,75;2011;Papua New Guinea
+;Peru;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;777;3;2011;San Martin
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;777;3,25;2011;Conacado
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Mast Brothers;1;777;3,75;2011;La Red de Guanconejo, N. Highlands coop
+Criollo;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Mast Brothers;1;572;2,75;2010;Patanemo
+;Venezuela;1-1-2010 00:00:00;1;U.S.A.;Mast Brothers;1;572;3;2010;Ocumare de la Costa
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;Mast Brothers;1;572;3,25;2010;Dominican Republic, Coop
+Trinitario;Vanuatu;1-1-2013 00:00:00;1;Australia;Matale;1;1177;3,5;2013;Malekula P., 2013
+Trinitario;Madagascar;1-1-2013 00:00:00;1;Australia;Matale;1;1177;4;2013;Somia, 2013
+Trinitario;Papua New Guinea;1-1-2013 00:00:00;1;Australia;Matale;1;1177;4;2013;Kulili P., 2013
+Trinitario;PNG, Vanuatu, Mad;1-1-2013 00:00:00;1;Australia;Matale;1;1181;3,75;2013;Blend
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Maverick;1;1367;3,25;2014;Maya Mountain
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Maverick;1;1367;3,25;2014;Elvesia
+Criollo;Peru;1-1-2014 00:00:00;1;U.S.A.;Maverick;1;1430;3,25;2014;Tumbes
+Criollo;Peru;1-1-2014 00:00:00;1;U.S.A.;Maverick;1;1430;3,5;2014;Morropon, Norandiono Coop, Piura
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Mayacama;1;1728;3;2016;Hispaniola
+;Bolivia;1-1-2014 00:00:00;1;U.S.A.;Meadowlands;1;1287;2,5;2014;Bolivia
+;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Meadowlands;1;1287;2,75;2014;Venezuela
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Meadowlands;1;1287;3;2014;Belize
+;Nicaragua;1-1-2014 00:00:00;1;U.S.A.;Meadowlands;1;1291;3;2014;Nicaragua, w/ inbs
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Meadowlands;1;1291;3,5;2014;Dominican Republic
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Madagascar;Menakao (aka Cinagra);1;837;2,5;2012;Madagascar
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Madagascar;Menakao (aka Cinagra);1;841;2,5;2012;Madagascar
+;El Salvador;1-1-2015 00:00:00;1;Honduras;Mesocacao;1;1494;2,75;2015;El Salvador
+;El Salvador;1-1-2015 00:00:00;1;Honduras;Mesocacao;1;1494;3;2015;El Salvador
+;Honduras;1-1-2014 00:00:00;1;Honduras;Mesocacao;1;1347;3,25;2014;Honduras
+;Honduras;1-1-2014 00:00:00;1;Honduras;Mesocacao;1;1347;3,5;2014;Honduras
+;Nicaragua;1-1-2014 00:00:00;1;Honduras;Mesocacao;1;1351;3,25;2014;La Tronca, Matagalpa
+;Nicaragua;1-1-2014 00:00:00;1;Honduras;Mesocacao;1;1351;3,5;2014;La Tronca, Matagalpa
+;Brazil;1-1-2014 00:00:00;1;Sweden;Metiisto;1;1267;3;2014;Fazenda Sempre Firme P., Bahia
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Sweden;Metiisto;1;1267;3,5;2014;Akesson Estate
+Trinitario;South America;1-1-2015 00:00:00;1;Amsterdam;Metropolitan;1;1688;3,5;2015;South America
+;Mexico;1-1-2012 00:00:00;1;France;Michel Cluizel;1;963;3,75;2012;Chiapas, Mokaya P.
+Trinitario;Venezuela;1-1-2007 00:00:00;1;France;Michel Cluizel;1;117;3,5;2007;Carenero Superior, Concepcion
+Forastero;Sao Tome;1-1-2007 00:00:00;1;France;Michel Cluizel;1;135;3,5;2007;Vila Gracinda
+;;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;2;2006;Carre Amer
+;;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;2;2006;Carre Grand Noir
+Forastero;Sao Tome;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;3;2006;Tamarina
+;Dominican Republic;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;4;2006;Los Ancones P.
+Trinitario;Madagascar;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;4;2006;Mangaro P.
+;Papua New Guinea;1-1-2006 00:00:00;1;France;Michel Cluizel;1;24;4;2006;Maralumi P.
+;;1-1-2006 00:00:00;1;France;Michel Cluizel;1;81;2;2006;Noir Infini
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1490;3,5;2015;Maya Mountain
+Trinitario;Trinidad;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1490;3,5;2015;San Juan Estate
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1490;3,75;2015;Oko Caribe
+;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1490;3,75;2015;Patanemo, Epoch, Donaldo
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1538;3,25;2015;Kokoa Kamili
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Middlebury;1;1538;3,5;2015;Matagalpa, Cacao Bisiesto
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Middlebury;1;1117;2,5;2013;La Red
+Trinitario;Belize;1-1-2013 00:00:00;1;U.S.A.;Middlebury;1;1117;3,25;2013;Belize
+;;1-1-2012 00:00:00;1;U.S.A.;Middlebury;1;887;1,5;2012;Houseblend
+Criollo;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Middlebury;1;887;2;2012;Alto Beni
+Criollo;Indonesia;1-1-2012 00:00:00;1;U.S.A.;Middlebury;1;887;2,5;2012;Balinese, Java
+Forastero (Nacional);Ecuador;1-1-2013 00:00:00;1;U.S.A.;Millcreek Cacao Roasters;1;1073;2,5;2013;Ecuador
+;Ecuador;1-1-2012 00:00:00;1;U.S.A.;Millcreek Cacao Roasters;1;825;3,5;2012;Ecuador
+;Ecuador;1-1-2010 00:00:00;1;U.S.A.;Mindo;1;607;2,75;2010;Ecuador
+;Ecuador;1-1-2010 00:00:00;1;U.S.A.;Mindo;1;607;2,75;2010;Ecuador
+Criollo, Trinitario;Haiti;1-1-2016 00:00:00;1;Japan;Minimal;1;1920;3,5;2016;Acul-du-Nord, 2015
+;Brazil;1-1-2016 00:00:00;1;Brazil;Mission;1;1880;3,75;2016;Fazenda Camboa, Bahia
+Forastero (Parazinho);Brazil;1-1-2015 00:00:00;1;Brazil;Mission;1;1626;3,5;2015;Bahia, Fazenda Venturosa
+;Colombia;1-1-2012 00:00:00;1;Colombia;Mita;1;955;2,5;2012;Tumaco
+Trinitario;Belize;1-1-2013 00:00:00;1;U.S.A.;Moho;1;1026;3,25;2013;Toledo District, w/ nibs
+Trinitario;Belize;1-1-2013 00:00:00;1;U.S.A.;Moho;1;1030;3;2013;Toledo District
+Trinitario;Belize;1-1-2010 00:00:00;1;U.S.A.;Moho;1;607;2,75;2010;Umoho R., Toledo District, San Felipe
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Molucca;1;1614;3;2015;La Red
+;Indonesia;1-1-2015 00:00:00;1;U.S.A.;Molucca;1;1618;2,75;2015;Indonesia
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Molucca;1;1618;3,25;2015;Peru
+;Nicaragua;1-1-2011 00:00:00;1;Nicaragua;Momotombo;1;661;2,75;2011;Matagalpa
+;Nicaragua;1-1-2011 00:00:00;1;Nicaragua;Momotombo;1;661;2,75;2011;Mombacho
+;Nicaragua;1-1-2011 00:00:00;1;Nicaragua;Momotombo;1;772;3,25;2011;Oscuro
+;Dominican Republic;1-1-2016 00:00:00;1;Canada;Monarque;1;1812;3,5;2016;Oko Caribe
+;Papua New Guinea;1-1-2014 00:00:00;1;Australia;Monsieur Truffe;1;1391;3,25;2014;Papaua New Guinea
+;Ecuador;1-1-2015 00:00:00;1;Ecuador;Montecristi;1;1654;3,25;2015;Manabi
+;Ecuador;1-1-2015 00:00:00;1;Ecuador;Montecristi;1;1654;3,5;2015;Manabi
+;Ecuador;1-1-2015 00:00:00;1;Ecuador;Montecristi;1;1658;3,5;2015;Manabi
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Muchomas (Mesocacao);1;1462;3,5;2015;Nicaragua
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Muchomas (Mesocacao);1;1462;3,5;2015;Nicaragua
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Mutari;1;1896;2,75;2016;Kokoa Kamili, batch 1 SRB
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Mutari;1;1896;2,75;2016;Oko Caribe, batch 1 SRB
+;Madagascar;1-1-2016 00:00:00;1;U.S.A.;Mutari;1;1900;2,75;2016;Ambanja, batch 1 SRB
+Trinitario;Vietnam;1-1-2016 00:00:00;1;U.S.A.;Mutari;1;1900;3;2016;Tien Giang, batch 1 SRB
+;Costa Rica;1-1-2013 00:00:00;1;Costa Rica;Nahua;1;1049;2,5;2013;Costa Rica, Oscuro
+;Costa Rica;1-1-2013 00:00:00;1;Costa Rica;Nahua;1;1049;3;2013;Costa Rica, Oscuro
+;Trinidad, Tobago;1-1-2013 00:00:00;1;Lithuania;Naive;1;1046;3,75;2013;Trinidad & Tobago
+Forastero (Nacional);Peru;1-1-2013 00:00:00;1;Lithuania;Naive;1;1133;3,75;2013;Maranon Canyon, Fortunato No. 4
+Trinitario;Grenada;1-1-2012 00:00:00;1;Lithuania;Naive;1;867;2,5;2012;Grenada
+Criollo;Nicaragua;1-1-2014 00:00:00;1;Lithuania;Na�ve;1;1379;3,25;2014;Nicaragua
+Trinitario;Venezuela;1-1-2014 00:00:00;1;Lithuania;Na�ve;1;1399;2,75;2014;Chuao
+;Venezuela;1-1-2014 00:00:00;1;Lithuania;Na�ve;1;1399;3;2014;Barinas
+;Hawaii;1-1-2013 00:00:00;1;U.S.A.;Nanea;1;1007;3,5;2013;Criollo Blend
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Nathan Miller;1;1403;2,25;2014;Peru
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Nathan Miller;1;1403;2,5;2014;Hispaniola
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Nathan Miller;1;1403;2,5;2014;Madagascar
+Forastero;Ghana;1-1-2014 00:00:00;1;U.S.A.;Nathan Miller;1;1403;3,5;2014;Ghana
+Criollo;Papua New Guinea;1-1-2010 00:00:00;1;Belgium;Neuhaus (Callebaut);1;531;2,5;2010;Papua New Guinea
+Trinitario;Trinidad;1-1-2008 00:00:00;1;Belgium;Neuhaus (Callebaut);1;230;3,75;2008;Manickchand Estate
+;;1-1-2007 00:00:00;1;Belgium;Neuhaus (Callebaut);1;135;1;2007;Dark
+Forastero;West Africa;1-1-2006 00:00:00;1;Belgium;Neuhaus (Callebaut);1;15;2;2006;West Africa
+Forastero;Sao Tome;1-1-2006 00:00:00;1;Belgium;Neuhaus (Callebaut);1;15;2,75;2006;Sao Tome
+Criollo;Venezuela;1-1-2006 00:00:00;1;Belgium;Neuhaus (Callebaut);1;24;3;2006;Ocumare
+Criollo;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Nibble;1;1526;2,25;2015;Patanemo
+Trinitario;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Nibble;1;1526;2,75;2015;Elvesia P.
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Nibble;1;1526;3;2015;Ambanja, Sambirano Valley
+Criollo;Peru;1-1-2015 00:00:00;1;U.S.A.;Nibble;1;1526;3;2015;Tumbes
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Night Owl;1;1022;2,75;2013;Peru
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Night Owl;1;1022;3,5;2013;Ecuador
+Forastero;Ghana;1-1-2014 00:00:00;1;U.S.A.;Noble Bean aka Jerjobo;1;1295;3;2014;Ghana
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Noble Bean aka Jerjobo;1;1299;3;2014;Moho Valley
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Noble Bean aka Jerjobo;1;1299;3,25;2014;Maranon Canyon
+;Venezuela;1-1-2012 00:00:00;1;U.S.A.;Noir d' Ebine;1;837;3;2012;Venezuela
+;Ecuador;1-1-2012 00:00:00;1;U.S.A.;Noir d' Ebine;1;841;3;2012;Ecuador
+;Nicaragua;1-1-2012 00:00:00;1;Nicaragua;Nova Monda;1;931;3;2012;La Patriota, cacao Indio, purple label
+;Nicaragua;1-1-2012 00:00:00;1;Niacragua;Nova Monda;1;935;2,75;2012;La Dalia, Matagalpa,cacao Bisesto,green label
+Forastero (Nacional);Ecuador;1-1-2012 00:00:00;1;Nicaragua;Nova Monda;1;935;3,25;2012;Punta Galera, cacao Nacional, gold label
+Forastero;Ghana;1-1-2015 00:00:00;1;U.S.A.;Nuance;1;1454;3,75;2015;Ghana, 2013
+Trinitario;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Nuance;1;1458;2,75;2015;Ecuador, 2013
+Criollo;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Nuance;1;1458;3;2015;Canoabo, 2013
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Nuance;1;1458;3,5;2015;Sambirano Valley, 2012
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Nuance;1;1470;3,75;2015;La Red
+Trinitario (Scavina);Brazil;1-1-2016 00:00:00;1;Brazil;Nugali;1;1876;3,5;2016;Fazenda Leolinda
+Trinitario;Jamaica;1-1-2010 00:00:00;1;U.S.A.;Oakland Chocolate Co.;1;478;2,5;2010;Jamaica
+Criollo;Peru;1-1-2015 00:00:00;1;Chile;Obolo;1;1638;3,75;2015;Pangoa
+Criollo;Peru;1-1-2015 00:00:00;1;Chile;Obolo;1;1638;3,75;2015;Pangoa, w/ nibs
+Forastero;Congo;1-1-2015 00:00:00;1;Scotland;Ocelot;1;1558;3,75;2015;Virunga
+Criollo;Peru;1-1-2015 00:00:00;1;Scotland;Ocelot;1;1558;4;2015;Piura
+;Samoa;1-1-2016 00:00:00;1;New Zealand;Ocho;1;1760;2,75;2016;Sang Yum Coop
+;Samoa;1-1-2016 00:00:00;1;New Zealand;Ocho;1;1760;3,5;2016;Sang Yum Coop
+;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Ocho;1;1411;2,75;2014;PNG, Devotion
+;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Ocho;1;1411;3;2014;PNG, Revolution
+;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Ocho;1;1411;3,25;2014;PNG, Voodoo
+;Papua New Guinea;1-1-2014 00:00:00;1;New Zealand;Ocho;1;1411;3,5;2014;PNG, Nib Bar
+Trinitario;Trinidad;1-1-2015 00:00:00;1;U.S.A.;Ohiyo;1;1594;2,75;2015;San Juan Estate, Gran Couva
+;Tanzania;1-1-2015 00:00:00;1;U.S.A.;Ohiyo;1;1598;3;2015;Tanzania
+Criollo;Bolivia;1-1-2011 00:00:00;1;Germany;Oialla by Bojessen (Malmo);1;761;3,5;2011;Sylvestre, Oialla
+;Dominican Republic;1-1-2010 00:00:00;1;U.S.A.;Olive and Sinclair;1;486;3;2010;Dominican Republic prototype
+Forastero;Ghana;1-1-2010 00:00:00;1;U.S.A.;Olive and Sinclair;1;486;3;2010;Ghana prototype
+;Ghana, Domin. Rep;1-1-2009 00:00:00;1;U.S.A.;Olive and Sinclair;1;457;2,75;2009;Dark 67
+;Ghana, Domin. Rep;1-1-2009 00:00:00;1;U.S.A.;Olive and Sinclair;1;457;3;2009;Dark 75
+;Carribean;1-1-2011 00:00:00;1;Canada;Olivia;1;688;2;2011;Carribean-Raw
+;Carribean;1-1-2011 00:00:00;1;Canada;Olivia;1;688;2,75;2011;Carribean
+;Carribean;1-1-2011 00:00:00;1;Canada;Olivia;1;688;2,75;2011;Carribean
+;Carribean;1-1-2011 00:00:00;1;Canada;Olivia;1;688;3;2011;Carribean-Raw
+Forastero;Ghana;1-1-2011 00:00:00;1;Ghana;Omanhene;1;693;2,75;2011;Ghana
+Trinitario;Tanzania;1-1-2016 00:00:00;1;Iceland;Omnom;1;1816;3,75;2016;Kakao Kamili, Kilombero Valley
+;Papua New Guinea;1-1-2014 00:00:00;1;Iceland;Omnom;1;1247;3;2014;Papua New Guinea
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Iceland;Omnom;1;1247;3,5;2014;Madagascar
+Trinitario;Belize;1-1-2013 00:00:00;1;Canada;organicfair;1;1161;2,75;2013;Maya Mountain
+;Dominican Republic;1-1-2013 00:00:00;1;Canada;organicfair;1;1165;2,75;2013;La Red
+Trinitario;Nicaragua;1-1-2013 00:00:00;1;Canada;organicfair;1;1165;2,75;2013;Nicaraqua
+;Dominican Republic;1-1-2013 00:00:00;1;Canada;organicfair;1;1165;3;2013;Caribe
+Trinitario;Ecuador;1-1-2013 00:00:00;1;Canada;organicfair;1;1165;3;2013;Mindo
+;Papua New Guinea;1-1-2014 00:00:00;1;Switzerland;Original Beans (Felchlin);1;1438;2,75;2014;Papua Kerafat
+Blend;;1-1-2014 00:00:00;1;Switzerland;Original Beans (Felchlin);1;1442;3,25;2014;Grand Cru Blend No.1, 5 yr. Anniversary Ed
+;Bolivia;1-1-2011 00:00:00;1;Switzerland;Original Beans (Felchlin);1;733;3,75;2011;Alto Beni, Wild Harvest, Itenez R. 24hr c.
+Forastero;Congo;1-1-2009 00:00:00;1;Switzerland;Original Beans (Felchlin);1;331;3;2009;D.R. Congo, Cru Virunga
+Criollo;Peru;1-1-2009 00:00:00;1;Switzerland;Original Beans (Felchlin);1;341;3;2009;"Piura, Apotequil, ""Porcelana"" 72hr c."
+;Bolivia;1-1-2009 00:00:00;1;Switzerland;Original Beans (Felchlin);1;341;3,25;2009;Alto Beni, Wild Harvest, Itenez R., 60hr c.
+Criollo;Hawaii;1-1-2009 00:00:00;1;U.S.A.;Original Hawaiin Chocolate Factory;1;316;3;2009;Hawai'i, Kona Grand Cru E.
+;Hawaii;1-1-2006 00:00:00;1;U.S.A.;Original Hawaiin Chocolate Factory;1;24;3;2006;Hawai'i, Kona Estate Grown
+;Peru;1-1-2012 00:00:00;1;Peru;Orquidea;1;859;3;2012;Peru
+;Peru;1-1-2012 00:00:00;1;Peru;Orquidea;1;859;3;2012;Peru
+;Colombia;1-1-2016 00:00:00;1;Ecuador;Pacari;1;1848;4;2016;Sierra Nevada, Tutu Iku
+;Ecuador;1-1-2014 00:00:00;1;Ecuador;Pacari;1;1415;3,25;2014;Garaua
+;Ecuador;1-1-2014 00:00:00;1;Ecuador;Pacari;1;1415;3,5;2014;Cumbia
+;Ecuador;1-1-2014 00:00:00;1;Ecuador;Pacari;1;1415;3,75;2014;Montubia
+;Ecuador;1-1-2014 00:00:00;1;Ecuador;Pacari;1;1415;4;2014;Tangara
+;Ecuador;1-1-2012 00:00:00;1;Ecuador;Pacari;1;817;2,75;2012;Ecuador, raw
+;Peru;1-1-2012 00:00:00;1;Ecuador;Pacari;1;863;4;2012;Piura
+;Ecuador;1-1-2011 00:00:00;1;Ecuador;Pacari;1;721;3,5;2011;Nube- prototype
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Pacari;1;224;2,5;2008;Esmeraldas
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Pacari;1;224;2,75;2008;Manabi
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Pacari;1;224;3;2008;Los Rios
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Pacari;1;266;2;2008;Raw
+Forastero (Arriba);Ecuador;1-1-2008 00:00:00;1;Ecuador;Pacari;1;266;3,5;2008;Raw
+;Guatemala;1-1-2016 00:00:00;1;Canada;Palette de Bine;1;1720;2,75;2016;Lachua
+Trinitario;Belize;1-1-2016 00:00:00;1;Canada;Palette de Bine;1;1720;3;2016;Maya Mtn
+;Bolivia;1-1-2015 00:00:00;1;Canada;Palette de Bine;1;1570;3,25;2015;Silvestre, La Paz, Beni
+Trinitario;Trinidad;1-1-2015 00:00:00;1;Canada;Palette de Bine;1;1570;3,25;2015;San Juan Estate, Gran Couva
+;Tanzania;1-1-2015 00:00:00;1;Canada;Palette de Bine;1;1574;3,5;2015;Kokoa Kamili
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Canada;Palette de Bine;1;1574;3,75;2015;Lam Dong
+;Bolivia;1-1-2014 00:00:00;1;Canada;Palette de Bine;1;1239;2,75;2014;Alto Beni, Palos Blancos
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Canada;Palette de Bine;1;1239;3,75;2014;Sambirano
+;Ecuador;1-1-2014 00:00:00;1;Canada;Palette de Bine;1;1303;2,75;2014;Camino Verde P., Balao, Guayas
+Blend;Trinidad, Ecuador;1-1-2014 00:00:00;1;Canada;Palette de Bine;1;1399;3,5;2014;Duo- Gran Couva & Camino Verde
+Trinitario;Trinidad;1-1-2014 00:00:00;1;Canada;Palette de Bine;1;1399;3,75;2014;Gran Couva
+;Fiji;1-1-2016 00:00:00;1;Spain;Pangea;1;1860;3;2016;Matasawalevu
+;South America;1-1-2014 00:00:00;1;U.S.A.;Park 75;1;1363;3,5;2014;South America
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Parliament;1;1856;3,25;2016;Kilombero Valley
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Parliament;1;1542;3,5;2015;Lachua, Q'egchi families
+;Bolivia;1-1-2014 00:00:00;1;U.S.A.;Parliament;1;1251;3;2014;Alto Beni
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Parliament;1;1255;3,5;2014;Oko Caribe
+;Peru;1-1-2013 00:00:00;1;Peru;Pascha;1;1137;2,5;2013;Peru
+;Peru;1-1-2013 00:00:00;1;Peru;Pascha;1;1137;2,75;2013;Peru
+Blend;;1-1-2011 00:00:00;1;U.S.A.;Patric;1;636;3,75;2011;Signature Blend
+Trinitario;Madagascar;1-1-2009 00:00:00;1;U.S.A.;Patric;1;331;4;2009;Madagascar
+Trinitario;Madagascar;1-1-2009 00:00:00;1;U.S.A.;Patric;1;439;3,5;2009;Madagascar
+Trinitario;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Patric;1;439;3,5;2009;Rio Caribe, Paria Penninsula
+Trinitario;Madagascar;1-1-2007 00:00:00;1;U.S.A.;Patric;1;196;4;2007;Madagascar
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Patric;1;1034;4;2013;Piura, Choc. Garage Exclusive
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.K.;Paul Young;1;1271;2,25;2014;Madagascar, w/ shell
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.K.;Paul Young;1;1271;2,75;2014;Madagascar, w/ shell
+;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Peppalo;1;1454;3;2015;Dominican Republic
+Forastero;Cameroon;1-1-2015 00:00:00;1;Belgium;Pierre Marcolini;1;1658;3,25;2015;Haut Penja, w/ nibs
+Criollo;Venezuela;1-1-2010 00:00:00;1;Belgium;Pierre Marcolini;1;478;3;2010;Chuao
+Trinitario;Trinidad;1-1-2010 00:00:00;1;Belgium;Pierre Marcolini;1;478;3,25;2010;Trinite
+Criollo, Forastero;Cuba;1-1-2010 00:00:00;1;Belgium;Pierre Marcolini;1;516;3,75;2010;Baracoa, Cuba
+Criollo;Peru;1-1-2010 00:00:00;1;Belgium;Pierre Marcolini;1;531;3;2010;Peru, Las Pampas P.
+Forastero;Brazil;1-1-2009 00:00:00;1;Belgium;Pierre Marcolini;1;414;3;2009;Bahia Brazil, Fazenda Sao Pedro
+Criollo;Mexico;1-1-2009 00:00:00;1;Belgium;Pierre Marcolini;1;445;3;2009;Porcelana, Tabasco, Finca La Joya
+Blend;Venezuela, Java;1-1-2007 00:00:00;1;Belgium;Pierre Marcolini;1;111;4;2007;Cabosse
+Forastero (Nacional);Ecuador;1-1-2007 00:00:00;1;Belgium;Pierre Marcolini;1;129;3,75;2007;Los Rios, Puerto Romero, Equateur
+Trinitario;Madagascar;1-1-2007 00:00:00;1;Belgium;Pierre Marcolini;1;141;4;2007;Sambirano, Ambanja, Madagascar
+Blend;Venezuela/ Ghana;1-1-2007 00:00:00;1;Belgium;Pierre Marcolini;1;166;3,5;2007;Fleur de Cacao
+Criollo;Mexico;1-1-2006 00:00:00;1;Belgium;Pierre Marcolini;1;81;4;2006;Porcelana, Tabasco, Limited Ed.
+Criollo;Indonesia;1-1-2006 00:00:00;1;Belgium;Pierre Marcolini;1;93;3;2006;Kendem Lembu, Java
+Criollo;Venezuela;1-1-2006 00:00:00;1;Belgium;Pierre Marcolini;1;93;4;2006;Ocumare, Puerto Cabello, Venezuela
+;Honduras;1-1-2016 00:00:00;1;U.S.A.;Pinellas;1;1772;2,5;2016;Wampusirpi Region
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Pitch Dark;1;1506;2,5;2015;Tenor
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Pitch Dark;1;1506;2,75;2015;Johe
+Criollo, Trinitario;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Pitch Dark;1;1510;2,75;2015;Chuno
+Trinitario;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Pitch Dark;1;1510;2,75;2015;Nicalizo
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Pitch Dark;1;1510;3,25;2015;Rugoso
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Pitch Dark;1;1311;3,25;2014;Akesson Estate
+Trinitario;Fiji;1-1-2014 00:00:00;1;U.S.A.;Pitch Dark;1;1315;2,5;2014;Namau Village
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Pitch Dark;1;1319;3,25;2014;"Camino Verde P., Balao, Guayas, ""Fruity"""
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Pitch Dark;1;1319;3,5;2014;"Camino Verde P., Balao, Guayas, ""Floral"""
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Pomm (aka Dead Dog);1;829;2,5;2012;La Red, 2011
+Criollo;Peru;1-1-2012 00:00:00;1;U.S.A.;Pomm (aka Dead Dog);1;829;2,75;2012;Peru
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Potomac;1;1820;3,75;2016;Oko Caribe, Duarte Province, 2016 H.
+;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Potomac;1;1387;3,75;2014;Cuyagua, 2013
+Matina;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Potomac;1;647;3,5;2011;Upala w/ nibs
+Matina;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Potomac;1;654;3;2011;Upala, Batch 18
+;Peru;1-1-2011 00:00:00;1;U.S.A.;Potomac;1;789;2,75;2011;San Martin, Amazonian Highlands
+;Brazil;1-1-2011 00:00:00;1;U.S.A.;Potomac;1;789;3,5;2011;Bahia
+Matina;Costa Rica;1-1-2010 00:00:00;1;U.S.A.;Potomac;1;607;3,75;2010;Upala, Batch 12
+;Peru;1-1-2015 00:00:00;1;France;Pralus;1;1446;3,25;2015;Peru
+Criollo (Porcelana);Venezuela;1-1-2011 00:00:00;1;France;Pralus;1;717;3,25;2011;Porcelana, S. of Lake Maracaibo
+Trinitario;Venezuela;1-1-2010 00:00:00;1;France;Pralus;1;486;3,5;2010;Chuao
+;Venezuela;1-1-2009 00:00:00;1;France;Pralus;1;451;2;2009;Cuyagua
+Trinitario;Papua New Guinea;1-1-2008 00:00:00;1;France;Pralus;1;199;3;2008;Papouasie
+Criollo;Madagascar;1-1-2008 00:00:00;1;France;Pralus;1;202;3;2008;Sambirano Valley, Le 100%
+;Dominican Republic;1-1-2008 00:00:00;1;France;Pralus;1;280;2;2008;Dominican Republic-Organic
+;Brazil;1-1-2008 00:00:00;1;France;Pralus;1;280;3,5;2008;Monte Alegre, Diego Badero
+Forastero;Sao Tome;1-1-2007 00:00:00;1;France;Pralus;1;162;4;2007;Claudio Corallo w/ nibs
+Forastero;Brazil;1-1-2006 00:00:00;1;France;Pralus;1;105;3;2006;Monte Alegre (Itacare), Brazil
+Criollo;Tanzania;1-1-2006 00:00:00;1;France;Pralus;1;105;3,5;2006;Tanzania
+Forastero;Sao Tome & Principe;1-1-2006 00:00:00;1;France;Pralus;1;5;3,5;2006;Sao Tome & Principe
+Trinitario;Trinidad;1-1-2006 00:00:00;1;France;Pralus;1;5;3,5;2006;Trinidad
+Criollo;Madagascar;1-1-2006 00:00:00;1;France;Pralus;1;5;3,75;2006;Madagascar, Nosy Be Isle.
+Criollo;Indonesia;1-1-2006 00:00:00;1;France;Pralus;1;32;3,5;2006;Java, Indonesie
+Trinitario;Venezuela;1-1-2006 00:00:00;1;France;Pralus;1;32;3,5;2006;Barlovento, Venezuela
+Trinitario;Jamaica;1-1-2006 00:00:00;1;France;Pralus;1;32;4;2006;Jamaique
+Trinitario;Ecuador;1-1-2006 00:00:00;1;France;Pralus;1;40;3;2006;Equateur
+Trinitario;Vanuatu;1-1-2006 00:00:00;1;France;Pralus;1;40;3;2006;Vanuatu
+Forastero;Ghana;1-1-2006 00:00:00;1;France;Pralus;1;40;3,25;2006;Ghana
+Trinitario;Colombia;1-1-2006 00:00:00;1;France;Pralus;1;40;3,5;2006;Colombie
+Criollo, Trinitario;Ecuador;1-1-2006 00:00:00;1;France;Pralus;1;93;4;2006;Fortissima
+Trinitario;Cuba;1-1-2006 00:00:00;1;France;Pralus;1;99;3;2006;Cuba
+Trinitario, Forastero;Venezuela, Ghana;1-1-2006 00:00:00;1;France;Pralus;1;99;3;2006;Caracas, Venezuela and Ghana
+Criollo, Forastero;Indonesia, Ghana;1-1-2006 00:00:00;1;France;Pralus;1;99;3,5;2006;Djakarta, Java and Ghana
+;Ecuador;1-1-2016 00:00:00;1;U.K.;Pump Street Bakery;1;1872;3,5;2016;Chocoan Rainforest, Teroro Escondido, ESM
+Trinitario;Grenada;1-1-2015 00:00:00;1;U.K.;Pump Street Bakery;1;1502;3,5;2015;Crayfish Bay Estate, 2014
+Criollo;Madagascar;1-1-2015 00:00:00;1;U.K.;Pump Street Bakery;1;1530;3,5;2015;Akesson's, batch 4411
+;Honduras;1-1-2015 00:00:00;1;U.K.;Pump Street Bakery;1;1688;2,75;2015;Honduras
+Trinitario;Venezuela;1-1-2014 00:00:00;1;U.K.;Pump Street Bakery;1;1223;2,75;2014;Patanemo Vil., Carabobo State, Tisano family
+Forastero (Nacional);Ecuador;1-1-2014 00:00:00;1;U.K.;Pump Street Bakery;1;1223;3;2014;Guantupi River
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.K.;Pump Street Bakery;1;1223;3,25;2014;Akessons Estate, Sambirano, Ambanja
+Forastero (Nacional);Ecuador;1-1-2014 00:00:00;1;U.K.;Pump Street Bakery;1;1227;2,75;2014;Guantupi River
+;Venezuela;1-1-2012 00:00:00;1;Italy;Pura Delizia;1;931;2,75;2012;Venezuela
+;Brazil;1-1-2013 00:00:00;1;Brazil;Q Chocolate;1;1057;3,25;2013;Brazil
+;Brazil;1-1-2013 00:00:00;1;Brazil;Q Chocolate;1;1057;3,5;2013;Brazil
+;Brazil;1-1-2013 00:00:00;1;Brazil;Q Chocolate;1;1069;2,75;2013;Brazil
+;Brazil;1-1-2013 00:00:00;1;Brazil;Q Chocolate;1;1069;3,25;2013;Brazil
+;Brazil;1-1-2012 00:00:00;1;Brazil;Q Chocolate;1;935;3;2012;Brazil
+;Brazil;1-1-2012 00:00:00;1;Brazil;Q Chocolate;1;935;3,25;2012;Brazil
+Criollo;Mexico;1-1-2016 00:00:00;1;Mexico;Quetzalli (Wolter);1;1796;2,75;2016;Mexico, Lot 28022016
+Trinitario;Mexico;1-1-2016 00:00:00;1;Mexico;Quetzalli (Wolter);1;1800;3;2016;Uranga, Lot 22032016
+;Peru(SMartin,Pangoa,nacional);1-1-2016 00:00:00;1;U.S.A.;Raaka;1;1788;3;2016;Amazon Basin Blend
+Forastero;Congo;1-1-2015 00:00:00;1;U.S.A.;Raaka;1;1708;2,75;2015;Virunga
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Raaka;1;959;3,25;2012;Madagascar
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Raaka;1;785;3,5;2011;La Red
+;Guatemala;1-1-2010 00:00:00;1;Guatemala;Rain Republic;1;470;2,75;2010;Suchitepequez E.
+Forastero(Arriba, CCN);Ecuador;1-1-2010 00:00:00;1;Eucador;Rancho San Jacinto;1;565;3;2010;Ecuador
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Ranger;1;1558;2,5;2015;San Martin, Batch 2
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Ranger;1;1562;3,25;2015;Chulucanas, Batch 1
+Criollo;Peru;1-1-2015 00:00:00;1;U.S.A.;Ranger;1;1562;3,5;2015;Tumbes, Batch 2
+Criollo;Peru;1-1-2016 00:00:00;1;France;Raoul Boulanger;1;1872;3,25;2016;Piura
+Criollo;;1-1-2012 00:00:00;1;Poland;Raw Cocoa;1;867;2,5;2012;Raw
+;Ecuador;1-1-2010 00:00:00;1;Ecuador;Republica del Cacao (aka Confecta);1;494;3,25;2010;Esmeraldas
+Forastero (Arriba);Ecuador;1-1-2009 00:00:00;1;Ecuador;Republica del Cacao (aka Confecta);1;439;2,5;2009;Los Rios, Vinces
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Ecuador;Republica del Cacao (aka Confecta);1;147;3;2007;Manabi
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Ecuador;Republica del Cacao (aka Confecta);1;147;3,5;2007;El Oro
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;Ecuador;Republica del Cacao (aka Confecta);1;170;3,75;2007;Los Rios
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Ritual;1;1860;3,75;2016;Camino Verde P., Balao, 2015 harvest, batch8
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Ritual;1;1466;3,5;2015;Camino Verde P., Balao, Guayas, 2014
+Blend;;1-1-2015 00:00:00;1;U.S.A.;Ritual;1;1466;3,5;2015;Mid Mountain, 2014
+Trinitario;Belize;1-1-2013 00:00:00;1;U.S.A.;Ritual;1;1089;3,75;2013;Toledo District, Maya
+Forastero (Nacional);Peru;1-1-2013 00:00:00;1;U.S.A.;Ritual;1;1181;3;2013;Maranon, Cajamarca
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Ritual;1;891;4;2012;Sambirano
+Nacional (Arriba);Ecuador;1-1-2012 00:00:00;1;U.S.A.;Ritual;1;967;3,25;2012;Camino Verde P., 2012, Balao, Guayas
+Trinitario;Trinidad;1-1-2012 00:00:00;1;U.S.A.;Ritual;1;979;3,5;2012;Gran Couva
+;Costa Rica;1-1-2011 00:00:00;1;U.S.A.;Ritual;1;745;3,5;2011;Costa Rica
+;Costa Rica;1-1-2016 00:00:00;1;South Korea;Roasting Masters;1;1844;3,25;2016;La Dorado, light roast
+;Costa Rica;1-1-2016 00:00:00;1;South Korea;Roasting Masters;1;1844;3,25;2016;Tapanti, light roast
+;Costa Rica;1-1-2016 00:00:00;1;South Korea;Roasting Masters;1;1844;3,25;2016;Maleku
+Trinitario;Madagascar;1-1-2013 00:00:00;1;Madagascar;Robert (aka Chocolaterie Robert);1;1061;3,25;2013;Madagascar
+Trinitario;Madagascar;1-1-2013 00:00:00;1;Madagascar;Robert (aka Chocolaterie Robert);1;1061;3,25;2013;Madagascar w/ nibs
+Trinitario;Grenada;1-1-2012 00:00:00;1;U.K.;Rococo (Grenada Chocolate Co.);1;923;3,5;2012;Gru Grococo, St. Andrews
+;Honduras;1-1-2016 00:00:00;1;U.S.A.;Rogue;1;1748;3,75;2016;La Masica, Batch 1, FHIA Research Center
+;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Rogue;1;1446;3,75;2015;Caranero, Choc. Garage Exclusive
+;Bolivia;1-1-2015 00:00:00;1;U.S.A.;Rogue;1;1566;3,25;2015;Tranquilidad, Batch 1
+Criollo;Venezuela;1-1-2014 00:00:00;1;U.S.A.;Rogue;1;1209;3,75;2014;Porcelana
+Trinitario;Madagascar;1-1-2013 00:00:00;1;U.S.A.;Rogue;1;1038;3,5;2013;Akessons Estate, Sambirano, 2013
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Rogue;1;1081;3,5;2013;Hispaniola, 2013
+;Bolivia;1-1-2013 00:00:00;1;U.S.A.;Rogue;1;1081;4;2013;Silvestre, Batch 7, 2013
+Trinitario;Jamaica;1-1-2013 00:00:00;1;U.S.A.;Rogue;1;1193;3,75;2013;Bachelor's Hall E., St. Thomas Parish
+Nacional (Arriba);Ecuador;1-1-2012 00:00:00;1;U.S.A.;Rogue;1;979;3,75;2012;Camino Verde P., Balao, Guayas
+Criollo;Bolivia;1-1-2011 00:00:00;1;U.S.A.;Rogue;1;793;3;2011;Silvestre, Batch 1, 2011
+;Peru;1-1-2010 00:00:00;1;U.S.A.;Rogue;1;565;3,75;2010;Piura
+Trinitario;Venezuela;1-1-2009 00:00:00;1;U.S.A.;Rogue;1;327;3,5;2009;Rio Caribe
+;Dominican Republic;1-1-2008 00:00:00;1;U.S.A.;Rogue;1;213;2,75;2008;Hispaniola, 2008
+Trinitario;Jamaica;1-1-2008 00:00:00;1;U.S.A.;Rogue;1;213;2,75;2008;Jamaica
+Trinitario;Madagascar;1-1-2008 00:00:00;1;U.S.A.;Rogue;1;213;2,75;2008;Sambirano, 2008
+Trinitario;Trinidad;1-1-2008 00:00:00;1;U.S.A.;Rogue;1;213;3;2008;Trinidad
+;Venezuela;1-1-2012 00:00:00;1;Hungary;Rozsavolgyi;1;809;2,5;2012;Sur del Lago
+Trinitario;Venezuela;1-1-2012 00:00:00;1;Hungary;Rozsavolgyi;1;871;2,25;2012;Rio Caribe Superior, Paria Penninsula
+Trinitario;Madagascar;1-1-2012 00:00:00;1;Hungary;Rozsavolgyi;1;871;2,5;2012;Sambirano, Akesson Estate
+Criollo;Venezuela;1-1-2011 00:00:00;1;Hungary;Rozsavolgyi;1;713;3,5;2011;Carenero Superior
+;Venezuela;1-1-2011 00:00:00;1;Hungary;Rozsavolgyi;1;717;2,5;2011;Porcelana
+;Venezuela;1-1-2011 00:00:00;1;Hungary;Rozsavolgyi;1;717;3,5;2011;Aragua, Trincheras
+Forastero;Principe;1-1-2011 00:00:00;1;Hungary;Rozsavolgyi;1;765;2,75;2011;Principe
+Trinitario;Madagascar;1-1-2010 00:00:00;1;Italy;S.A.I.D.;1;607;3,5;2010;Malgascio
+;;1-1-2010 00:00:00;1;Italy;S.A.I.D.;1;615;1,5;2010;100 percent
+;Dominican Republic;1-1-2010 00:00:00;1;Italy;S.A.I.D.;1;615;3;2010;Samana
+;Carribean;1-1-2010 00:00:00;1;Italy;S.A.I.D.;1;615;3,5;2010;Arawak
+;;1-1-2010 00:00:00;1;Italy;S.A.I.D.;1;615;3,5;2010;Latino
+;Central and S. America;1-1-2012 00:00:00;1;U.S.A.;Sacred;1;813;2,75;2012;Midnight
+;Central and S. America;1-1-2012 00:00:00;1;U.S.A.;Sacred;1;813;3,25;2012;Twilight
+Forastero;Brazil;1-1-2008 00:00:00;1;Argentina;Salgado;1;288;3,5;2008;Bahia Superior
+Forastero (Nacional);Ecuador;1-1-2008 00:00:00;1;Argentina;Salgado;1;288;3,5;2008;Esmeraldas
+Trinitario;Venezuela;1-1-2008 00:00:00;1;Argentina;Salgado;1;288;3,5;2008;Carenero Superior
+Forastero (Arriba) ASSS;Ecuador;1-1-2008 00:00:00;1;Argentina;Salgado;1;292;3,5;2008;Rio Arriba
+Forastero (Nacional);Colombia;1-1-2009 00:00:00;1;Colombia;Santander (Compania Nacional);1;404;2,75;2009;Colombian 2008
+Forastero (Nacional);Colombia;1-1-2009 00:00:00;1;Colombia;Santander (Compania Nacional);1;414;3;2009;Colombian w/ nibs
+Forastero (Nacional);Colombia;1-1-2006 00:00:00;1;Colombia;Santander (Compania Nacional);1;32;2;2006;Colombian Semi Dark
+Forastero (Nacional);Colombia;1-1-2006 00:00:00;1;Colombia;Santander (Compania Nacional);1;32;3;2006;Colombian
+Forastero (Nacional);Colombia;1-1-2006 00:00:00;1;Colombia;Santander (Compania Nacional);1;32;4;2006;Colombian Dark
+Forastero;Sao Tome;1-1-2011 00:00:00;1;France;Santome;1;761;2,75;2011;Sao Tome
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Scharffen Berger;1;959;4;2012;San Juan de Cheni
+;Papua New Guinea;1-1-2011 00:00:00;1;U.S.A.;Scharffen Berger;1;781;3,75;2011;Markham Valley
+Trinitario;Grenada;1-1-2010 00:00:00;1;U.S.A.;Scharffen Berger;1;464;3,5;2010;Camahogne
+Trinitario, Criollo;Madagascar;1-1-2010 00:00:00;1;U.S.A.;Scharffen Berger;1;464;3,75;2010;Amina
+;Brazil;1-1-2009 00:00:00;1;U.S.A.;Scharffen Berger;1;336;3,75;2009;Tome Acu
+Forastero;Ghana;1-1-2009 00:00:00;1;U.S.A.;Scharffen Berger;1;336;4;2009;Asante
+Trinitario;Vietnam;1-1-2009 00:00:00;1;U.S.A.;Scharffen Berger;1;445;3,75;2009;Ben Tre
+Blend;Ven., Trinidad, Mad.;1-1-2008 00:00:00;1;U.S.A.;Scharffen Berger;1;227;3;2008;Finisterra
+Blend;Carribean(DR/Jam/Tri);1-1-2007 00:00:00;1;U.S.A.;Scharffen Berger;1;117;3;2007;Las Islas
+;;1-1-2007 00:00:00;1;U.S.A.;Scharffen Berger;1;135;3;2007;Nibby
+;Venezuela;1-1-2007 00:00:00;1;U.S.A.;Scharffen Berger;1;135;3,75;2007;Cuyagua
+Blend;Carribean;1-1-2007 00:00:00;1;U.S.A.;Scharffen Berger;1;188;3;2007;Antilles (Trin/Gren/DR/Ven)
+;;1-1-2006 00:00:00;1;U.S.A.;Scharffen Berger;1;15;2;2006;Extra Dark
+Blend;;1-1-2006 00:00:00;1;U.S.A.;Scharffen Berger;1;15;3,5;2006;Bittersweet
+Blend;Ghana & Madagascar;1-1-2006 00:00:00;1;U.S.A.;Scharffen Berger;1;40;2;2006;Kumasi Sambirano
+Trinitario;Jamaica;1-1-2006 00:00:00;1;U.S.A.;Scharffen Berger;1;56;2;2006;Jamaica a l'ancienne
+Blend;;1-1-2006 00:00:00;1;U.S.A.;Scharffen Berger;1;56;3;2006;Semisweet
+;Domincan Republic;1-1-2015 00:00:00;1;U.K.;Seaforth;1;1658;2,75;2015;Dominican Republic
+;Grenada;1-1-2015 00:00:00;1;U.K.;Seaforth;1;1658;2,75;2015;Grenada
+Trinitario;Jamaica;1-1-2015 00:00:00;1;U.S.A.;Shark Mountain;1;1450;3,25;2015;Jamaica
+Forastero;Papua New Guinea;1-1-2015 00:00:00;1;U.S.A.;Shark Mountain;1;1450;3,5;2015;Papua New Guinea
+Criollo;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Shark Mountain;1;1466;2,75;2015;Cuyagua
+Criollo, Trinitario;Dominican Republic;1-1-2015 00:00:00;1;U.S.A.;Shark Mountain;1;1466;3,5;2015;ROIG
+Trinitario;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Shark Mountain;1;1335;3;2014;Ecuador
+Criollo, Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Shark Mountain;1;1335;3,25;2014;Belize, 2013
+;Hawaii;1-1-2011 00:00:00;1;U.S.A.;Shark's;1;713;2;2011;Hilo
+;Hawaii;1-1-2011 00:00:00;1;U.S.A.;Shark's;1;721;2,5;2011;Hilo, w/ added cocoa butter
+;Peru;1-1-2016 00:00:00;1;Peru;Shattel;1;1884;3,25;2016;Tingo Maria
+Criollo;Peru;1-1-2011 00:00:00;1;Peru;Shattell;1;757;3,5;2011;Porcelana
+;Costa Rica;1-1-2015 00:00:00;1;Costa Rica;Sibu;1;1586;3,25;2015;Oro
+;Costa Rica;1-1-2015 00:00:00;1;Costa Rica;Sibu;1;1586;3,5;2015;Oscuro
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Sibu Sura;1;911;2,5;2012;Peru
+Criollo;Belize;1-1-2011 00:00:00;1;Italy;Silvio Bessone;1;717;3;2011;Maya Belize
+Forastero;Sao Tome;1-1-2011 00:00:00;1;Italy;Silvio Bessone;1;725;3,25;2011;Trintade, Sao Tome
+Trinitario;Brazil;1-1-2011 00:00:00;1;Italy;Silvio Bessone;1;729;3,25;2011;Bahia, Scavina
+Criollo, Trinitario;Colombia;1-1-2011 00:00:00;1;Italy;Silvio Bessone;1;741;3;2011;Porcelana, Colombia, Amazonas
+;Bolivia;1-1-2016 00:00:00;1;Canada;Sirene;1;1788;3,5;2016;Wild Bolivia
+;Tanzania;1-1-2016 00:00:00;1;Canada;Sirene;1;1856;3,5;2016;Kokoa Kamili Coop
+;Ecuador;1-1-2016 00:00:00;1;Canada;Sirene;1;1860;3,75;2016;Esmeraldas, Salazar Farm
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Canada;Sirene;1;1502;3;2015;Somia Plantation, 2012
+;Ecuador;1-1-2015 00:00:00;1;Canada;Sirene;1;1506;3;2015;Camino Verde P., Balao, Guayas, 2012
+;Guatemala;1-1-2015 00:00:00;1;Canada;Sirene;1;1614;3;2015;Lachua w/ cane sugar
+;Guatemala;1-1-2015 00:00:00;1;Canada;Sirene;1;1614;3,25;2015;Lachua w/ maple sugar, batch 5
+;Haiti;1-1-2015 00:00:00;1;Canada;Sirene;1;1650;3,25;2015;Pisa
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Canada;Sirene;1;1339;3,75;2014;Somia Plantation, 2012
+Trinitario;Madagascar;1-1-2014 00:00:00;1;Canada;Sirene;1;1339;3,75;2014;Somia Plantation, 2012
+;Ecuador;1-1-2014 00:00:00;1;Canada;Sirene;1;1343;3,75;2014;Camino Verde P., Balao, Guayas
+Forastero;Ghana;1-1-2015 00:00:00;1;U.S.A.;Sjolinds;1;1454;2,75;2015;Ghana
+;Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Sjolinds;1;1462;3;2015;Nicaragua
+;Dominican Republic;1-1-2017 00:00:00;1;Australia;Smooth Chocolator, The;1;1940;3,5;2017;Oko Caribe, DOR005
+Criollo;Venezuela;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1740;3,75;2016;Guasare, La Sierra de Perija, batch gua001
+Criollo;Ecuador;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1740;4;2016;Porcelana, Sorotaima,Machiques,batch pcl001
+;Belize;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1756;3,75;2016;Maya Mtn, Moho R., Toledo D.
+Trinitario;Vietnam;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1864;3;2016;Tien Giang
+;Australia;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1864;3,75;2016;Australia
+;Guatemala;1-1-2016 00:00:00;1;Australia;Smooth Chocolator, The;1;1908;3,25;2016;Chimelb, Lanquin, Alta Verapaz, b-GUA001
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1618;3,25;2015;Akesson's Estate
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1622;3,5;2015;Akesson's Estate
+;Tanzania;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1622;3,75;2015;Kokoa Kamili
+Trinitario;Trinidad;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1622;3,75;2015;San Juan Estate
+;Ecuador;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1622;4;2015;Camino Verde
+;Bolivia;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1626;2,75;2015;Bolivia
+;Papua New Guinea;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1662;3,5;2015;Papua New Guinea, triple roast, batch 1
+Forastero (Nacional);Peru;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1666;3;2015;Maranon, batch 2
+Trinitario;Venezuela;1-1-2015 00:00:00;1;Australia;Smooth Chocolator, The;1;1666;3,75;2015;Chuao, batch 3
+Forastero;Ghana;1-1-2011 00:00:00;1;U.S.A.;Snake & Butterfly;1;693;1,5;2011;Ghana
+Trinitario;Madagascar;1-1-2010 00:00:00;1;U.S.A.;Snake & Butterfly;1;502;3;2010;Madagascar
+;Ecuador;1-1-2010 00:00:00;1;U.S.A.;Snake & Butterfly;1;502;3,25;2010;Ecuador
+;Ecuador;1-1-2016 00:00:00;1;U.S.A.;Sol Cacao;1;1812;3,5;2016;Ecuador, Batch 1
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Sol Cacao;1;1518;3;2015;Madagascar
+Forastero (Nacional);Peru;1-1-2016 00:00:00;1;U.K.;Solkiki;1;1840;2,75;2016;Maranon, Fortunato No. 4
+;Domincan Republic;1-1-2016 00:00:00;1;U.K.;Solkiki;1;1840;2,75;2016;Castillo, Hispaniola, unroasted
+;Solomon Islands;1-1-2016 00:00:00;1;New Zealand;Solomons Gold;1;1792;3,25;2016;Solomon Island
+;Solomon Islands;1-1-2016 00:00:00;1;New Zealand;Solomons Gold;1;1796;3,25;2016;Solomon Island w/ nibs
+Forastero, Trinitario;Uganda;1-1-2014 00:00:00;1;U.S.A.;Solstice;1;1335;3;2014;Bundibugyo
+Trinitario;Madagascar;1-1-2013 00:00:00;1;U.S.A.;Solstice;1;1157;3;2013;Sambirano
+;Venezuela;1-1-2013 00:00:00;1;U.S.A.;Solstice;1;1157;3;2013;Amazonas
+;Bolivia;1-1-2013 00:00:00;1;U.S.A.;Solstice;1;1161;3,25;2013;Bolivia
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Solstice;1;1161;3,25;2013;San Martin
+Blend;;1-1-2013 00:00:00;1;U.S.A.;Solstice;1;1161;3,5;2013;Wasatch
+;Domincan Republic;1-1-2016 00:00:00;1;Canada;Soma;1;1820;3,5;2016;Oko Caribe, Duarte P., Collab w Chocosol
+Trinitario;Madagascar;1-1-2016 00:00:00;1;Canada;Soma;1;1820;3,5;2016;Sambirano Valley, Black Science, B-60307.0
+Forastero (Parazinho);Brazil;1-1-2016 00:00:00;1;Canada;Soma;1;1828;3,5;2016;Bahia Black, batch bra50722.1
+;Ven.,Ecu.,Peru,Nic.;1-1-2016 00:00:00;1;Canada;Soma;1;1828;3,75;2016;Abstract S. w/ Jamaica nibs,batch abs60323.0
+Trinitario;Nicaragua;1-1-2016 00:00:00;1;Canada;Soma;1;1828;3,75;2016;Chuno, San Jose de Bocay, Pantasma R.,B.S.
+Trinitario;Vietnam;1-1-2016 00:00:00;1;Canada;Soma;1;1828;4;2016;Tien Giang, Black S., batch VIT60420.0
+;Ecuador;1-1-2016 00:00:00;1;Canada;Soma;1;1832;3,25;2016;Camino Verde, Black S., batch cvu6030.0
+Criollo;Venezuela;1-1-2015 00:00:00;1;Canada;Soma;1;1594;3,5;2015;CSB Chama
+;Venezuela;1-1-2015 00:00:00;1;Canada;Soma;1;1594;4;2015;Porcelana
+;Nicaragua;1-1-2014 00:00:00;1;Canada;Soma;1;1227;3,5;2014;La Tronca, Matagalpa
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;Canada;Soma;1;1259;3,75;2014;Maranon Canyon
+Trinitario;Nicaragua;1-1-2014 00:00:00;1;Canada;Soma;1;1307;3,25;2014;La Dalia
+Forastero (Nacional);Ecuador;1-1-2014 00:00:00;1;Canada;Soma;1;1307;3,5;2014;Camino Verde P., Balao, Guayas
+Forastero (Amelonado);Vanuatu;1-1-2014 00:00:00;1;Canada;Soma;1;1307;3,75;2014;Espiritu Santo, 'Smoke Monster'
+Blend;Madagascar & Ecuador;1-1-2014 00:00:00;1;Canada;Soma;1;1339;3,25;2014;Little Big Man
+Trinitario;Dominican Republic;1-1-2013 00:00:00;1;Canada;Soma;1;1019;3,75;2013;Rizek Cacao, Domin. Rep.
+Criollo;Indonesia;1-1-2013 00:00:00;1;Canada;Soma;1;1030;3,25;2013;Java
+Criollo;Peru;1-1-2013 00:00:00;1;Canada;Soma;1;1073;2,75;2013;Apurimac, El Quinacho Co-op
+Trinitario;Trinidad;1-1-2013 00:00:00;1;Canada;Soma;1;1073;3,75;2013;Sangre Grande P., Trinidad
+;;1-1-2013 00:00:00;1;Canada;Soma;1;1077;3,25;2013;Chef's Blend
+Criollo;Venezuela;1-1-2013 00:00:00;1;Canada;Soma;1;1077;3,75;2013;Patanemo
+;Guat., D.R., Peru, Mad., PNG;1-1-2013 00:00:00;1;Canada;Soma;1;1077;4;2013;Crazy 88
+Criollo;Venezuela;1-1-2013 00:00:00;1;Canada;Soma;1;1077;4;2013;Maracaibo, El Vigia
+;Peru, Dom. Rep;1-1-2013 00:00:00;1;Canada;Soma;1;1081;4;2013;Equator
+Forastero;Venezuela;1-1-2013 00:00:00;1;Canada;Soma;1;1173;3,25;2013;Orinoco
+Trinitario;Jamaica;1-1-2013 00:00:00;1;Canada;Soma;1;1177;4;2013;Bachelor's Hall E., St. Thomas Parish
+;Haiti;1-1-2012 00:00:00;1;Canada;Soma;1;817;3,25;2012;Noula Coop
+;Hawaii;1-1-2012 00:00:00;1;Canada;Soma;1;833;3,75;2012;O'ahu
+Blend;Dom. Rep., Madagascar;1-1-2012 00:00:00;1;Canada;Soma;1;867;4;2012;Dual Origins, Sambirano, Elvesia
+Blend;Gre., PNG, Haw., Haiti, Mad;1-1-2012 00:00:00;1;Canada;Soma;1;867;4;2012;Dancing in Your Head, 5 bean blend
+Trinitario;Guatemala;1-1-2012 00:00:00;1;Canada;Soma;1;951;3,5;2012;Cahabon Region
+Trinitario;Venezuela;1-1-2012 00:00:00;1;Canada;Soma;1;951;3,75;2012;Carenero Superior
+Blend;Mad., Java, PNG;1-1-2012 00:00:00;1;Canada;Soma;1;967;3,5;2012;Eastern Promises
+Trinitario;Papua New Guinea;1-1-2012 00:00:00;1;Canada;Soma;1;983;3,5;2012;Papua New Guinea
+Trinitario;Grenada;1-1-2011 00:00:00;1;Canada;Soma;1;676;2,75;2011;Grenada, Black Science
+Nacional;Bolivia;1-1-2011 00:00:00;1;Canada;Soma;1;676;3,5;2011;Alto Beni, Wild Bolivian
+;Peru;1-1-2011 00:00:00;1;Canada;Soma;1;676;4;2011;Peruvian
+;Ven, Bolivia, D.R.;1-1-2011 00:00:00;1;Canada;Soma;1;676;4;2011;Three Amigos(Chuao, Wild Bolivia, D.R.)
+Forastero;Dominican Republic;1-1-2011 00:00:00;1;Canada;Soma;1;682;3,75;2011;Elvesia P., Black Science
+Criollo;Venezuela;1-1-2011 00:00:00;1;Canada;Soma;1;688;3,5;2011;Chuao
+Trinitario, Nacional;DR, Ecuador, Peru;1-1-2010 00:00:00;1;Canada;Soma;1;607;3,75;2010;Black Science Blend 1
+Forastero;Dominican Republic;1-1-2009 00:00:00;1;Canada;Soma;1;377;3;2009;Hispaniola
+Forastero;Ghana;1-1-2009 00:00:00;1;Canada;Soma;1;377;3,5;2009;Africa
+Trinitario;Dominican Republic;1-1-2009 00:00:00;1;Canada;Soma;1;387;3;2009;Conacado
+Trinitario;Papua New Guinea;1-1-2009 00:00:00;1;Canada;Soma;1;387;3,5;2009;Papua New Guinea
+Criollo;Madagascar;1-1-2009 00:00:00;1;Canada;Soma;1;387;3,75;2009;Madagascar
+Criollo;Venezuela;1-1-2009 00:00:00;1;Canada;Soma;1;387;3,75;2009;Ocumare
+;Nicaragua;1-1-2014 00:00:00;1;U.S.A.;Somerville;1;1367;3,25;2014;Nicaragua
+;Hawaii;1-1-2014 00:00:00;1;U.S.A.;Somerville;1;1395;3,5;2014;Hawaiian, Big Island
+;Dominican Republic;1-1-2017 00:00:00;1;Canada;Soul;1;1932;3,25;2017;Dominican Republic
+;Madagascar;1-1-2017 00:00:00;1;Canada;Soul;1;1936;3,5;2017;Madagascar
+;Venezuela;1-1-2017 00:00:00;1;Canada;Soul;1;1936;3,5;2017;Venezuela
+;Ecuador;1-1-2017 00:00:00;1;Canada;Soul;1;1936;3,25;2017;Ecuador
+;Papua New Guinea;1-1-2017 00:00:00;1;Canada;Soul;1;1936;3,25;2017;Papua New Guinea
+;Tanzania;1-1-2017 00:00:00;1;Canada;Soul;1;1940;3,5;2017;Tanzania
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Spagnvola;1;793;3;2012;AgroCriso Plantation
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Spagnvola;1;793;3;2012;AgroCriso Plantation
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Spagnvola;1;793;3,25;2012;AgroCriso Plantation
+;Dominican Republic;1-1-2017 00:00:00;1;U.S.A.;Spencer;1;1932;3,75;2017;Dominican Republic
+;Ecuador;1-1-2017 00:00:00;1;U.S.A.;Spencer;1;1932;3,5;2017;Ecuador
+;Peru;1-1-2017 00:00:00;1;U.S.A.;Spencer;1;1932;2,75;2017;Peru
+;Domincan Republic;1-1-2016 00:00:00;1;Australia;Spencer;1;1792;3,5;2016;Dominican Republic, lot D82R
+;Ecuador;1-1-2016 00:00:00;1;Australia;Spencer;1;1792;3,75;2016;Ecuador, lot E432314L
+;Madagascar;1-1-2016 00:00:00;1;Australia;Spencer;1;1792;3,75;2016;Madagascar, lot M0403R
+Trinitario;Vanuatu;1-1-2014 00:00:00;1;Australia;Spencer;1;1434;2,75;2014;Malekula Island
+Criollo;Bolivia;1-1-2013 00:00:00;1;Switzerland;Sprungli (Felchlin);1;1057;3;2013;Alto Beni
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;SRSLY;1;1113;3;2013;Dominican Republic
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;SRSLY;1;1121;2,25;2013;Dominican Republic
+Forastero (Nacional);Ecuador;1-1-2015 00:00:00;1;U.S.A.;Starchild;1;1634;3;2015;Bolivar, Arriba
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Starchild;1;1692;3;2015;Hispaniola
+;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Starchild;1;1692;3;2015;Cacao Verapaz
+Trinitario (Amelonado);Nicaragua;1-1-2015 00:00:00;1;U.S.A.;Starchild;1;1692;3;2015;Rio Tuma
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Starchild;1;1696;3;2015;Sambirano Valley
+Trinitario;Brazil;1-1-2012 00:00:00;1;Switzerland;Stella (aka Bernrain);1;859;2,75;2012;Bahia, Agri-Forestal Plantation, 2010
+;India;1-1-2011 00:00:00;1;Switzerland;Stella (aka Bernrain);1;729;3,25;2011;India
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Stone Grindz;1;1291;3,5;2014;Ecuador, Midnight Dark
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Stone Grindz;1;1291;3,5;2014;Ecuador, Twilght Dark
+;Philippines;1-1-2012 00:00:00;1;U.S.A.;StRita Supreme;1;939;2,5;2012;Samar, East Visayas region
+;Philippines;1-1-2012 00:00:00;1;U.S.A.;StRita Supreme;1;943;2,5;2012;Samar, East Visayas region
+;Philippines;1-1-2012 00:00:00;1;U.S.A.;StRita Supreme;1;943;2,75;2012;Samar, East Visayas region
+Trinitario;Madagascar;1-1-2013 00:00:00;1;U.S.A.;Sublime Origins;1;1157;2,75;2013;Sambirano
+Trinitario;Belize;1-1-2013 00:00:00;1;U.S.A.;Sublime Origins;1;1157;3,25;2013;Moho Valley
+Criollo, Trinitario;Peru;1-1-2016 00:00:00;1;Denmark;Summerbird;1;1800;2,5;2016;Peru
+Criollo, Trinitario;Peru;1-1-2016 00:00:00;1;Denmark;Summerbird;1;1800;3;2016;Peru
+;Venezuela;1-1-2016 00:00:00;1;Venezuela;Suruca Chocolate;1;1796;2,75;2016;Venezuela
+;Venezuela;1-1-2016 00:00:00;1;Venezuela;Suruca Chocolate;1;1796;3;2016;Venezuela
+Criollo, Trinitario;Sri Lanka;1-1-2015 00:00:00;1;Sweden;Svenska Kakaobolaget;1;1618;2,75;2015;Sri Lanka
+;Ecuador;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1668;3,25;2015;Nacional
+Trinitario;Cuba;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1704;3,25;2015;Baracoa
+Trinitario;Madagascar;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1704;3,25;2015;Ambolikapiky
+Forastero (Nacional);Ecuador;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1704;3,75;2015;Winak, Sumaco
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1708;3,25;2015;Ben Tre, Mekong Delta
+Forastero (Parazinho);Brazil;1-1-2015 00:00:00;1;Hungary;Szanto Tibor;1;1708;3,5;2015;Fazenda Sempre Firme, Bahia
+Criollo;Venezuela;1-1-2014 00:00:00;1;Hungary;Szanto Tibor;1;1263;3,5;2014;Porcelana
+Trinitario;Cuba;1-1-2014 00:00:00;1;Hungary;Szanto Tibor;1;1263;3,75;2014;Baracoa
+Criollo;Madagascar;1-1-2013 00:00:00;1;Hungary;Szanto Tibor;1;1185;3,5;2013;Autumn, Primary Harvest, 2012
+Criollo;Madagascar;1-1-2013 00:00:00;1;Hungary;Szanto Tibor;1;1185;3,5;2013;Spring, Secondary Harvest, 2012
+;Nicaragua;1-1-2013 00:00:00;1;Hungary;Szanto Tibor;1;1193;3,25;2013;Cacao Blanco
+;Dominican Republic;1-1-2012 00:00:00;1;Hungary;Szanto Tibor;1;939;3,25;2012;Santo Domingo
+;Madagascar;1-1-2012 00:00:00;1;Hungary;Szanto Tibor;1;939;3,25;2012;Millot Plantation
+;Peru;1-1-2012 00:00:00;1;Hungary;Szanto Tibor;1;939;3,75;2012;"Ayacucho, ""El Guinacho"""
+;Venezuela;1-1-2011 00:00:00;1;Hungary;Szanto Tibor;1;761;3;2011;Crudo
+;Costa Rica;1-1-2013 00:00:00;1;U.S.A.;Tabal;1;1101;2,75;2013;Costa Rica
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;Tabal;1;1101;2,75;2013;Dominican Republic
+;Mexico;1-1-2013 00:00:00;1;U.S.A.;Tabal;1;1105;2,5;2013;Chiapas, Lacandon Jungle
+;Peru;1-1-2013 00:00:00;1;U.S.A.;Tabal;1;1105;3;2013;Peru
+;Colombia;1-1-2015 00:00:00;1;Japan;Tablette (aka Vanillabeans);1;1450;3;2015;Colombia
+;Papua New Guinea;1-1-2015 00:00:00;1;Japan;Tablette (aka Vanillabeans);1;1450;3,25;2015;Papua
+Trinitario;Vietnam;1-1-2015 00:00:00;1;Japan;Tablette (aka Vanillabeans);1;1450;3,25;2015;Vietnam
+Trinitario;Trinidad;1-1-2015 00:00:00;1;Japan;Tablette (aka Vanillabeans);1;1680;2,75;2015;Trinidad
+Trinitario;Suriname;1-1-2016 00:00:00;1;Suriname;Tan Ban Skrati;1;1868;3,25;2016;Paramaribo, batch 20160043-01
+Trinitario;Belize;1-1-2014 00:00:00;1;U.S.A.;Taza;1;1271;3;2014;Belize
+;Bolivia;1-1-2011 00:00:00;1;U.S.A.;Taza;1;785;3,25;2011;Alto Beni
+;Mexico;1-1-2009 00:00:00;1;U.S.A.;Taza;1;451;2,75;2009;Chiapan
+;Dominican Republic;1-1-2007 00:00:00;1;U.S.A.;Taza;1;180;3;2007;Dark, Stone Ground
+Forastero;West Africa;1-1-2016 00:00:00;1;U.S.A.;TCHO;1;1716;2;2016;West Africa
+;Peru, Ecuador;1-1-2012 00:00:00;1;U.S.A.;TCHO;1;915;3,25;2012;Peru- Ecuador
+;;1-1-2009 00:00:00;1;U.S.A.;TCHO;1;387;2,75;2009;TCHOPro 60.5
+;;1-1-2009 00:00:00;1;U.S.A.;TCHO;1;387;3;2009;TCHOPro 68
+Forastero;Ghana;1-1-2008 00:00:00;1;U.S.A.;TCHO;1;199;2,5;2008;Chocolatey-beta
+;Peru;1-1-2008 00:00:00;1;U.S.A.;TCHO;1;280;2,5;2008;Fruity-beta
+;Madagascar;1-1-2008 00:00:00;1;U.S.A.;TCHO;1;280;2,75;2008;Citrus-beta
+;Peru;1-1-2008 00:00:00;1;U.S.A.;TCHO;1;284;2,5;2008;Nutty-beta
+;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;801;2,75;2012;Concepcion
+Blend;Ecuador, Mad., PNG;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;801;3;2012;Bayou Blend
+;Papua New Guinea;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;805;3;2012;Aranama
+;Dominican Republic;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;805;3,5;2012;Presidio
+;Ecuador;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;817;3,25;2012;La Bahia, w/ cane juice
+;Peru;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;821;2;2012;Capistrano
+;Ecuador;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;825;3,25;2012;La Bahia, w/ cane sugar
+;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;829;2,75;2012;San Jose
+;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;829;3;2012;Capistrano*
+;Mexico;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;833;3,25;2012;Espada
+;Brazil;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;967;2,75;2012;Espada
+;Venezuela;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;971;3;2012;Concepcion*
+;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;971;3,25;2012;San Jose
+Forastero (Parazinho);Brazil;1-1-2012 00:00:00;1;U.S.A.;Tejas;1;971;3,5;2012;Bahia, Floresta Azul,Good Friends Reserve#3
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1478;2,75;2015;Peru
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1478;3,75;2015;Belize
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1478;3,75;2015;Madagascar
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1482;3,25;2015;Ecuador
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1554;3,5;2015;Oko Caribe
+Trinitario;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Terroir;1;1558;3,75;2015;Guatemala
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Terroir;1;1323;3,25;2014;Ecuador
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;Terroir;1;1323;3,75;2014;Madagascar
+Forastero;Uganda;1-1-2014 00:00:00;1;U.S.A.;Terroir;1;1323;3,75;2014;Uganda
+;Peru;1-1-2015 00:00:00;1;Sweden;The Barn;1;1614;3;2015;Peru
+Forastero;Congo;1-1-2012 00:00:00;1;U.S.A.;Theo;1;903;3,25;2012;Congo w/ nibs
+Trinitario;Madagascar;1-1-2007 00:00:00;1;U.S.A.;Theo;1;162;3,5;2007;Madagascar
+;Ivory Coast;1-1-2007 00:00:00;1;U.S.A.;Theo;1;184;2,5;2007;Ivory Coast
+Forastero;Ghana;1-1-2007 00:00:00;1;U.S.A.;Theo;1;184;3;2007;Ghana, Kumasi
+Blend;Venezuela;1-1-2007 00:00:00;1;U.S.A.;Theo;1;188;2;2007;"Venezuela; Barinos, Merida, Tachron"
+Blend;Ghana, Panama, Ecuador;1-1-2007 00:00:00;1;U.S.A.;Theo;1;188;3;2007;Ghana, Panama, Ecuador
+;Peru;1-1-2015 00:00:00;1;Japan;Theobroma;1;1684;3,25;2015;Piura Select, Cacao Blanc
+Trinitario, TCGA;Belize;1-1-2016 00:00:00;1;Germany;Timo A. Meyer;1;1836;3,75;2016;Belize, med roast
+Forastero (Nacional);Ecuador;1-1-2014 00:00:00;1;Ecuador;To'ak (Ecuatoriana);1;1418;3,25;2014;Manabi
+Trinitario;Tobago;1-1-2012 00:00:00;1;France;Tobago Estate (Pralus);1;895;4;2012;Roxborough, Tobago
+Criollo;Bolivia;1-1-2012 00:00:00;1;U.S.A.;Tocoti;1;927;3;2012;Wild Bolivian, Jungle Love
+;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Tocoti;1;789;2,75;2011;Venezuela
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Tocoti;1;789;3;2011;Dominican Republic
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Treehouse;1;1239;3;2014;Conacado
+;Madagascar;1-1-2011 00:00:00;1;Madagascar;Tsara (Cinagra);1;753;3,5;2011;Ambanja, Tsara Valley
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;twenty-four blackbirds;1;1700;2,75;2015;Oko Caribe
+;Ecuador;1-1-2015 00:00:00;1;U.S.A.;twenty-four blackbirds;1;1700;3,5;2015;Cedeno, lot 271
+Trinitario;Madagascar;1-1-2014 00:00:00;1;U.S.A.;twenty-four blackbirds;1;1235;3,5;2014;Madagascar
+;Dominican Republic;1-1-2013 00:00:00;1;U.S.A.;twenty-four blackbirds;1;1022;3,25;2013;Dominican Republic
+;Bolivia;1-1-2013 00:00:00;1;U.S.A.;twenty-four blackbirds;1;1026;2,5;2013;Palos Blancos
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;twenty-four blackbirds;1;753;2,75;2011;Dominican Republic
+Criollo;Peru;1-1-2016 00:00:00;1;U.S.A.;Two Ravens;1;1740;3;2016;Peru
+;Dominican Republic;1-1-2011 00:00:00;1;France;Un Dimanche A Paris;1;709;3,75;2011;Dominican Republic
+;Nicaragua;1-1-2014 00:00:00;1;U.S.A.;Undone;1;1438;2,75;2014;Matagalpa
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Undone;1;1438;3;2014;Nourish
+Trinitario;Madagascar;1-1-2016 00:00:00;1;U.S.A.;Upchurch;1;1752;3;2016;Madagascar, Sassy Bar
+;Tanzania;1-1-2016 00:00:00;1;U.S.A.;Upchurch;1;1752;3,25;2016;Tanzania, Party Bar
+Trinitario;Venezuela;1-1-2014 00:00:00;1;Italy;Urzi;1;1327;3,25;2014;Sur del Lago, Merida
+;Peru;1-1-2015 00:00:00;1;France;Valrhona;1;1510;4;2015;Piura, Illanka, Quemazon
+;;1-1-2013 00:00:00;1;France;Valrhona;1;1145;3,5;2013;Andoa, Grand Cru blend
+;Dominican Republic;1-1-2013 00:00:00;1;France;Valrhona;1;1153;3,5;2013;Loma Sotavento, 2013
+;Venezuela;1-1-2012 00:00:00;1;France;Valrhona;1;931;4;2012;Otucan, Grand Cru
+;;1-1-2011 00:00:00;1;France;Valrhona;1;709;3,25;2011;Caraque
+Criollo;Venezuela;1-1-2011 00:00:00;1;France;Valrhona;1;757;4;2011;Porcelana, Pedegral
+;Dominican Republic;1-1-2009 00:00:00;1;France;Valrhona;1;327;3,75;2009;Tainori
+;Ecuador;1-1-2009 00:00:00;1;France;Valrhona;1;370;3,75;2009;Alpaco
+Forastero;Ghana;1-1-2009 00:00:00;1;France;Valrhona;1;395;3,5;2009;Nyangbo
+Blend;Venezuela, Carribean;1-1-2007 00:00:00;1;France;Valrhona;1;117;3;2007;Araguani
+Trinitario;Venezuela;1-1-2007 00:00:00;1;France;Valrhona;1;129;3,75;2007;Chuao 2002 P.
+Criollo, Trinitario;Madagascar;1-1-2007 00:00:00;1;France;Valrhona;1;129;4;2007;Manjari
+;;1-1-2007 00:00:00;1;France;Valrhona;1;147;1,5;2007;Le Noir Extra Amer
+Forastero;West Africa;1-1-2007 00:00:00;1;France;Valrhona;1;153;2,5;2007;Abinao
+Forastero;West Africa;1-1-2007 00:00:00;1;France;Valrhona;1;157;2,75;2007;Le Noir Amer
+Criollo (Porcelana);Venezuela;1-1-2007 00:00:00;1;France;Valrhona;1;162;3,25;2007;Porcelana, Maracaibo, Palmira P. 2006
+Trinitario;Carribean;1-1-2006 00:00:00;1;France;Valrhona;1;63;3;2006;Caraibe
+Criollo, Trinitario;South America;1-1-2006 00:00:00;1;France;Valrhona;1;63;4;2006;Guanaja
+Trinitario;Trinidad;1-1-2006 00:00:00;1;France;Valrhona;1;75;2,5;2006;Gran Couva 2005 P.
+Criollo (Porcelana);Venezuela;1-1-2006 00:00:00;1;France;Valrhona;1;75;3;2006;Porcelana, Maracaibo, Palmira P. 2005
+Trinitario;Madagascar;1-1-2006 00:00:00;1;France;Valrhona;1;75;3,5;2006;Sambirano, Ampamakia 2005, Millot P.
+Forastero;Ghana;1-1-2012 00:00:00;1;U.S.A.;Vanleer (Barry Callebaut);1;963;2,5;2012;Manhattan
+Forastero;Ghana;1-1-2012 00:00:00;1;U.S.A.;Vanleer (Barry Callebaut);1;963;2,75;2012;Napa
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;2,75;2009;Madagascar
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;2,75;2009;Madagascar
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;2,75;2009;Madagascar
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;3;2009;Madagascar
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;3;2009;Madagascar w/ nibs
+Trinitario;Madagascar;1-1-2009 00:00:00;1;Madagascar;Vao Vao (Chocolaterie Robert);1;404;3,25;2009;Madagascar
+;Bolivia;1-1-2015 00:00:00;1;U.S.A.;Vicuna;1;1470;3,25;2015;Palos Blancos
+;Bolivia;1-1-2015 00:00:00;1;U.S.A.;Vicuna;1;1470;3,25;2015;Palos Blancos + nibs
+;Dominican Republic;1-1-2014 00:00:00;1;U.S.A.;Videri;1;1211;3,25;2014;Dominican Republic
+Trinitario;Trinidad;1-1-2014 00:00:00;1;U.S.A.;Videri;1;1211;3,5;2014;Trinidad
+;Ecuador;1-1-2014 00:00:00;1;U.S.A.;Videri;1;1227;3,5;2014;Mindo
+;Central and S. America;1-1-2013 00:00:00;1;U.S.A.;Videri;1;1117;3,75;2013;Dark
+;Central and S. America;1-1-2012 00:00:00;1;U.S.A.;Videri;1;991;3,25;2012;Classic
+Trinitario;Vietnam;1-1-2012 00:00:00;1;France;Vietcacao (A. Morin);1;951;3,5;2012;Ben Tre, Mekong Delta, MoCay
+;Peru;1-1-2014 00:00:00;1;U.S.A.;Vintage Plantations;1;1205;3;2014;San Martin
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;U.S.A.;Vintage Plantations (Tulicorp);1;153;2;2007;Los Rios, Rancho Grande 2004/2007
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;U.S.A.;Vintage Plantations (Tulicorp);1;153;2;2007;Los Rios, Rancho Grande 2004/2007
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;U.S.A.;Vintage Plantations (Tulicorp);1;153;3;2007;Los Rios, Rancho Grande 2004/2007
+Forastero (Arriba);Ecuador;1-1-2007 00:00:00;1;U.S.A.;Vintage Plantations (Tulicorp);1;153;3;2007;Los Rios, Rancho Grande 2007
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Violet Sky;1;1458;2,75;2015;Sambirano Valley
+Criollo, Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Violet Sky;1;1458;3;2015;Moho River Valley
+Criollo;Venezuela;1-1-2015 00:00:00;1;U.S.A.;Violet Sky;1;1458;3;2015;Cuyagua
+Criollo, Trinitario;Peru;1-1-2015 00:00:00;1;U.S.A.;Violet Sky;1;1458;3,25;2015;Peru
+Trinitario;Guatemala;1-1-2015 00:00:00;1;U.S.A.;Violet Sky;1;1502;2,75;2015;Cahabon
+;Peru;1-1-2016 00:00:00;1;U.S.A.;Vivra;1;1720;2,5;2016;Peru
+;Venezuela;1-1-2016 00:00:00;1;U.S.A.;Vivra;1;1720;2,5;2016;Ocumare
+;Domincan Republic;1-1-2016 00:00:00;1;U.S.A.;Vivra;1;1724;3;2016;Dominican Republic
+Trinitario;Dominican Republic;1-1-2016 00:00:00;1;New Zealand;Wellington Chocolate Factory;1;1756;3,5;2016;Conacado
+;Peru;1-1-2016 00:00:00;1;New Zealand;Wellington Chocolate Factory;1;1756;3,5;2016;Piura Blanco, Norandino
+Forastero;Ghana;1-1-2011 00:00:00;1;New Zealand;Whittakers;1;733;2,5;2011;Ghana
+Criollo;Peru;1-1-2013 00:00:00;1;Ireland;Wilkie's Organic;1;1169;2,5;2013;Amazonas
+Criollo;Peru;1-1-2013 00:00:00;1;Ireland;Wilkie's Organic;1;1169;2,75;2013;Amazonas
+Criollo;Peru;1-1-2013 00:00:00;1;Ireland;Wilkie's Organic;1;1169;3,25;2013;Tumbes
+Criollo;Peru;1-1-2013 00:00:00;1;Ireland;Wilkie's Organic;1;1173;2,75;2013;Amazonas w/ nibs
+;Colombia;1-1-2016 00:00:00;1;U.K.;Willie's Cacao;1;1848;4;2016;Los Llanos
+Trinitario;Colombia;1-1-2014 00:00:00;1;U.K.;Willie's Cacao;1;1227;3;2014;Los Llanos
+;Indonesia;1-1-2013 00:00:00;1;U.K.;Willie's Cacao;1;1109;2,25;2013;Java, Indonesian Black
+Trinitario;Madagascar;1-1-2010 00:00:00;1;U.K.;Willie's Cacao;1;593;3;2010;Sambirano
+;Venezuela;1-1-2010 00:00:00;1;U.K.;Willie's Cacao;1;593;3,5;2010;Hacienda Las Trincheras
+;Indonesia;1-1-2010 00:00:00;1;U.K.;Willie's Cacao;1;593;3,75;2010;Java
+;Peru;1-1-2009 00:00:00;1;U.K.;Willie's Cacao;1;457;3;2009;San Martin
+Trinitario;Venezuela;1-1-2009 00:00:00;1;U.K.;Willie's Cacao;1;457;3,25;2009;Rio Caribe
+Criollo;Venezuela;1-1-2016 00:00:00;1;U.S.A.;Wm;1;1912;3;2016;Guasare, Zulia Prov., 2015, batch 124
+;Bolivia;1-1-2016 00:00:00;1;U.S.A.;Wm;1;1912;3,5;2016;Wild Beniano, 2016, batch 128, Heirloom
+;Ghana;1-1-2016 00:00:00;1;U.S.A.;Wm;1;1916;3,75;2016;Ghana, 2013, batch 129
+Forastero (Nacional);Peru;1-1-2014 00:00:00;1;U.S.A.;Woodblock;1;1243;3;2014;Maranon, Cajamarca
+;Ecuador;1-1-2013 00:00:00;1;U.S.A.;Woodblock;1;1042;3,25;2013;Camino Verde P., Balao, Guayas
+Trinitario;Trinidad;1-1-2013 00:00:00;1;U.S.A.;Woodblock;1;1042;3,5;2013;Gran Couva
+;Ecuador;1-1-2012 00:00:00;1;U.S.A.;Woodblock;1;825;2,5;2012;Ecuador
+;Costa Rica;1-1-2012 00:00:00;1;U.S.A.;Woodblock;1;825;3;2012;Costa Rica
+Trinitario;Madagascar;1-1-2012 00:00:00;1;U.S.A.;Woodblock;1;951;3,25;2012;Sambirano
+;Venezuela;1-1-2011 00:00:00;1;U.S.A.;Woodblock;1;741;4;2011;Ocumare
+;Dominican Republic;1-1-2011 00:00:00;1;U.S.A.;Woodblock;1;769;3,5;2011;La Red
+;Dominican Republic;1-1-2013 00:00:00;1;Domincan Republic;Xocolat;1;1057;3;2013;Hispaniola
+;Madagascar;1-1-2017 00:00:00;1;U.S.A.;Xocolla;1;1948;2,75;2017;Sambirano, batch 170102
+;Dominican Republic;1-1-2017 00:00:00;1;U.S.A.;Xocolla;1;1948;2,5;2017;Hispaniola, batch 170104
+;Papua New Guinea;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1574;3;2015;Papua New Guinea, Batch 2
+;Domincan Republic;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1578;3,25;2015;Dominican Republic, Batch D2
+Trinitario;Madagascar;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1578;3,25;2015;Madagascar, Batch 2
+;Peru;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1578;3,25;2015;Peru, Batch 1
+Trinitario;Belize;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1578;3,5;2015;Belize, Batch 2
+;;1-1-2015 00:00:00;1;U.S.A.;Zak's;1;1582;3;2015;House Blend, Batch 2
+Criollo, Trinitario;Madagascar;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1820;3,5;2016;Millot P., Ambanja
+Nacional (Arriba);Ecuador;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1824;2,75;2016;UNOCACE
+Trinitario;Trinidad;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1824;2,75;2016;San Juan Estate
+Criollo, Trinitario;Tanzania;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1824;3;2016;Kakao Kamili, Kilombero Valley
+Criollo, Trinitario;Tanzania;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1824;3,5;2016;Kakao Kamili, Kilombero Valley
+Trinitario;Trinidad;1-1-2016 00:00:00;1;Austria;Zart Pralinen;1;1880;3,5;2016;San Juan Estate, Gran Couva
+;Solomon Islands;1-1-2016 00:00:00;1;Australia;Zokoko;1;1716;3,75;2016;Guadalcanal
+;;1-1-2016 00:00:00;1;Australia;Zokoko;1;1780;3,25;2016;Goddess Blend
+;Bolivia;1-1-2011 00:00:00;1;Australia;Zokoko;1;697;3,5;2011;Alto Beni
+Trinitario;Papua New Guinea;1-1-2011 00:00:00;1;Australia;Zokoko;1;701;3,5;2011;Tokiala
+;Bolivia;1-1-2011 00:00:00;1;Australia;Zokoko;1;701;3,75;2011;Tranquilidad, Baures
+;;1-1-2014 00:00:00;1;Austria;Zotter;1;1205;2,75;2014;Raw
+;Panama;1-1-2012 00:00:00;1;Austria;Zotter;1;801;3,5;2012;Bocas del Toro, Cocabo Co-op
+;;1-1-2012 00:00:00;1;Austria;Zotter;1;801;3,5;2012;Amazonas Frucht
+Criollo (Amarru);Peru;1-1-2012 00:00:00;1;Austria;Zotter;1;875;3;2012;Satipo Pangoa region, 16hr conche
+Criollo (Amarru);Peru;1-1-2012 00:00:00;1;Austria;Zotter;1;875;3,5;2012;Satipo Pangoa region, 20hr conche
+;Dominican Republic;1-1-2012 00:00:00;1;Austria;Zotter;1;875;3,75;2012;Loma Los Pinos, Yacao region, D.R.
+Forastero (Nacional);Ecuador;1-1-2012 00:00:00;1;Austria;Zotter;1;879;3;2012;El Oro
+Criollo, Trinitario;Papua New Guinea;1-1-2012 00:00:00;1;Austria;Zotter;1;879;3;2012;Huiwani Coop
+;Bolivia;1-1-2012 00:00:00;1;Austria;Zotter;1;879;3,25;2012;El Ceibo Coop
+;Dominican Republic;1-1-2012 00:00:00;1;Austria;Zotter;1;879;3,75;2012;Santo Domingo
+Forastero;Congo;1-1-2012 00:00:00;1;Austria;Zotter;1;883;3,25;2012;Kongo, Highlands
+;;1-1-2012 00:00:00;1;Austria;Zotter;1;883;3,5;2012;Indianer, Raw
+;Peru;1-1-2011 00:00:00;1;Austria;Zotter;1;647;3,75;2011;Peru
+Forastero;Congo;1-1-2011 00:00:00;1;Austria;Zotter;1;749;3;2011;Congo
+Forastero;India;1-1-2011 00:00:00;1;Austria;Zotter;1;749;3,5;2011;Kerala State
+;India;1-1-2011 00:00:00;1;Austria;Zotter;1;781;3,25;2011;Kerala State
+;Brazil;1-1-2010 00:00:00;1;Austria;Zotter;1;486;3;2010;Brazil, Mitzi Blue

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>Flavors of Cacao</title>
+    <meta name="description"
+          content="Presentation of the Flavors of Cacao visualization project, for the Applied Data Science course.">
+    <meta name="author" content="Igor Chernomorets, DS72">
+
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="charts/beeswarm.css">
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="images/favicon.png?v2">
+
+</head>
+
+<body>
+    <!-- Primary Page Layout
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div class="container">
+        <!-- Hero Section
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <div class="section hero bordered">
+            <div class="row">
+                <div class="column">
+                    <h1 class="hero-title">Flavors of Cacao</h1>
+                    <div class="hero-subtitle">A Data Visualization project</div>
+                    <img class="hero-image" src="images/hero-image.jpg">
+                    <div class="hero-description">
+                        <p class="large">
+                            Chocolate is one of the most popular candies in the world.
+                            Each year, residents of the United States collectively eat more than 2.8 billions pounds.
+                            However, not all chocolate bars are created equal!
+                        </p>
+                        <p class="medium">
+                            With this project, I am making a complete analysis of which trends make chocolate bars get
+                            higher ratings. The visualizations contains expert ratings of
+                            over 1,700 individual chocolate bars, along with
+                            information on their regional origin, percentage of cocoa, the variety of chocolate bean
+                            used and where the beans were grown.
+                        </p>
+                        <p class="medium">
+                            The information was compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate
+                            Society. For up-to-date information, as well as additional content (including interviews
+                            with craft chocolate makers), please visit his website:
+                            <a href="http://flavorsofcacao.com/index.html">Flavors of Cacao - Home</a>.
+                        </p>
+                    </div>
+                    <a class="button hero-button" href="data/flavors-of-cacao.pdf" target="_top_blank">view the tableau
+                        charts</a>
+                    <a class="button hero-button" href="#" target="_blank">visit my github repository</a>
+                    <a class="button hero-button" href="https://www.kaggle.com/rtatman/chocolate-bar-ratings"
+                       target="_blank">view the dataset on Kaggle</a>
+                </div>
+            </div>
+        </div>
+        <!-- First Visualization
+        –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+        <div class="section viz01">
+            <div class="row">
+                <div class="column">
+                    <h2 class="section-heading">Rating comparison - France vs Germany</h2>
+                    <div id="data-exploration"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="js/jquery/jquery-3.2.1.min.js"></script>
+    <script src="js/d3/v4.12.0/d3.min.js"></script>
+    <script src="js/d3-beeswarm/d3-beeswarm.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="charts/charts.js"></script>
+    <script src="charts/beeswarm.js"></script>
+
+    <!-- End Document
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+
+</html>

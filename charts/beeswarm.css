@@ -1,0 +1,154 @@
+#rating-comparison {
+    overflow: scroll;
+}
+
+#rating-comparison svg {
+    background-color: rgb(250, 250, 250);
+}
+
+#rating-comparison text {
+    fill: grey;
+}
+
+#rating-comparison text.tiny {
+    font-size: 10pt;
+}
+
+#rating-comparison text.light {
+    fill: lightgrey
+}
+
+#rating-comparison .text-background {
+    fill: rgb(250, 250, 250);
+    stroke: rgb(250, 250, 250);
+    stroke-width: 3px;
+}
+
+#rating-comparison line {
+    stroke: lightgrey;
+}
+
+#rating-comparison #header #title {
+    letter-spacing: 15pt;
+    font-weight: 200;
+}
+
+#rating-comparison #header .name {
+    font-size: 30pt;
+}
+
+#rating-comparison #header .label {
+    fill: lightgrey;
+    font-size: 10pt;
+}
+
+#rating-comparison #axis-container text {
+    font-size: 8pt;
+}
+
+#rating-comparison .a {
+    stroke: blue;
+}
+
+#rating-comparison .b {
+    stroke: red;
+}
+
+#rating-comparison circle {
+    fill: transparent;
+    stroke: transparent;
+}
+
+#rating-comparison circle.a {
+    fill: #ffffff;
+}
+
+#rating-comparison circle.b {
+    fill: #ffffff;
+}
+
+#rating-comparison .slope {
+    stroke: grey;
+}
+
+#rating-comparison .tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 14px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: rgb(250, 250, 250);
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 3px;
+    pointer-events: none;
+}
+
+
+text {
+    fill: #000000;
+}
+text.tiny {
+    font-size: 10pt;
+}
+text.light {
+    fill: #333
+}
+.text-background {
+    fill: rgb(250,250,250);
+    stroke: rgb(250,250,250);
+    stroke-width: 3px;
+}
+
+line {
+    stroke: lightgrey;
+}
+
+#axis-container text {
+    font-size: 9pt;
+}
+
+.left {
+    stroke: blue;
+}
+.right {
+    stroke: red;
+
+}
+
+.France {
+    stroke: blue;
+}
+.Germany {
+    stroke: red;
+}
+
+circle {
+    fill: transparent;
+    stroke: transparent;
+}
+circle.France {
+    fill: lightBlue;
+}
+circle.Germany {
+    fill: pink;
+}
+
+.slope {
+    stroke: grey;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 14px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: rgb(250,250,250);
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 3px;
+    pointer-events: none;
+}
