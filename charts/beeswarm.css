@@ -1,5 +1,6 @@
 #data-exploration svg {
-    background-color: rgb(253, 253, 253);
+    border-radius: 25px;
+    background-color: #f9f9f9;
 }
 
 #data-exploration text {
@@ -21,6 +22,7 @@
 }
 
 #data-exploration line {
+    animation: slideInUp 750ms;
     stroke: lightgrey;
 }
 
@@ -51,6 +53,7 @@
 }
 
 #data-exploration circle {
+    animation: fadeIn 1750ms;
     fill: transparent;
     stroke: transparent;
 }

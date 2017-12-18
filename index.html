@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/nice-select.css">
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="charts/beeswarm.css">
 
@@ -76,8 +77,17 @@
         <div class="section viz01">
             <div class="row">
                 <div class="column">
-                    <h2 class="section-heading">Rating comparison</h2>
-                    <p>Rating comparison between <u>France</u> and <u>Germany</u>.</p>
+                    <h2 class="section-heading">Rating comparison between countries</h2>
+                    <p>Rating comparison between
+                        <select class="small inline">
+                            <option>France</option>
+                            <option>U.S.A.</option>
+                        </select>and
+                        <select class="small inline">
+                            <option>Germany</option>
+                            <option>U.S.A.</option>
+                        </select>.
+                    </p>
                     <div id="data-exploration"></div>
                 </div>
             </div>
@@ -87,11 +97,20 @@
     <!-- JS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="js/jquery/jquery-3.2.1.min.js"></script>
+    <script src="js/fastclick/fastclick.js"></script>
+    <script src="js/jquery-nice-select/jquery.nice-select.min.js"></script>
     <script src="js/d3/v4.12.0/d3.min.js"></script>
     <script src="js/d3-beeswarm/d3-beeswarm.js"></script>
     <script src="js/custom.js"></script>
     <script src="charts/charts.js"></script>
     <script src="charts/beeswarm.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('select:not(.ignore)').niceSelect();
+            FastClick.attach(document.body);
+        });
+    </script>
+
 
     <!-- End Document
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

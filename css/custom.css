@@ -4,6 +4,15 @@ a {
     display: inline-block;
 }
 
+.nice-select, .inline {
+    display: inline;
+    float: none;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {

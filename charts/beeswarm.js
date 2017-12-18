@@ -111,7 +111,7 @@ charts.beeswarm = function (chart) {
 
             var svgWidth = chart.width,
                 svgHeight = chart.height,
-                margin = {top: 25, right: 10, bottom: 10, left: 10},
+                margin = {top: 30, right: 10, bottom: 10, left: 10},
                 space = {header: 15, circle: 15, slope: 5},
                 drawingWidth = svgWidth - margin.left - margin.right,
                 drawingHeight = svgHeight - margin.top - margin.bottom,
@@ -202,6 +202,9 @@ charts.beeswarm = function (chart) {
                     .enter()
                     .append("g")
                     .attr("transform", function (d) {
+                        if (d.x > 350 || d.x < -350) {
+                            return "translate(9999999, 9999999)";
+                        }
                         if (d.datum.cname === values.left.cname) {
                             return "translate(" + [d.x - space.circle, d.y] + ")";
                         } else {
@@ -382,7 +385,7 @@ charts.beeswarm = function (chart) {
 d3.csv("data/flavors-of-cacao.csv", function (error, data) {
     charts.beeswarm({
         width: 960,
-        height: 500,
+        height: 600,
         data: data,
         selector: "#data-exploration",
         y_axis: {
