@@ -78,16 +78,34 @@
             <div class="row">
                 <div class="column">
                     <h2 class="section-heading">Rating comparison between countries</h2>
-                        <div class="data-exploration-select">Rating comparison between
-                            <select class="small inline select-left">
-                                <option>France</option>
-                                <option>U.S.A.</option>
-                            </select>and
-                            <select class="small inline select-right">
-                                <option>Germany</option>
-                                <option>U.S.A.</option>
-                            </select>.
-                        </div>
+                    <div class="data-exploration-select">Rating comparison between
+                        <select class="small inline select-left">
+                            <option selected>Australia</option>
+                            <option>Belgium</option>
+                            <option>Canada</option>
+                            <option>Ecuador</option>
+                            <option>France</option>
+                            <option>Germany</option>
+                            <option>Italy</option>
+                            <option>Scotland</option>
+                            <option>Switzerland</option>
+                            <option>U.K.</option>
+                            <option>U.S.A.</option>
+                        </select>and
+                        <select class="small inline select-right">
+                            <option>Australia</option>
+                            <option selected>Belgium</option>
+                            <option>Canada</option>
+                            <option>Ecuador</option>
+                            <option>France</option>
+                            <option>Germany</option>
+                            <option>Italy</option>
+                            <option>Scotland</option>
+                            <option>Switzerland</option>
+                            <option>U.K.</option>
+                            <option>U.S.A.</option>
+                        </select>.
+                    </div>
                     <div id="data-exploration"></div>
                 </div>
             </div>
@@ -109,9 +127,17 @@
             $('select:not(.ignore)').niceSelect();
             FastClick.attach(document.body);
             d3.csv("data/flavors-of-cacao.csv", function (error, data) {
-                $(".data-exploration-select").on('change', 'select', function() {
-                    var left = $(".select-left").val(),
-                        right = $(".select-right").val();
+                $(".data-exploration-select").on('change', function () {
+                    var leftSelect = $(".select-left"),
+                        rightSelect = $(".select-right");
+                    leftSelect.find("option").removeAttr('disabled');
+                    rightSelect.find("option").removeAttr('disabled');
+                    leftSelect.find("option:contains('" + rightSelect.val() + "')").attr("disabled", true);
+                    rightSelect.find("option:contains('" + leftSelect.val() + "')").attr("disabled", true);
+                    leftSelect.niceSelect("update");
+                    rightSelect.niceSelect("update");
+
+
                     charts.beeswarm({
                         width: 960,
                         height: 400,
@@ -129,15 +155,15 @@
                                 return entry.companyLocation;
                             },
                             left: {
-                                title: left,
+                                title: leftSelect.val(),
                                 filter: function (key) {
-                                    return key === left
+                                    return key === leftSelect.val()
                                 }
                             },
                             right: {
-                                title: right,
+                                title: rightSelect.val(),
                                 filter: function (key) {
-                                    return key === right
+                                    return key === rightSelect.val()
                                 }
                             }
                         }
