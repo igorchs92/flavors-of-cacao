@@ -49,7 +49,7 @@ var salariesArrangement, obamaArrangement, trumpArrangement;
 var svg, drawingArea, header, footer, axisContainer, avgContainer, medianContainer, circleContainer, tooltip;
 //end: reusable d3Selection
 
-var root = $("#rating-comparison");
+var root = $("#data-exploration");
 svg = root.append("<svg></svg>");
 
 d3.csv("data/whiteHouseSalaries.csv", csvParser, function(error, data) {

@@ -1,77 +1,73 @@
-#rating-comparison {
-    overflow: scroll;
+#data-exploration svg {
+    background-color: rgb(253, 253, 253);
 }
 
-#rating-comparison svg {
-    background-color: rgb(250, 250, 250);
-}
-
-#rating-comparison text {
+#data-exploration text {
     fill: grey;
 }
 
-#rating-comparison text.tiny {
+#data-exploration text.tiny {
     font-size: 10pt;
 }
 
-#rating-comparison text.light {
-    fill: lightgrey
+#data-exploration text.light {
+    fill: #6b6b6b
 }
 
-#rating-comparison .text-background {
+#data-exploration .text-background {
     fill: rgb(250, 250, 250);
     stroke: rgb(250, 250, 250);
     stroke-width: 3px;
 }
 
-#rating-comparison line {
+#data-exploration line {
     stroke: lightgrey;
 }
 
-#rating-comparison #header #title {
+#data-exploration #header #title {
     letter-spacing: 15pt;
     font-weight: 200;
 }
 
-#rating-comparison #header .name {
+#data-exploration #header .name {
     font-size: 30pt;
 }
 
-#rating-comparison #header .label {
+#data-exploration #header .label {
     fill: lightgrey;
     font-size: 10pt;
 }
 
-#rating-comparison #axis-container text {
+#data-exploration #axis-container text {
     font-size: 8pt;
 }
 
-#rating-comparison .a {
+#data-exploration .left {
     stroke: blue;
 }
 
-#rating-comparison .b {
+#data-exploration .right {
     stroke: red;
 }
 
-#rating-comparison circle {
+#data-exploration circle {
     fill: transparent;
     stroke: transparent;
 }
 
-#rating-comparison circle.a {
+#data-exploration circle.left {
     fill: #ffffff;
 }
 
-#rating-comparison circle.b {
+#data-exploration circle.right {
     fill: #ffffff;
 }
 
-#rating-comparison .slope {
+#data-exploration .slope {
     stroke: grey;
 }
 
-#rating-comparison .tooltip {
+#data-exploration .tooltip {
     position: absolute;
     text-align: center;
     width: 60px;
@@ -86,69 +82,70 @@
 }
 
 
-text {
-    fill: #000000;
-}
-text.tiny {
-    font-size: 10pt;
-}
-text.light {
-    fill: #333
-}
-.text-background {
-    fill: rgb(250,250,250);
-    stroke: rgb(250,250,250);
-    stroke-width: 3px;
-}
+/*text {*/
+    /*fill: #000000;*/
+/*}*/
+/*text.tiny {*/
+    /*font-size: 10pt;*/
+/*}*/
+/*text.light {*/
+    /*fill: #333*/
+/*}*/
+/*.text-background {*/
+    /*fill: rgb(250,250,250);*/
+    /*stroke: rgb(250,250,250);*/
+    /*stroke-width: 3px;*/
+/*}*/
 
-line {
-    stroke: lightgrey;
-}
+/*line {*/
+    /*animation: slideInDown 1s;*/
+    /*stroke: lightgrey;*/
+/*}*/
 
-#axis-container text {
-    font-size: 9pt;
-}
+/*#axis-container text {*/
+    /*font-size: 9pt;*/
+/*}*/
 
-.left {
-    stroke: blue;
-}
-.right {
-    stroke: red;
+/*.left {*/
+    /*stroke: blue;*/
+/*}*/
+/*.right {*/
+    /*stroke: red;*/
 
-}
+/*}*/
 
-.France {
-    stroke: blue;
-}
-.Germany {
-    stroke: red;
-}
+/*.France {*/
+    /*stroke: blue;*/
+/*}*/
+/*.Germany {*/
+    /*stroke: red;*/
+/*}*/
 
-circle {
-    fill: transparent;
-    stroke: transparent;
-}
-circle.France {
-    fill: lightBlue;
-}
-circle.Germany {
-    fill: pink;
-}
+/*circle {*/
+    /*fill: transparent;*/
+    /*stroke: transparent;*/
+/*}*/
+/*circle.France {*/
+    /*fill: lightBlue;*/
+/*}*/
+/*circle.Germany {*/
+    /*fill: pink;*/
+/*}*/
 
-.slope {
-    stroke: grey;
-}
+/*.slope {*/
+    /*stroke: grey;*/
+/*}*/
 
-div.tooltip {
-    position: absolute;
-    text-align: center;
-    width: 60px;
-    height: 14px;
-    padding: 2px;
-    font: 12px sans-serif;
-    background: rgb(250,250,250);
-    color: grey;
-    border: 1px solid grey;
-    border-radius: 3px;
-    pointer-events: none;
-}
+/*div.tooltip {*/
+    /*position: absolute;*/
+    /*text-align: center;*/
+    /*width: 60px;*/
+    /*height: 14px;*/
+    /*padding: 2px;*/
+    /*font: 12px sans-serif;*/
+    /*background: rgb(250,250,250);*/
+    /*color: grey;*/
+    /*border: 1px solid grey;*/
+    /*border-radius: 3px;*/
+    /*pointer-events: none;*/
+/*}*/

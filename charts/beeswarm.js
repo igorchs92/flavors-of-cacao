@@ -12,8 +12,11 @@ charts.beeswarm = function (chart) {
             extent: [] // [min / max]
         };
 
+    values.left.cname = "left";
+    values.right.cname = "right";
+
     // values extent [min, max]
-    values.right.extent = [];
+    values.left.extent = [];
     values.right.extent = [];
 
     // sum of y axis values
@@ -40,6 +43,7 @@ charts.beeswarm = function (chart) {
     values.push = function (side, key, entry) {
         var value = Number(chart.y_axis.select(entry));
         side.push({
+            cname: side.cname,
             key: key,
             value: value
         });
@@ -136,10 +140,10 @@ charts.beeswarm = function (chart) {
                     .attr("id", "circle-container");
 
             function drawAxis(container) {
-                var lineWidth = drawingWidth / 2 - drawingWidth / 8,
+                var lineWidth = drawingWidth / 2 - 25,
                     labelMargin = 5,
                     ticks = axisContainer.selectAll(".tick")
-                        .data(d3.range(values.extent[0] - 1, values.extent[1] + 1 , .25))
+                        .data(d3.range(values.extent[0], values.extent[1] + 1, .25))
                         .enter()
                         .append("g")
                         .classed("tick", true)
@@ -158,7 +162,6 @@ charts.beeswarm = function (chart) {
                     .attr("transform", "translate(" + [lineWidth + labelMargin, 3] + ")")
                     .attr("text-anchor", "start")
                     .text(function (d) {
-                        console.debug(d);
                         return d;
                     });
 
@@ -167,20 +170,19 @@ charts.beeswarm = function (chart) {
                     .attr("transform", "translate(" + [-(lineWidth + labelMargin), 3] + ")")
                     .attr("text-anchor", "end")
                     .text(function (d) {
-                        console.debug(d);
                         return d;
                     });
 
                 container.append("text")
                     .classed("unit light", true)
                     .attr("transform", "translate(" + [-(lineWidth + labelMargin), 0] + ")")
-                    .attr("text-anchor", "end")
-                    //.text("rating");
+                    .attr("text-anchor", "end");
+                //.text("rating");
                 container.append("text")
                     .classed("unit light", true)
                     .attr("transform", "translate(" + [(lineWidth + labelMargin), 0] + ")")
                     .attr("text-anchor", "start")
-                    //.text("rating");
+                //.text("rating");
             }
 
             function drawCircles() {
@@ -200,37 +202,40 @@ charts.beeswarm = function (chart) {
                     .enter()
                     .append("g")
                     .attr("transform", function (d) {
-                        return "translate(" + [d.x - space.circle, d.y] + ")";
+                        if (d.datum.cname === values.left.cname) {
+                            return "translate(" + [d.x - space.circle, d.y] + ")";
+                        } else {
+                            return "translate(" + [d.x + space.circle, d.y] + ")";
+                        }
                     });
 
                 //transparent circle, for hover purpose
                 circles.append("circle")
-                    .attr("r", radius)
-                    .on("mouseover", function (d) {
-                        tooltip.transition()
-                            .duration(0)
-                            .style("opacity", .9);
-                        tooltip.html("" + d.value)
-                            .style("left", (d3.event.pageX - 30) + "px")
-                            .style("top", (d3.event.pageY - 24) + "px");
-                    })
+                    .attr("r", radius);
+                //colored, sized, circle
+                circles.append("circle").attr("r", function (d) {
+                    return scalePow(3);
+                }).attr("class", function (d) {
+                    return d.datum.cname;
+                }).on("mouseover", function (d) {
+                    tooltip.transition()
+                        .duration(0)
+                        .style("opacity", .9);
+                    tooltip.html("" + d.value)
+                        .style("left", (d3.event.pageX - 30) + "px")
+                        .style("top", (d3.event.pageY - 24) + "px");
+                })
                     .on("mouseout", function (d) {
                         tooltip.transition()
                             .duration(250)
                             .style("opacity", 0);
                     });
-                //colored, sized, circle
-                circles.append("circle").attr("r", function (d) {
-                    return scalePow(d.datum.value);
-                }).attr("class", function (d) {
-                    return d.datum.key;
-                })
             }
 
             function drawMeans() {
-                var tickWidth = 30,
-                    lineHalfWidth = drawingWidth / 2 - drawingWidth / 8 + tickWidth,
-                    labelMargin = 5;
+                var tickWidth = 0,
+                    lineHalfWidth = drawingWidth / 2 - 25 + tickWidth,
+                    labelMargin = 15;
 
                 var oMean = avgContainer.append("g")
                     .attr("id", "left-average")
@@ -245,16 +250,16 @@ charts.beeswarm = function (chart) {
                 oMean.append("text")
                     .classed("tiny", true)
                     .attr("transform", "translate(" + [-(lineHalfWidth + labelMargin), 3] + ")")
-                    .attr("text-anchor", "end")
-                    .text(values.left.mean);
+                    .attr("text-anchor", "end");
+                //.text(values.left.mean);
                 oMean.append("text")
                     .classed("tiny text-background", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 5] + ")")
                     .attr("text-anchor", "start")
                     .text("mean");
                 oMean.append("text")
                     .classed("tiny", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 5] + ")")
                     .attr("text-anchor", "start")
                     .text("mean");
 
@@ -279,82 +284,82 @@ charts.beeswarm = function (chart) {
                 tMean.append("text")
                     .classed("tiny", true)
                     .attr("transform", "translate(" + [lineHalfWidth + labelMargin, 3] + ")")
-                    .attr("text-anchor", "start")
-                    .text(values.right.mean);
+                    .attr("text-anchor", "start");
+                //.text(values.right.mean);
                 tMean.append("text")
                     .classed("tiny text-background", true)
-                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth - labelMargin, 3] + ")")
                     .attr("text-anchor", "end")
                     .text("mean");
                 tMean.append("text")
                     .classed("tiny", true)
-                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth - labelMargin, 3] + ")")
                     .attr("text-anchor", "end")
                     .text("mean");
             }
 
             function drawMedians() {
-                var tickWidth = 30,
-                    lineHalfWidth = halfWidth - halfWidth / 4 + tickWidth,
-                    labelMargin = 5;
+                var tickWidth = 0,
+                    lineHalfWidth = drawingWidth / 2 - 25 + tickWidth,
+                    labelMargin = 15;
 
                 var oMedian = medianContainer.append("g")
-                    .attr("id", "obama-median")
+                    .attr("id", "left-median")
                     .classed("median", true)
-                    .attr("transform", "translate(" + [0, yPosScale(obamaMedianSalary)] + ")");
+                    .attr("transform", "translate(" + [0, scaleLinear(values.left.median)] + ")");
                 oMedian.append("line")
-                    .classed("a", true)
+                    .classed("left", true)
                     .attr("x1", -lineHalfWidth)
                     .attr("y1", 0)
-                    .attr("x2", -halfSpaceBetween.slope)
+                    .attr("x2", -space.slope)
                     .attr("y2", 0);
                 oMedian.append("text")
                     .classed("tiny", true)
                     .attr("transform", "translate(" + [-(lineHalfWidth + labelMargin), 3] + ")")
-                    .attr("text-anchor", "end")
-                    .text(d3.format("$,")(obamaMedianSalary));
+                    .attr("text-anchor", "end");
+                //.text(d3.format("$,")(values.left.median));
                 oMedian.append("text")
                     .classed("tiny text-background", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 3] + ")")
                     .attr("text-anchor", "start")
                     .text("median");
                 oMedian.append("text")
                     .classed("tiny", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 3] + ")")
                     .attr("text-anchor", "start")
                     .text("median");
 
                 avgContainer.append("line")
                     .classed("slope", true)
                     .attr("id", "mean-slope")
-                    .attr("x1", -halfSpaceBetween.slope)
-                    .attr("y1", yPosScale(obamaMedianSalary))
-                    .attr("x2", halfSpaceBetween.slope)
-                    .attr("y2", yPosScale(trumpMedianSalary));
+                    .attr("x1", -space.slope)
+                    .attr("y1", scaleLinear(values.left.median))
+                    .attr("x2", space.slope)
+                    .attr("y2", scaleLinear(values.right.median));
 
                 var tMedian = medianContainer.append("g")
-                    .attr("id", "trump-median")
+                    .attr("id", "right-median")
                     .classed("median", true)
-                    .attr("transform", "translate(" + [0, yPosScale(trumpMedianSalary)] + ")")
+                    .attr("transform", "translate(" + [0, scaleLinear(values.right.median)] + ")")
                 tMedian.append("line")
-                    .classed("Trump", true)
-                    .attr("x1", halfSpaceBetween.slope)
+                    .classed("right", true)
+                    .attr("x1", space.slope)
                     .attr("y1", 0)
                     .attr("x2", lineHalfWidth)
                     .attr("y2", 0);
                 tMedian.append("text")
                     .classed("tiny", true)
                     .attr("transform", "translate(" + [lineHalfWidth + labelMargin, 3] + ")")
-                    .attr("text-anchor", "start")
-                    .text(d3.format("$,")(trumpMedianSalary));
+                    .attr("text-anchor", "start");
+                //.text(d3.format("$,")(values.right.median));
                 tMedian.append("text")
                     .classed("tiny text-background", true)
-                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth - labelMargin, 3] + ")")
                     .attr("text-anchor", "end")
                     .text("median");
                 tMedian.append("text")
                     .classed("tiny", true)
-                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth, 3] + ")")
+                    .attr("transform", "translate(" + [lineHalfWidth - tickWidth - labelMargin, 3] + ")")
                     .attr("text-anchor", "end")
                     .text("median");
             }
@@ -362,6 +367,7 @@ charts.beeswarm = function (chart) {
             drawAxis(axisContainer);
             drawCircles();
             drawMeans();
+            drawMedians();
 
 
             console.debug(values);
@@ -399,7 +405,7 @@ d3.csv("data/flavors-of-cacao.csv", function (error, data) {
             right: {
                 title: "U.S.A.",
                 filter: function (key) {
-                    return key === "Germany";
+                    return key === "U.S.A.";
                 }
             }
         }
