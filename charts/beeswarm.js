@@ -95,11 +95,6 @@ charts.beeswarm = function (chart) {
         });
     });
 
-    // set linear scale
-    scaleLinear.domain(values.extent).range([chart.height, 0]);
-    // set bee radius scale
-    scalePow.domain(values.extent).range([0.5, radius]);
-
     // publicly accessible functions and variables
     return {
         clear: function () {
@@ -113,16 +108,17 @@ charts.beeswarm = function (chart) {
                 svgHeight = chart.height,
                 margin = {top: 10, right: 10, bottom: 10, left: 10},
                 space = {header: 15, circle: 15, slope: 5},
+                header = {height: 50, width: 10},
+                footer = {height: 25, width: 10},
                 drawing = {
                     width: svgWidth - margin.left - margin.right,
-                    height: svgHeight - margin.top - margin.bottom
+                    height: svgHeight - header.height - footer.height - margin.top - margin.bottom
                 },
-                header = {height: 10, width: 10},
                 padding = {header: 15, circle: 15, slope: 5},
                 svg = d3.select(chart.selector)
                     .append("svg")
-                    .attr("width", svgWidth)
-                    .attr("height", svgHeight),
+                    .attr("viewBox", [0, 0, svgWidth, svgHeight])
+                    .attr("preserveAspectRatio", "xMidYMid meet"),
                 tooltip = svg.append("div")
                     .attr("class", "tooltip")
                     .style("opacity", 0),
@@ -145,6 +141,11 @@ charts.beeswarm = function (chart) {
                     .attr("id", "circle-container"),
                 footerContainer = drawingArea.append("g")
                     .attr("id", "footer");
+
+            // set linear scale
+            scaleLinear.domain(values.extent).range([drawing.height, 0]);
+            // set bee radius scale
+            scalePow.domain(values.extent).range([0.5, radius]);
 
             function drawAxis(container) {
                 var lineWidth = drawing.width / 2 - 25,
@@ -182,13 +183,13 @@ charts.beeswarm = function (chart) {
 
                 container.append("text")
                     .classed("unit light", true)
-                    .attr("transform", "translate(" + [-(lineWidth) + 5, -8] + ")")
+                    .attr("transform", "translate(" + [-(lineWidth) + 10, -25] + ")")
                     .attr("text-anchor", "end")
                     .style("font-weight", "bold")
                     .text("Rating");
                 container.append("text")
                     .classed("unit light", true)
-                    .attr("transform", "translate(" + [(lineWidth) - 5, -8] + ")")
+                    .attr("transform", "translate(" + [(lineWidth) - 10, -25] + ")")
                     .attr("text-anchor", "start")
                     .style("font-weight", "bold")
                     .text("Rating");
