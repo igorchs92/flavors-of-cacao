@@ -3,7 +3,7 @@
 charts.beeswarm = function (chart) {
 
     // layout configuration
-    var radius = 3, // bee radius
+    var radius = 3.5, // bee radius
         scaleLinear = d3.scaleLinear(), // y axis scaling
         scalePow = d3.scalePow(), // radius scaling
         values = { // values variable holder
@@ -196,13 +196,13 @@ charts.beeswarm = function (chart) {
                     .orientation("vertical")
                     .distributeOn(function (d) {
                         return scaleLinear(d.value);
-                    });
+                    }),
 
-                var left = beeswarm.data(d3.shuffle(values.left)).side("negative").arrange(),
+                    left = beeswarm.data(d3.shuffle(values.left)).side("negative").arrange(),
                     right = beeswarm.data(d3.shuffle(values.right)).side("positive").arrange(),
-                    bothSides = left.concat(right);
+                    bothSides = left.concat(right),
 
-                var circles = circleGroup.selectAll("circle")
+                    circles = circleGroup.selectAll("circle")
                     .data(bothSides)
                     .enter()
                     .append("g")
@@ -219,23 +219,34 @@ charts.beeswarm = function (chart) {
 
                 //transparent circle, for hover purpose
                 circles.append("circle")
-                    .attr("r", radius);
+                    .attr("r", scalePow(radius));
                 //colored, sized, circle
                 circles.append("circle").attr("r", function (d) {
-                    return scalePow(4);
+                    return scalePow(radius);
                 }).attr("class", function (d) {
                     return d.datum.cname;
                 }).on("mouseover", function (d) {
-                    d3.event.target.setAttribute("r",  scalePow(6));
+                    var event = d3.event,
+                        target = event.target,
+                        targetNode = $(target),
+                        parent = target.parentNode,
+                        tooltipNode = $(tooltipElement.node());
+                    target.setAttribute("r",  scalePow(radius + 1));
+                    targetNode.addClass("selected");
+                    d3.select(parent).moveToFront();
                     tooltipElement.transition()
                         .duration(0)
                         .style("display", "");
                     tooltipElement.html(drawTooltip(d.datum.original))
-                        .style("left", (d3.event.pageX - ($(tooltipElement.node()).outerWidth()) / 2) + "px")
-                        .style("top", (d3.event.pageY - $(tooltipElement.node()).outerHeight() - 20) + "px");
+                        .style("left", (event.pageX - (tooltipNode.outerWidth()) / 2) + "px")
+                        .style("top", (event.pageY - tooltipNode.outerHeight() - 20) + "px");
                 })
                     .on("mouseout", function (d) {
-                        d3.event.target.setAttribute("r",  scalePow(4));
+                        var event = d3.event,
+                            target = event.target,
+                            targetNode = $(target);
+                        targetNode.removeClass("selected");
+                        target.setAttribute("r",  scalePow(radius));
                         tooltipElement.transition()
                             .duration(250)
                             .style("display", "none");
@@ -249,7 +260,7 @@ charts.beeswarm = function (chart) {
                     if (!tooltip.hasOwnProperty(i)) continue;
                     var tooltipInfo = tooltip[i];
                     if (tooltipInfo.value.replace(/\s+/, "") !== "") {
-                        tooltipInnerHTML.push("<b>" + tooltipInfo.title + "</b>: " + tooltipInfo.value );
+                        tooltipInnerHTML.push("<b>" + tooltipInfo.title + ":</b> " + tooltipInfo.value );
                     }
                 }
                 return tooltipInnerHTML.join("<br/>");

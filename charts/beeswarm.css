@@ -54,17 +54,13 @@
 }
 
 #data-exploration circle {
-    animation: zoomInUp 350ms;
-    fill: transparent;
     stroke: transparent;
-}
-
-#data-exploration circle.left {
     fill: #ffffff;
 }
 
-#data-exploration circle.right {
-    fill: #ffffff;
+
+#data-exploration circle.selected {
+    border: #555555 10px;
 }
 
 #data-exploration .slope {

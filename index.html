@@ -187,11 +187,6 @@
                 }).trigger("change");
 
             });
-            $("#data-exploration").dblclick(function (event) {
-                var viewer = event.currentTarget;
-                var rFS = viewer.mozRequestFullScreen || viewer.webkitRequestFullscreen || viewer.requestFullscreen;
-                rFS.call(viewer);
-            });
         });
     </script>
 
