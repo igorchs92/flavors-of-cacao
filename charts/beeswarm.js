@@ -248,7 +248,9 @@ charts.beeswarm = function (chart) {
                 for (var i in tooltip) {
                     if (!tooltip.hasOwnProperty(i)) continue;
                     var tooltipInfo = tooltip[i];
-                    tooltipInnerHTML.push("<b>" + tooltipInfo.title + "</b>: " + tooltipInfo.value );
+                    if (tooltipInfo.value.replace(/\s+/, "") !== "") {
+                        tooltipInnerHTML.push("<b>" + tooltipInfo.title + "</b>: " + tooltipInfo.value );
+                    }
                 }
                 return tooltipInnerHTML.join("<br/>");
             }
