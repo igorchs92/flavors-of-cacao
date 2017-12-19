@@ -39,10 +39,10 @@ Alain Ducasse,Vietnam,1215,2014,75%,France,2.75,Trinitario,Vietnam
 Alain Ducasse,Madagascar,1215,2014,75%,France,3,Trinitario,Madagascar
 Alain Ducasse,Chuao,1061,2013,75%,France,2.5,Trinitario,Venezuela
 Alain Ducasse,"Piura, Perou",1173,2013,75%,France,2.5, ,Peru
-Alexandre,"Winak Coop, Napo",1944,2017,70%,Netherlands,3.5,Forastero (Nacional),Ecuador
-Alexandre,"La Dalia, Matagalpa",1944,2017,70%,Netherlands,3.5,"Criollo, Trinitario",Nicaragua
-Alexandre,Tien Giang,1944,2017,70%,Netherlands,3.5,Trinitario,Vietnam
-Alexandre,"Makwale Village, Kyela",1944,2017,70%,Netherlands,3.5,Forastero,Tanzania
+Alexandre,"Winak Coop, Napo",1944,2017,70%,the Netherlands,3.5,Forastero (Nacional),Ecuador
+Alexandre,"La Dalia, Matagalpa",1944,2017,70%,the Netherlands,3.5,"Criollo, Trinitario",Nicaragua
+Alexandre,Tien Giang,1944,2017,70%,the Netherlands,3.5,Trinitario,Vietnam
+Alexandre,"Makwale Village, Kyela",1944,2017,70%,the Netherlands,3.5,Forastero,Tanzania
 Altus aka Cao Artisan,Momotombo,1728,2016,60%,U.S.A.,2.75, ,Nicaragua
 Altus aka Cao Artisan,Acopagro,1728,2016,60%,U.S.A.,3, ,Peru
 Altus aka Cao Artisan,CIAAB Coop,1732,2016,60%,U.S.A.,2.5, ,Bolivia
@@ -401,9 +401,9 @@ Chocolate Con Amor,Ocumare,1764,2016,80%,U.S.A.,3,Criollo (Ocumare),Venezuela
 Chocolate Con Amor,Ecuador,1764,2016,70%,U.S.A.,3.25, ,Ecuador
 Chocolate Con Amor,Nicaragua,1768,2016,80%,U.S.A.,2.75, ,Nicaragua
 Chocolate Conspiracy,Peru,1259,2014,74%,U.S.A.,2.75, ,Peru
-Chocolate Makers,Tres Hombres,1530,2015,75%,Amsterdam,3.25,Trinitario,Dominican Republic
-Chocolate Makers,"Congo, Gorilla bar",1530,2015,68%,Amsterdam,3.5,Forastero,Congo
-Chocolate Makers,"Peru, Awagum bar",1530,2015,80%,Amsterdam,3.75,Criollo,Peru
+Chocolate Makers,Tres Hombres,1530,2015,75%,the Netherlands,3.25,Trinitario,Dominican Republic
+Chocolate Makers,"Congo, Gorilla bar",1530,2015,68%,the Netherlands,3.5,Forastero,Congo
+Chocolate Makers,"Peru, Awagum bar",1530,2015,80%,the Netherlands,3.75,Criollo,Peru
 "Chocolate Tree, The",Maranon,1582,2015,69%,Scotland,3.75,Forastero (Nacional),Peru
 "Chocolate Tree, The",Carenero Superior,1582,2015,80%,Scotland,3.75,Trinitario,Venezuela
 "Chocolate Tree, The",Peru,1121,2013,70%,Scotland,3.75,Forastero (Nacional),Peru
@@ -1109,7 +1109,7 @@ Mesocacao,"La Tronca, Matagalpa",1351,2014,70%,Honduras,3.25, ,Nicaragua
 Mesocacao,"La Tronca, Matagalpa",1351,2014,80%,Honduras,3.5, ,Nicaragua
 Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,70%,Sweden,3, ,Brazil
 Metiisto,Akesson Estate,1267,2014,72%,Sweden,3.5,Trinitario,Madagascar
-Metropolitan,South America,1688,2015,70%,Amsterdam,3.5,Trinitario,South America
+Metropolitan,South America,1688,2015,70%,the Netherlands,3.5,Trinitario,South America
 Michel Cluizel,"Chiapas, Mokaya P.",963,2012,66%,France,3.75, ,Mexico
 Michel Cluizel,"Carenero Superior, Concepcion",117,2007,66%,France,3.5,Trinitario,Venezuela
 Michel Cluizel,Vila Gracinda,135,2007,67%,France,3.5,Forastero,Sao Tome

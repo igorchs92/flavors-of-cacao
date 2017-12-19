@@ -86,7 +86,7 @@ charts.beeswarm = function (chart) {
 
     // set the mean value for each side
     values.forEach(function (side) {
-        side.mean = Math.round(side.total / side.length);
+        side.mean = side.total / side.length;
     });
 
     // set the median value for each side
@@ -277,12 +277,12 @@ charts.beeswarm = function (chart) {
                 //.text(values.left.mean);
                 oMean.append("text")
                     .classed("tiny text-background", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 5] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 3] + ")")
                     .attr("text-anchor", "start")
                     .text("mean");
                 oMean.append("text")
                     .classed("tiny", true)
-                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 5] + ")")
+                    .attr("transform", "translate(" + [-lineHalfWidth + tickWidth + labelMargin, 3] + ")")
                     .attr("text-anchor", "start")
                     .text("mean");
 
