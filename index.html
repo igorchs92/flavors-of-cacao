@@ -139,8 +139,8 @@
 
 
                     charts.beeswarm({
-                        width: 960,
-                        height: 500,
+                        width: 800,
+                        height: 450,
                         data: data,
                         selector: "#data-exploration",
                         y_axis: {
@@ -170,6 +170,11 @@
                     }).draw()
                 }).trigger("change");
 
+            });
+            $("#data-exploration").dblclick(function(event) {
+                var viewer =  event.currentTarget;
+                var rFS = viewer.mozRequestFullScreen || viewer.webkitRequestFullscreen || viewer.requestFullscreen;
+                rFS.call(viewer);
             });
         });
     </script>

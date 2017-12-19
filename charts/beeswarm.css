@@ -1,7 +1,11 @@
-#data-exploration svg {
+#data-exploration {
     border: 1px solid #bbb;
     border-radius: 5px;
-    background-color: transparent;
+    background-color: white;
+}
+
+#data-exploration svg {
+    background-color: white;
 }
 
 #data-exploration text {
@@ -23,7 +27,7 @@
 }
 
 #data-exploration line {
-    animation: fadeInUpBig 300ms;
+    animation: zoomInDown 300ms;
     stroke: lightgrey;
 }
 
@@ -54,7 +58,7 @@
 }
 
 #data-exploration circle {
-    animation: fadeIn 250ms;
+    animation: zoomInDown 250ms;
     fill: transparent;
     stroke: transparent;
 }
