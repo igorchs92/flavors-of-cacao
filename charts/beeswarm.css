@@ -23,7 +23,7 @@
 }
 
 #data-exploration line {
-    animation: zoomInDown 300ms;
+    animation: zoomInDown 350ms;
     stroke: lightgrey;
 }
 
@@ -54,7 +54,7 @@
 }
 
 #data-exploration circle {
-    animation: zoomInDown 250ms;
+    animation: zoomInUp 350ms;
     fill: transparent;
     stroke: transparent;
 }
