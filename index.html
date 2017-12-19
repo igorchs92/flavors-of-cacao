@@ -124,6 +124,7 @@
     <script src="charts/beeswarm.js"></script>
     <script>
         $(document).ready(function () {
+            screen.orientation.lock('landscape');
             $('select:not(.ignore)').niceSelect();
             FastClick.attach(document.body);
             d3.csv("data/flavors-of-cacao.csv", function (error, data) {
