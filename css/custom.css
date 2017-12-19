@@ -95,11 +95,7 @@ svg text::selection {
     position: absolute;
     z-index: 100;
     padding: 15px;
-    box-shadow:0 0 35px 0 rgba(0,0,0,.15);
-}
-
-.test:not(.nohover):hover {
-    border: 1px solid red;
+    box-shadow:0 5px 20px 0 rgba(0,0,0,.2);
 }
 
 #chart-tooltip:after /* triangle decoration */

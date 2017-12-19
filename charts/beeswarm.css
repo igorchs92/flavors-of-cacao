@@ -53,16 +53,22 @@
     stroke: red;
 }
 
+#data-exploration line.left,
+#data-exploration line.right {
+    stroke-dasharray: 4;
+}
+
+
 #data-exploration circle {
     stroke: transparent;
-    fill: #ffffff;
+    fill: #fff;
 }
 
 
 #data-exploration circle.selected {
-    border: #555555 10px;
+    stroke-width: 2px;
 }
 
 #data-exploration .slope {
-    stroke: grey;
+    stroke: #666;
 }
