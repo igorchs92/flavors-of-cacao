@@ -3,9 +3,8 @@
 charts.beeswarm = function (chart) {
 
     // layout configuration
-    var radius = 3.5, // bee radius
+    var radius = 3, // bee radius
         scaleLinear = d3.scaleLinear(), // y axis scaling
-        scalePow = d3.scalePow(), // radius scaling
         values = { // values variable holder
             left: [], // left side values
             right: [], // right side values
@@ -139,8 +138,6 @@ charts.beeswarm = function (chart) {
 
             // set linear scale
             scaleLinear.domain(values.extent).range([drawing.height, 0]);
-            // set bee radius scale
-            scalePow.domain(values.extent).range([0.5, radius]);
 
             function drawAxis(container) {
                 var lineWidth = drawing.width / 2 - 25,
@@ -217,12 +214,9 @@ charts.beeswarm = function (chart) {
                         }
                     });
 
-                //transparent circle, for hover purpose
-                circles.append("circle")
-                    .attr("r", scalePow(radius));
                 //colored, sized, circle
                 circles.append("circle").attr("r", function (d) {
-                    return scalePow(radius);
+                    return radius;
                 }).attr("class", function (d) {
                     return d.datum.cname;
                 }).on("mouseover", function (d) {
@@ -231,7 +225,7 @@ charts.beeswarm = function (chart) {
                         targetNode = $(target),
                         parent = target.parentNode,
                         tooltipNode = $(tooltipElement.node());
-                    target.setAttribute("r",  scalePow(radius + 1));
+                    target.setAttribute("r",  radius + 1);
                     targetNode.addClass("selected");
                     d3.select(parent).moveToFront();
                     tooltipElement.transition()
@@ -246,7 +240,7 @@ charts.beeswarm = function (chart) {
                             target = event.target,
                             targetNode = $(target);
                         targetNode.removeClass("selected");
-                        target.setAttribute("r",  scalePow(radius));
+                        target.setAttribute("r",  radius);
                         tooltipElement.transition()
                             .duration(250)
                             .style("display", "none");
