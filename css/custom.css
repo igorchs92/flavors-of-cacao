@@ -84,6 +84,59 @@ svg text::selection {
     width: 100%;
 }
 
+/* Chart
+------------------------------------------- */
+
+#chart-tooltip {
+    pointer-events:none;
+    text-align: left;
+    color: #000000;
+    background: #ffffff;
+    position: absolute;
+    z-index: 100;
+    padding: 15px;
+    box-shadow:0 0 35px 0 rgba(0,0,0,.15);
+}
+
+.test:not(.nohover):hover {
+    border: 1px solid red;
+}
+
+#chart-tooltip:after /* triangle decoration */
+{
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #ffffff;
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -10px;
+    margin-left: -10px;
+}
+
+#chart-tooltip.top:after
+{
+    border-top-color: transparent;
+    border-bottom: 10px solid #ffffff;
+    top: -20px;
+    bottom: auto;
+}
+
+#chart-tooltip.left:after
+{
+    left: 10px;
+    margin: 0;
+}
+
+#chart-tooltip.right:after
+{
+    right: 10px;
+    left: auto;
+    margin: 0;
+}
+
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {

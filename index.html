@@ -147,6 +147,18 @@
                             title: "rating",
                             select: function (entry) {
                                 return entry.rating;
+                            },
+                            tooltip: function (entry) {
+                                return [
+                                    // companyName,name,ref,reviewDate,cacaoPercentage,companyLocation,rating,beanType,beanOrigin
+                                    {title: "Bar name", value: entry.name},
+                                    {title: "Company name", value: entry.companyName},
+                                    {title: "Company location", value: entry.companyLocation},
+                                    {title: "Review date", value: entry.reviewDate},
+                                    {title: "Cacao percentage", value: entry.cacaoPercentage},
+                                    {title: "Bean type", value: entry.beanType},
+                                    {title: "Bean origin", value: entry.beanOrigin}
+                                ]
                             }
                         },
                         x_axis: {
@@ -171,8 +183,8 @@
                 }).trigger("change");
 
             });
-            $("#data-exploration").dblclick(function(event) {
-                var viewer =  event.currentTarget;
+            $("#data-exploration").dblclick(function (event) {
+                var viewer = event.currentTarget;
                 var rFS = viewer.mozRequestFullScreen || viewer.webkitRequestFullscreen || viewer.requestFullscreen;
                 rFS.call(viewer);
             });

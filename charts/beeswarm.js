@@ -45,7 +45,8 @@ charts.beeswarm = function (chart) {
         side.push({
             cname: side.cname,
             key: key,
-            value: value
+            value: value,
+            original: entry
         });
         side.total += value;
     };
@@ -115,31 +116,25 @@ charts.beeswarm = function (chart) {
                     height: svgHeight - header.height - footer.height - margin.top - margin.bottom
                 },
                 padding = {header: 15, circle: 15, slope: 5},
-                svg = d3.select(chart.selector)
-                    .append("svg")
+                chartElement = d3.select(chart.selector),
+                svgElement = chartElement.append("svg")
                     .attr("viewBox", [0, 0, svgWidth, svgHeight])
                     .attr("preserveAspectRatio", "xMidYMid meet"),
-                tooltip = svg.append("div")
-                    .attr("class", "tooltip")
-                    .style("opacity", 0),
-                drawingArea = svg
-                    .append("g")
+                tooltipElement = d3.select("#chart-tooltip"),
+                drawingGroup = svgElement.append("g")
                     .classed("drawingArea", true)
                     .attr("transform", "translate(" + [margin.left + drawing.width / 2, margin.top] + ")"),
-                graphContainer = drawingArea.append("g")
+                graphGroup = drawingGroup.append("g")
                     .attr("transform", "translate(" + [0, header.height] + ")"),
-                axisContainer = graphContainer
-                    .append("g")
+                axisGroup = graphGroup.append("g")
                     .attr("id", "axis-container"),
-                avgContainer = graphContainer
-                    .append("g")
+                avgGroup = graphGroup.append("g")
                     .attr("id", "average-container"),
-                medianContainer = graphContainer
-                    .append("g")
+                medianGroup = graphGroup.append("g")
                     .attr("id", "median-container"),
-                circleContainer = graphContainer.append("g")
+                circleGroup = graphGroup.append("g")
                     .attr("id", "circle-container"),
-                footerContainer = drawingArea.append("g")
+                footerGroup = drawingGroup.append("g")
                     .attr("id", "footer");
 
             // set linear scale
@@ -150,7 +145,7 @@ charts.beeswarm = function (chart) {
             function drawAxis(container) {
                 var lineWidth = drawing.width / 2 - 25,
                     labelMargin = 5,
-                    ticks = axisContainer.selectAll(".tick")
+                    ticks = axisGroup.selectAll(".tick")
                         .data(d3.range(values.extent[0], values.extent[1] + .00000001, .25))
                         .enter()
                         .append("g")
@@ -207,7 +202,7 @@ charts.beeswarm = function (chart) {
                     right = beeswarm.data(d3.shuffle(values.right)).side("positive").arrange(),
                     bothSides = left.concat(right);
 
-                var circles = circleContainer.selectAll("circle")
+                var circles = circleGroup.selectAll("circle")
                     .data(bothSides)
                     .enter()
                     .append("g")
@@ -227,22 +222,35 @@ charts.beeswarm = function (chart) {
                     .attr("r", radius);
                 //colored, sized, circle
                 circles.append("circle").attr("r", function (d) {
-                    return scalePow(3.75);
+                    return scalePow(4);
                 }).attr("class", function (d) {
                     return d.datum.cname;
                 }).on("mouseover", function (d) {
-                    tooltip.transition()
+                    d3.event.target.setAttribute("r",  scalePow(6));
+                    tooltipElement.transition()
                         .duration(0)
-                        .style("opacity", .9);
-                    tooltip.html("" + d.value)
-                        .style("left", (d3.event.pageX - 30) + "px")
-                        .style("top", (d3.event.pageY - 24) + "px");
+                        .style("display", "");
+                    tooltipElement.html(drawTooltip(d.datum.original))
+                        .style("left", (d3.event.pageX - ($(tooltipElement.node()).outerWidth()) / 2) + "px")
+                        .style("top", (d3.event.pageY - $(tooltipElement.node()).outerHeight() - 20) + "px");
                 })
                     .on("mouseout", function (d) {
-                        tooltip.transition()
+                        d3.event.target.setAttribute("r",  scalePow(4));
+                        tooltipElement.transition()
                             .duration(250)
-                            .style("opacity", 0);
+                            .style("display", "none");
                     });
+            }
+
+            function drawTooltip(entry) {
+                var tooltipInnerHTML = [],
+                    tooltip = chart.y_axis.tooltip(entry);
+                for (var i in tooltip) {
+                    if (!tooltip.hasOwnProperty(i)) continue;
+                    var tooltipInfo = tooltip[i];
+                    tooltipInnerHTML.push("<b>" + tooltipInfo.title + "</b>: " + tooltipInfo.value );
+                }
+                return tooltipInnerHTML.join("<br/>");
             }
 
             function drawMeans() {
@@ -250,7 +258,7 @@ charts.beeswarm = function (chart) {
                     lineHalfWidth = drawing.width / 2 - 25 + tickWidth,
                     labelMargin = 15;
 
-                var oMean = avgContainer.append("g")
+                var oMean = avgGroup.append("g")
                     .attr("id", "left-average")
                     .classed("average", true)
                     .attr("transform", "translate(" + [0, scaleLinear(values.left.mean)] + ")");
@@ -276,7 +284,7 @@ charts.beeswarm = function (chart) {
                     .attr("text-anchor", "start")
                     .text("mean");
 
-                avgContainer.append("line")
+                avgGroup.append("line")
                     .classed("slope", true)
                     .attr("id", "mean-slope")
                     .attr("x1", -space.slope)
@@ -284,7 +292,7 @@ charts.beeswarm = function (chart) {
                     .attr("x2", space.slope)
                     .attr("y2", scaleLinear(values.right.mean));
 
-                var tMean = avgContainer.append("g")
+                var tMean = avgGroup.append("g")
                     .attr("id", "right-average")
                     .classed("average", true)
                     .attr("transform", "translate(" + [0, scaleLinear(values.right.mean)] + ")");
@@ -316,7 +324,7 @@ charts.beeswarm = function (chart) {
                     lineHalfWidth = drawing.width / 2 - 25 + tickWidth,
                     labelMargin = 15;
 
-                var oMedian = medianContainer.append("g")
+                var oMedian = medianGroup.append("g")
                     .attr("id", "left-median")
                     .classed("median", true)
                     .attr("transform", "translate(" + [0, scaleLinear(values.left.median)] + ")");
@@ -342,7 +350,7 @@ charts.beeswarm = function (chart) {
                     .attr("text-anchor", "start")
                     .text("median");
 
-                avgContainer.append("line")
+                avgGroup.append("line")
                     .classed("slope", true)
                     .attr("id", "mean-slope")
                     .attr("x1", -space.slope)
@@ -350,7 +358,7 @@ charts.beeswarm = function (chart) {
                     .attr("x2", space.slope)
                     .attr("y2", scaleLinear(values.right.median));
 
-                var tMedian = medianContainer.append("g")
+                var tMedian = medianGroup.append("g")
                     .attr("id", "right-median")
                     .classed("median", true)
                     .attr("transform", "translate(" + [0, scaleLinear(values.right.median)] + ")");
@@ -378,17 +386,17 @@ charts.beeswarm = function (chart) {
             }
 
             function drawFooter() {
-                footerContainer.append("circle")
+                footerGroup.append("circle")
                     .attr("r", radius).attr("x", 0).attr("y", 15);
-                footerContainer.append("text")
+                footerGroup.append("text")
                     .attr("text-anchor", "start")
                     .text("#MakeoverMonday (2017, week 29) by @_Kcnarf");
-                footerContainer.append("text")
+                footerGroup.append("text")
                     .attr("text-anchor", "end")
                     .text("bl.ocks.org/Kcnarf/4608704a70fc24e2c06ca0116830de47");
             }
 
-            drawAxis(axisContainer);
+            drawAxis(axisGroup);
             drawCircles();
             drawMeans();
             drawMedians();
