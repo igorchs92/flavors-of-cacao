@@ -16,6 +16,7 @@ svg text::selection {
 }
 
 :-webkit-full-screen * {
+    display: block;
     position: fixed;
     max-height: 100%;
     max-width: 100%;
@@ -27,6 +28,7 @@ svg text::selection {
 }
 
 :-moz-full-screen * {
+    display: block;
     position: fixed;
     max-height: 100%;
     max-width: 100%;
@@ -38,6 +40,7 @@ svg text::selection {
 }
 
 :-ms-fullscreen * {
+    display: block;
     position: fixed;
     max-height: 100%;
     max-width: 100%;
@@ -49,6 +52,7 @@ svg text::selection {
 }
 
 :fullscreen * {
+    display: block;
     position: fixed;
     max-height: 100%;
     max-width: 100%;
@@ -60,19 +64,47 @@ svg text::selection {
 }
 
 :-webkit-full-screen {
+    display: block;
+
     width: 100%;
 }
 
 :-moz-full-screen {
+    display: block;
+
     width: 100%;
 }
 
 :-ms-fullscreen {
+    display: block;
+
     width: 100%;
 }
 
 :fullscreen {
+    display: block;
+
     width: 100%;
+}
+
+.full-screen-only {
+    display:none;
+}
+
+.full-screen-only:-webkit-full-screen {
+    display:block;
+}
+
+.full-screen-only:-moz-full-screen {
+    display:block;
+}
+
+.full-screen-only:-ms-fullscreen {
+    display:block;
+}
+
+.full-screen-only:fullscreen {
+    display:block;
 }
 
 /* Chart
