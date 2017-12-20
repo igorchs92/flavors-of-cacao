@@ -1,5 +1,9 @@
 /* Global
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+    padding: 3% 0 3%;
+}
+
 a {
     display: inline-block;
 }
@@ -15,104 +19,34 @@ svg text::selection {
     background: none;
 }
 
-:-webkit-full-screen * {
-    display: block;
-    position: fixed;
-    max-height: 100%;
-    max-width: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-}
-
-:-moz-full-screen * {
-    display: block;
-    position: fixed;
-    max-height: 100%;
-    max-width: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-}
-
-:-ms-fullscreen * {
-    display: block;
-    position: fixed;
-    max-height: 100%;
-    max-width: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-}
-
-:fullscreen * {
-    display: block;
-    position: fixed;
-    max-height: 100%;
-    max-width: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-}
-
-:-webkit-full-screen {
-    display: block;
-
-    width: 100%;
-}
-
-:-moz-full-screen {
-    display: block;
-
-    width: 100%;
-}
-
-:-ms-fullscreen {
-    display: block;
-
-    width: 100%;
-}
-
-:fullscreen {
-    display: block;
-
-    width: 100%;
-}
-
 .full-screen-only {
-    display:none;
-    width:100%;
-    height:100%;
+    display: none;
+    width: 100%;
+    height: 100%;
 }
 
 .full-screen-only:-webkit-full-screen {
-    display:block;
+    display: block;
 }
 
 .full-screen-only:-moz-full-screen {
-    display:block;
+    display: block;
 }
 
 .full-screen-only:-ms-fullscreen {
-    display:block;
+    display: block;
 }
 
 .full-screen-only:fullscreen {
-    display:block;
+    display: block;
 }
 
 /* Chart
 ------------------------------------------- */
 
 #chart-tooltip {
+    max-width: 75%;
+    max-height: 75%;
     animation: zoomInDown 150ms;
     pointer-events: none;
     text-align: left;
@@ -159,12 +93,14 @@ svg text::selection {
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
-    padding: 6rem 0 6rem;
     text-align: left;
 }
 
-.section.splitter {
-    padding: 0 0 0 0;
+.section.split {
+    margin: 3em 0 5em;
+}
+
+.section.split.line {
     border-bottom: 2px dotted #eee;
 }
 
@@ -219,10 +155,6 @@ svg text::selection {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .hero {
     text-align: justify;
-}
-
-.hero.section {
-    padding-top: 3%;
 }
 
 .hero .title {
