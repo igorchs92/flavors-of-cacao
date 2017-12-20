@@ -80,14 +80,14 @@ svg text::selection {
 
 #chart-tooltip {
     animation: zoomInDown 150ms;
-    pointer-events:none;
+    pointer-events: none;
     text-align: left;
     color: #000000;
     background: #ffffff;
     position: absolute;
     z-index: 100;
     padding: 15px;
-    box-shadow:0 5px 20px 0 rgba(0,0,0,.2);
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2);
 }
 
 #chart-tooltip:after /* triangle decoration */
@@ -104,22 +104,19 @@ svg text::selection {
     margin-left: -10px;
 }
 
-#chart-tooltip.top:after
-{
+#chart-tooltip.top:after {
     border-top-color: transparent;
     border-bottom: 10px solid #ffffff;
     top: -20px;
     bottom: auto;
 }
 
-#chart-tooltip.left:after
-{
+#chart-tooltip.left:after {
     left: 10px;
     margin: 0;
 }
 
-#chart-tooltip.right:after
-{
+#chart-tooltip.right:after {
     right: 10px;
     left: auto;
     margin: 0;
@@ -128,16 +125,17 @@ svg text::selection {
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
-    padding: 8rem 0 7rem;
+    padding: 6rem 0 6rem;
     text-align: left;
 }
 
-.section .description p{
-    margin-bottom: 1.5rem;
+.section.splitter {
+    padding: 0 0 0 0;
+    border-bottom: 2px dotted #eee;
 }
 
-.section, .bordered {
-    border-bottom: 2px dotted #eee;
+.section .description p {
+    margin-bottom: 1.5rem;
 }
 
 .section .description .large {
@@ -182,7 +180,6 @@ svg text::selection {
     padding-left: 15px;
     padding-right: 25px;
 }
-
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
