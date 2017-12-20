@@ -41,10 +41,10 @@
         <div class="section hero bordered">
             <div class="row">
                 <div class="column">
-                    <h1 class="hero-title">Flavors of Cacao</h1>
-                    <div class="hero-subtitle">A Data Visualization project</div>
-                    <img class="hero-image" src="images/hero-image.jpg">
-                    <div class="hero-description">
+                    <h1 class="title">Flavors of Cacao</h1>
+                    <div class="subtitle">A Data Visualization project</div>
+                    <img class="image" src="images/hero-image.jpg">
+                    <div class="description">
                         <p class="large">
                             Chocolate is one of the most popular candies in the world.
                             Each year, residents of the United States collectively eat more than 2.8 billions pounds.
@@ -64,10 +64,10 @@
                             <a href="http://flavorsofcacao.com/index.html">Flavors of Cacao - Home</a>.
                         </p>
                     </div>
-                    <a class="button hero-button" href="data/flavors-of-cacao.pdf" target="_top_blank">view the tableau
+                    <a class="button" href="data/flavors-of-cacao.pdf" target="_top_blank">view the tableau
                         charts</a>
-                    <a class="button hero-button" href="#" target="_blank">visit my github repository</a>
-                    <a class="button hero-button" href="https://www.kaggle.com/rtatman/chocolate-bar-ratings"
+                    <a class="button" href="#" target="_blank">visit my github repository</a>
+                    <a class="button" href="https://www.kaggle.com/rtatman/chocolate-bar-ratings"
                        target="_blank">view the dataset on Kaggle</a>
                 </div>
             </div>
@@ -77,38 +77,24 @@
         <div class="section viz01">
             <div class="row">
                 <div class="column">
-                    <h2 class="section-heading">Rating comparison between countries</h2>
-                    <div class="data-exploration-select">Rating comparison between
-                        <select class="small inline select-left">
-                            <option selected>Australia</option>
-                            <option>Belgium</option>
-                            <option>Canada</option>
-                            <option>Ecuador</option>
-                            <option>Denmark</option>
-                            <option>France</option>
-                            <option>Germany</option>
-                            <option>Italy</option>
-                            <option>the Netherlands</option>
-                            <option>Scotland</option>
-                            <option>Switzerland</option>
-                            <option>U.K.</option>
-                            <option>U.S.A.</option>
-                        </select>and
-                        <select class="small inline select-right">
-                            <option>Australia</option>
-                            <option selected>Belgium</option>
-                            <option>Canada</option>
-                            <option>Ecuador</option>
-                            <option>Denmark</option>
-                            <option>France</option>
-                            <option>Germany</option>
-                            <option>Italy</option>
-                            <option>the Netherlands</option>
-                            <option>Scotland</option>
-                            <option>Switzerland</option>
-                            <option>U.K.</option>
-                            <option>U.S.A.</option>
-                        </select>.
+                    <h2 class="title">Rating comparison between countries</h2>
+                    <div class="description">
+                        <p class="medium">
+                            Each chocolate is evaluated from a combination of both objective qualities and subjective
+                            interpretation. A rating here only represents an experience with one bar from one batch.
+                            Batch numbers, vintages and review dates are included in the data when known.
+                        </p>
+                        <p class="small">
+                            The data is narrowly focused on plain dark chocolate with an aim of
+                            appreciating the flavors of the cacao when made into chocolate.<br>
+                            The ratings do not reflect health benefits, social missions, or organic status.
+                        </p>
+                        <p class="data-exploration-select medium">Rating comparison between
+                            <select class="small left-select"></select>
+                            and
+                            <select class="small right-select"></select>
+                            .
+                        </p>
                     </div>
                     <div id="data-exploration"></div>
                 </div>
@@ -123,73 +109,8 @@
     <script src="js/jquery-nice-select/jquery.nice-select.min.js"></script>
     <script src="js/d3/v4.12.0/d3.min.js"></script>
     <script src="js/d3-beeswarm/d3-beeswarm.js"></script>
-    <script src="js/custom.js"></script>
     <script src="charts/charts.js"></script>
     <script src="charts/beeswarm.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('select:not(.ignore)').niceSelect();
-            FastClick.attach(document.body);
-            d3.csv("data/flavors-of-cacao.csv", function (error, data) {
-                $(".data-exploration-select").on('change', function () {
-                    var leftSelect = $(".select-left"),
-                        rightSelect = $(".select-right");
-                    leftSelect.find("option").removeAttr('disabled');
-                    rightSelect.find("option").removeAttr('disabled');
-                    leftSelect.find("option:contains('" + rightSelect.val() + "')").attr("disabled", true);
-                    rightSelect.find("option:contains('" + leftSelect.val() + "')").attr("disabled", true);
-                    leftSelect.niceSelect("update");
-                    rightSelect.niceSelect("update");
-
-
-                    charts.beeswarm({
-                        width: 960,
-                        height: 540,
-                        data: data,
-                        selector: "#data-exploration",
-                        y_axis: {
-                            title: "rating",
-                            select: function (entry) {
-                                return entry.rating;
-                            },
-                            tooltip: function (entry) {
-                                return [
-                                    // companyName,name,ref,reviewDate,cacaoPercentage,companyLocation,rating,beanType,beanOrigin
-                                    {title: "Company", value: entry.companyName},
-                                    {title: "Specific Bean Origin or Bar Name", value: entry.name},
-                                    {title: "Company Location", value: entry.companyLocation},
-                                    {title: "Review Date", value: entry.reviewDate},
-                                    {title: "Cacao Percentage", value: entry.cacaoPercentage},
-                                    {title: "Bean Type", value: entry.beanType},
-                                    {title: "Broad Bean Origin", value: entry.beanOrigin}
-                                ]
-                            }
-                        },
-                        x_axis: {
-                            title: "country",
-                            select: function (entry) {
-                                return entry.companyLocation;
-                            },
-                            left: {
-                                title: leftSelect.val(),
-                                filter: function (key) {
-                                    return key === leftSelect.val()
-                                }
-                            },
-                            right: {
-                                title: rightSelect.val(),
-                                filter: function (key) {
-                                    return key === rightSelect.val()
-                                }
-                            }
-                        }
-                    }).draw()
-                }).trigger("change");
-
-            });
-        });
-    </script>
-
 
     <!-- End Document
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

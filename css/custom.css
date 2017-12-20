@@ -4,15 +4,6 @@ a {
     display: inline-block;
 }
 
-.nice-select, .inline {
-    display: inline;
-    float: none;
-    margin-left: 2px;
-    margin-right: 2px;
-    padding-left: 15px;
-    padding-right: 25px;
-}
-
 svg text {
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -88,6 +79,7 @@ svg text::selection {
 ------------------------------------------- */
 
 #chart-tooltip {
+    animation: zoomInDown 150ms;
     pointer-events:none;
     text-align: left;
     color: #000000;
@@ -140,14 +132,57 @@ svg text::selection {
     text-align: left;
 }
 
-.section-heading,
-.section-description {
-    margin-bottom: 1.2rem;
+.section .description p{
+    margin-bottom: 1.5rem;
 }
 
 .section, .bordered {
     border-bottom: 2px dotted #eee;
 }
+
+.section .description .large {
+    font-size: 16px;
+}
+
+.section .description .medium {
+    font-size: 15px;
+}
+
+.section .description .small {
+    font-size: 14px;
+}
+
+.section .image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    padding-bottom: 2rem;
+}
+
+.section .title {
+    text-align: left;
+}
+
+.section .subtitle {
+    margin-bottom: 2rem;
+    font-size: 20px;
+    color: #666;
+    text-align: left;
+}
+
+.section .button {
+    margin-top: 1rem;
+}
+
+.section .description p .nice-select {
+    display: inline;
+    float: none;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -159,39 +194,8 @@ svg text::selection {
     padding-top: 3%;
 }
 
-.hero-title {
-    text-align: left;
+.hero .title {
     margin-bottom: 0;
-}
-
-.hero-subtitle {
-    margin-bottom: 2rem;
-    font-size: 20px;
-    color: #666;
-    text-align: left;
-}
-
-.hero-description .large {
-    font-size: 16px;
-}
-
-.hero-description .medium {
-    font-size: 15px;
-}
-
-.hero-description .small {
-    font-size: 14px;
-}
-
-.hero-image {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    padding-bottom: 2rem;
-}
-
-.hero-button {
-    margin-top: 1rem;
 }
 
 /* Values
