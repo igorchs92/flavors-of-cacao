@@ -8,5 +8,10 @@ $("body").append(tableauCharts.pdf);
 
 tableauCharts.pdf.view = function () {
     console.log(tableauCharts.pdf);
-    fullscreen.requestFullscreen(tableauCharts.pdf[0]);
+    if (fullscreen.fullscreenEnabled()) {
+        fullscreen.requestFullscreen(tableauCharts.pdf[0]);
+        return false;
+    } else {
+        return true;
+    }
 };
