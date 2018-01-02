@@ -19,25 +19,25 @@ svg text::selection {
     background: none;
 }
 
-.full-screen-only {
+.only.full.screen {
     display: none;
     width: 100%;
     height: 100%;
 }
 
-.full-screen-only:-webkit-full-screen {
+.only.full.screen:-webkit-full-screen {
     display: block;
 }
 
-.full-screen-only:-moz-full-screen {
+.only.full.screen:-moz-full-screen {
     display: block;
 }
 
-.full-screen-only:-ms-fullscreen {
+.only.full.screen:-ms-fullscreen {
     display: block;
 }
 
-.full-screen-only:fullscreen {
+.only.full.screen:fullscreen {
     display: block;
 }
 

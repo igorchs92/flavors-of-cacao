@@ -26,11 +26,13 @@ $(document).ready(function () {
     $('select:not(.ignore)').niceSelect();
 
     FastClick.attach(document.body);
+
     d3.csv("data/flavors-of-cacao.csv", function (error, data) {
         dataExplorationSelect.on('change', function () {
+
             var leftSelect = dataExplorationSelect.selects[0],
                 rightSelect = dataExplorationSelect.selects[1];
-            console.log(leftSelect);
+
             leftSelect.find("option").removeAttr('disabled');
             rightSelect.find("option").removeAttr('disabled');
             leftSelect.find("option:contains('" + rightSelect.val() + "')").attr("disabled", true);
