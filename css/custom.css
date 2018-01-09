@@ -35,8 +35,7 @@ ul.fancy li:before {
 }
 
 .chart {
-    border-top: 1px dashed #bbb;
-    border-bottom: 1px dashed #bbb;
+    border: 1px dashed #bbb;
     margin-bottom: 2rem;
 }
 

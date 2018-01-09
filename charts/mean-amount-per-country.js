@@ -48,7 +48,7 @@ charts.meanAmountPerCountry = function (inputData) {
         autosize: true,
         height: 500,
         showlegend: false,
-        margin: {l: 80, r: 50, b: 65, t: 15, pad: 4},
+        margin: {l: 100, r: 50, b: 65, t: 15, pad: 4},
         xaxis: {
             title: 'Number of ratings',
             autotick: false,
