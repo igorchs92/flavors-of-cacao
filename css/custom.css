@@ -1,11 +1,47 @@
 /* Global
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-    padding: 3% 0 3%;
+    padding: 3% 0 6%;
 }
 
 a {
-    display: inline-block;
+    font-weight: 600;
+    text-decoration-line: none;
+    color: #0074D9;
+}
+
+a:hover {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    color: #005fbe;
+}
+
+li {
+    margin: 0;
+}
+
+ul.fancy {
+    list-style: none;
+    margin-bottom: 1.5rem;;
+}
+
+ul.fancy li:before {
+    margin-left: .5rem;
+    content: "- ";
+}
+
+.bold {
+    font-weight: bold
+}
+
+.chart {
+    border-top: 1px dashed #bbb;
+    border-bottom: 1px dashed #bbb;
+    margin-bottom: 2rem;
+}
+
+.chart.without.border {
+    border: none;
 }
 
 svg text {
@@ -19,25 +55,25 @@ svg text::selection {
     background: none;
 }
 
-.only.full.screen {
+.full.screen.only {
     display: none;
     width: 100%;
     height: 100%;
 }
 
-.only.full.screen:-webkit-full-screen {
+.full.screen.only:-webkit-full-screen {
     display: block;
 }
 
-.only.full.screen:-moz-full-screen {
+.full.screen.only:-moz-full-screen {
     display: block;
 }
 
-.only.full.screen:-ms-fullscreen {
+.full.screen.only:-ms-fullscreen {
     display: block;
 }
 
-.only.full.screen:fullscreen {
+.full.screen.only:fullscreen {
     display: block;
 }
 
@@ -92,12 +128,9 @@ svg text::selection {
 
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.section {
-    text-align: left;
-}
 
 .section.split {
-    margin: 3em 0 5em;
+    margin: .5em 0 3.5em;
 }
 
 .section.split.line {
@@ -108,16 +141,37 @@ svg text::selection {
     margin-bottom: 1.5rem;
 }
 
-.section .description .large {
+.section .description p.large {
     font-size: 16px;
 }
 
-.section .description .medium {
+.section .description p.medium {
     font-size: 15px;
 }
 
-.section .description .small {
+.section .description p.small {
     font-size: 14px;
+}
+
+.section .description .extra.margin {
+    margin-top: 1.5rem;
+}
+
+.section .underline {
+    text-decoration-line: underline;
+    text-decoration-color: #aaa;
+}
+
+.section .underline.dashed {
+    text-decoration-style: dashed;
+}
+
+.section .underline.dotted {
+    text-decoration-style: dotted;
+}
+
+.section .underline.wavy {
+    text-decoration-style: wavy;
 }
 
 .section .image {
@@ -127,20 +181,17 @@ svg text::selection {
     padding-bottom: 2rem;
 }
 
-.section .title {
-    text-align: left;
-}
-
 .section .subtitle {
     margin-bottom: 2rem;
     font-size: 20px;
     color: #666;
-    text-align: left;
 }
 
 .section .button {
     margin-top: 1rem;
+    letter-spacing: .02rem;
 }
+
 
 .section .description p .nice-select {
     display: inline;
@@ -153,11 +204,8 @@ svg text::selection {
 
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.hero {
-    text-align: justify;
-}
 
-.hero .title {
+.intro.section .title {
     margin-bottom: 0;
 }
 

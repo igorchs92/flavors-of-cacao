@@ -11,7 +11,7 @@ d3.select("body").append("div").attr("id", "chart-tooltip").style("display", "no
 
 $(document).ready(function () {
     var dataExplorationSelect = $(".data-exploration-select"),
-        optionValues = ["Australia", "Belgium", "Canada", "Ecuador", "Denmark", "France", "Germany", "Italy", "the Netherlands", "Scotland", "Switzerland", "U.K.", "U.S.A."];
+        optionValues = ["Australia", "Belgium", "Canada", "Columbia", "Ecuador", "France", "Germany", "Hungary", "Italy", "the Netherlands", "Scotland", "Spain", "Switzerland", "U.K.", "U.S.A."];
     dataExplorationSelect.selects = [dataExplorationSelect.find(".left-select"), dataExplorationSelect.find(".right-select")];
 
 
@@ -28,6 +28,8 @@ $(document).ready(function () {
     FastClick.attach(document.body);
 
     d3.csv("data/flavors-of-cacao.csv", function (error, data) {
+        charts.meanAmountPerCountry(data);
+        charts.boxPlotRatingPerYear(data);
         dataExplorationSelect.on('change', function () {
 
             var leftSelect = dataExplorationSelect.selects[0],

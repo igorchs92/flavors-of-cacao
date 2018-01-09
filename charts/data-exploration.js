@@ -106,7 +106,7 @@ charts.beeswarm = function (chart) {
 
             var svgWidth = chart.width,
                 svgHeight = chart.height,
-                margin = {top: 10, right: 10, bottom: 10, left: 10},
+                margin = {top: 10, right: 25, bottom: 10, left: 25},
                 space = {header: 15, circle: 15, slope: 5},
                 header = {height: 50, width: 10},
                 footer = {height: 25, width: 10},

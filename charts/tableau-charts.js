@@ -1,21 +1,30 @@
 tableauCharts = {};
 tableauCharts.pdf = {};
+tableauCharts.pdf.object = undefined;
+tableauCharts.pdf.appended = false;
 tableauCharts.pdf.fault = false;
 
-tableauCharts.pdf = $("<object class='only full screen'/>")
-    .attr("data", "data/flavors-of-cacao.pdf")
-    .attr("type", "application/pdf")
-    .on('error', function(event) {
-        console.log(event);
-        tableauCharts.pdf.fault = true;
-    });
-
-$("body").append(tableauCharts.pdf);
-
 tableauCharts.pdf.view = function () {
-    if (!tableauCharts.pdf.fault && fullscreen.fullscreenEnabled()) {
-        fullscreen.requestFullscreen(tableauCharts.pdf[0]);
-        return false;
+    if (fullscreen.fullscreenEnabled()) {
+        if (!tableauCharts.pdf.appended) {
+            tableauCharts.pdf.object = $("<object class=\"full screen only\"/>")
+                .attr("data", "data/flavors-of-cacao.pdf")
+                .attr("type", "application/pdf")
+                .on('error', function (event) {
+                    console.log(event);
+                    tableauCharts.pdf.fault = true;
+                });
+            if (!tableauCharts.pdf.fault) {
+                $("body").append(tableauCharts.pdf.object);
+            }
+            tableauCharts.pdf.appended = true;
+        }
+        if (!tableauCharts.pdf.fault) {
+            fullscreen.requestFullscreen(tableauCharts.pdf.object[0]);
+            return false;
+        } else {
+            return true;
+        }
     } else {
         return true;
     }
