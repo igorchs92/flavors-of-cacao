@@ -91,8 +91,8 @@ charts.boxPlotRatingPerYear = function (inputData) {
             dtick: 1
         }
     }, layout);
-    window.onresize = function() {
+    $(window).on('resize', function() {
         Plotly.Plots.resize(node);
-    };
+    });
 };
 

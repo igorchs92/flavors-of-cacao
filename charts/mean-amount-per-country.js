@@ -55,9 +55,8 @@ charts.meanAmountPerCountry = function (inputData) {
             dtick: 50
         }
     }, {staticPlot: true});
-
-    window.onresize = function() {
+    $(window).on('resize', function() {
         Plotly.Plots.resize(node);
-    };
+    });
 };
 
